@@ -13,7 +13,7 @@ from collections import defaultdict
 ARPA_FILE = 'log.arpa'
 PROCESSED_CORPUS_FILE = '清理后.txt'
 SEGMENTED_FILE = '分词后.txt'
-MERGED_FILE = 'merge_2_3.txt'
+merged_file = 'merge1_2_3.txt'
 language = 'zh-hans'
 custom_name = 'amz-v1n3'
 RAW_CORPUS_DIR = '语料输入'
@@ -132,7 +132,7 @@ def generate_arpa(segmented_file, arpa_file, ngram_order=3):
             f"--arpa {arpa_file} "
             f"-T {tmp_dir} "
             f"-S 4G "   # 分配 4G 内存用于排序（根据需要调整）
-            f"--prune 0 6 50"    #枝剪系数，分别代表1-4级需要过滤调的低于多少得词频1级不过滤，所以2、3、4分别过滤到词频低于1、2、3的数据
+            f"--prune 0 20 100"    #枝剪系数，分别代表1-4级需要过滤调的低于多少得词频1级不过滤，所以2、3、4分别过滤到词频低于1、2、3的数据
         )
 
         print(f"执行命令：{cmd}")
@@ -294,7 +294,7 @@ def merge_ngram_files(file_list, output_file, batch_size=20000):
 # ========== 生成 .gram 文件 ==========
 def generate_gram_file(merged_file, language="zh-hans", custom_name="custom_gram"):
     # 生成带语言和自定义名称的 .gram 文件
-    cmd = f"cat {merged_file} | ./build_grammar --language {language} > {custom_name}_{language}.gram"
+    cmd = f"cat {merged_file} | ./build_grammar {language} > {custom_name}_{language}.gram"
     exit_code = os.system(cmd)
     if exit_code != 0:
         raise RuntimeError(f"生成 .gram 文件失败，退出代码: {exit_code}")
@@ -302,7 +302,7 @@ def generate_gram_file(merged_file, language="zh-hans", custom_name="custom_gram
 
 # ========== 主函数 ==========
 def main(use_existing_segmentation=False, ngram_order=3):
-    """主程序：处理语料和 n-gram 数据。
+    """主程序：处理语料和 n-gram 数据。    """
     print("开始预处理语料...")
     preprocess_corpus([RAW_CORPUS_DIR], PROCESSED_CORPUS_FILE)
 
@@ -310,7 +310,7 @@ def main(use_existing_segmentation=False, ngram_order=3):
         print("开始分词处理...")
         segment_corpus(PROCESSED_CORPUS_FILE, SEGMENTED_FILE)
 
-    """
+
     print("生成 ARPA 文件...")
     generate_arpa(SEGMENTED_FILE, ARPA_FILE, ngram_order)
 
@@ -322,10 +322,10 @@ def main(use_existing_segmentation=False, ngram_order=3):
     write_frequencies_to_file(ngrams_counts, ARPA_FILE, NGRAM_FILE_TEMPLATE)
 
     print("合并 n-gram 文件...")
-    merge_ngram_files(NGRAM_FILES, MERGED_FILE)
+    merge_ngram_files(NGRAM_FILES, merged_file)
 
     print("生成 .gram 文件...")
-    generate_gram_file(MERGED_FILE, GRAM_FILE)
+    generate_gram_file(merged_file)
 
     print("所有任务完成。")
 
