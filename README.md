@@ -7,14 +7,15 @@
 
 [使用及构建教程详见：](https://github.com/amzxyz/rime-build-grammar-word-frequency/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9ARime-%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B)
 
-[模型及词库下载地址：](https://pan.baidu.com/s/1IjQpF80htJYwOnT9KNgHUg?pwd=rime)
+[大模型下载地址：](https://pan.baidu.com/s/1IjQpF80htJYwOnT9KNgHUg?pwd=rime)
 
-文件版本对应说明：v是版本号，n是模型级别，m是百兆尺寸
+模型文件版本说明：v是版本号，n是模型级别，m是百兆尺寸
 |文件大小|2级模型|3级模型|
 |------|------|------|
 |100M|v1n2m1|v1n3m1|
 |300M|v1n2m3|v1n3m3|
 |500M|v1n2m5|v1n3m5|
+词库文件对应说明：keywords 是高频常用字表，basic 是cjk基本区+keywords，large 是大字集包含cjk基本区、扩展G区和康熙部首区，依次递增呈包含关系。在与词组词典一起配置合并词库时可以有有效区分
 
 数据来源与语料构建
 我们从多个数据源精心采集了22GB的中文文本语料库，包括但不限于：
