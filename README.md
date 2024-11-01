@@ -5,9 +5,7 @@
 - 同时项目中维护的单字拼音词典涵盖cjk基本区到扩展G区以及康熙部首区，基于汉典基础上手动维护更多读音，可能是单文本词库中比较全面的；
 - 项目中的rime词库是全部带声调的，所有的词频是基于词组和拼音双键统计的，区别了如："那里 哪里" 这种类似场景下对于单字的词频，而不是全部归并到na的拼音下。同时单字词频也是在词组语句中加上拼音最后拆解为单字及其对应拼音的组合，因此单字词频也是区分多音字的。 如何迁移到你的方案？[点击迁移](https://github.com/amzxyz/rime_grammar_model_dicts/wiki/%E5%B0%86%E9%A3%9E%E5%A3%B0%E8%AF%8D%E5%BA%93%E7%94%A8%E4%BA%8E%E4%BD%A0%E7%9A%84%E9%A1%B9%E7%9B%AE)
 
-[使用及构建教程详见：](https://github.com/amzxyz/rime-build-grammar-word-frequency/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9ARime-%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B)
-
-[模型下载：](https://github.com/amzxyz/RIME-LMDG/releases)
+[使用及构建教程详见：](https://github.com/amzxyz/rime-build-grammar-word-frequency/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9ARime-%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B) [模型下载：](https://github.com/amzxyz/RIME-LMDG/releases)
 
 - 模型文件版本说明：v是版本号，n是模型级别，m是百兆尺寸
   
