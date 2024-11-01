@@ -7,7 +7,7 @@
 
 [使用及构建教程详见：](https://github.com/amzxyz/rime-build-grammar-word-frequency/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%EF%BC%9ARime-%E8%BE%93%E5%85%A5%E6%B3%95%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B)
 
-[大模型下载地址：](https://pan.baidu.com/s/1IjQpF80htJYwOnT9KNgHUg?pwd=rime)
+[模型下载：](https://github.com/amzxyz/RIME-LMDG/releases)
 
 - 模型文件版本说明：v是版本号，n是模型级别，m是百兆尺寸
   
