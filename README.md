@@ -10,6 +10,7 @@
 [大模型下载地址：](https://pan.baidu.com/s/1IjQpF80htJYwOnT9KNgHUg?pwd=rime)
 
 - 模型文件版本说明：v是版本号，n是模型级别，m是百兆尺寸
+  
 |文件大小|2级模型|3级模型|
 |------|------|------|
 |100M|v1n2m1|v1n3m1|
