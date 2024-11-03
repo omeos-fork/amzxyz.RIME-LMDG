@@ -17,6 +17,8 @@
 
 - 词库文件对应说明：
 
+ 示例项目：[声飞自然-随意码](https://github.com/amzxyz/rime-sf-zrm)     [万象拼音-多维辅助码与任意拼音方案的组合音形项目](https://github.com/amzxyz/rime_wanxiang_pinyin)    [声飞万象-全拼双拼基础版](https://github.com/amzxyz/rime_airtone)   
+
 | 词库类型 | 文件名称     | 描述                   |
 |----------|--------------|------------------------|
 | 高频单字表   | `base.dict`  | 包含高频词汇和日常用到的一些生僻字，如𰻝𰻝面，不记多音约8000多字|
