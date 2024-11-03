@@ -17,7 +17,7 @@
 
 - 词库文件对应说明：
 
- 示例项目：[声飞自然-随意码](https://github.com/amzxyz/rime-sf-zrm)   |  [万象拼音-多维辅助码与任意拼音方案的组合音形项目](https://github.com/amzxyz/rime_wanxiang_pinyin)  |  [声飞万象-全拼双拼基础版](https://github.com/amzxyz/rime_airtone)   
+ 示例项目：[声飞自然-随意码](https://github.com/amzxyz/rime-sf-zrm)   |  [声飞万象增强版-多维辅助码与任意拼音方案的组合音形项目](https://github.com/amzxyz/rime_wanxiang_pinyin)  |  [声飞万象基础版-全拼双拼无辅助码版本](https://github.com/amzxyz/rime_airtone)   
 
 | 词库类型 | 文件名称     | 描述                   |
 |----------|--------------|------------------------|
