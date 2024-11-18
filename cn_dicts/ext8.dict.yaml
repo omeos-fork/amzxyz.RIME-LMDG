@@ -1,0 +1,465 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+# ------- 扩展词库8-------
+---
+name: ext8
+version: "2024-11-11"
+sort: by_weight
+...
+联合国教科文组织	lián hé guó jiào kē wén zǔ zhī	816
+新疆生产建设兵团	xīn jiāng shēng chǎn jiàn shè bīng tuán	813
+国际货币基金组织	guó jì huò bì jī jīn zǔ zhī	792
+新疆维吾尔自治区	xīn jiāng wéi wú ěr zì zhì qū	762
+酒泉卫星发射中心	jiǔ quán wèi xīng fā shè zhōng xīn	747
+全国人民代表大会	quán guó rén mín dài biǎo dà huì	734
+北京航空航天大学	běi jīng háng kōng háng tiān dà xué	713
+对外经济贸易大学	duì wài jīng jì mào yì dà xué	700
+国务院新闻办公室	guó wù yuàn xīn wén bàn gōng shì	692
+世界反法西斯战争	shì jiè fǎn fǎ xī sī zhàn zhēng	684
+中国外汇交易中心	zhōng guó wài huì jiāo yì zhōng xīn	679
+中南财经政法大学	zhōng nán cái jīng zhèng fǎ dà xué	678
+中央人民广播电台	zhōng yāng rén mín guǎng bō diàn tái	674
+中国国际广播电台	zhōng guó guó jì guǎng bō diàn tái	672
+密克罗尼西亚联邦	mì kè luó ní xī yà lián bāng	665
+中国汽车工业协会	zhōng guó qì chē gōng yè xié huì	662
+中国航天科技集团	zhōng guó háng tiān kē jì jí tuán	656
+国务院学位委员会	guó wù yuàn xué wèi wěi yuán huì	653
+西北农林科技大学	xī běi nóng lín kē jì dà xué	653
+西安电子科技大学	xī ān diàn zi kē jì dà xué	649
+中国投资有限公司	zhōng guó tóu zī yǒu xiàn gōng sī	647
+西昌卫星发射中心	xī chāng wèi xīng fā shè zhōng xīn	642
+国家中医药管理局	guó jiā zhōng yī yào guǎn lǐ jú	639
+南京航空航天大学	nán jīng háng kōng háng tiān dà xué	631
+迅雷不及掩耳之势	xùn léi bù jí yǎn ěr zhī shì	625
+国家自然科学基金	guó jiā zì rán kē xué jī jīn	620
+联合国安全理事会	lián hé guó ān quán lǐ shì huì	615
+巧妇难为无米之炊	qiǎo fù nán wéi wú mǐ zhī chuī	614
+美国麻省理工学院	měi guó má shěng lǐ gōng xué yuàn	612
+联合国开发计划署	lián hé guó kāi fā jì huà shǔ	610
+广东外语外贸大学	guǎng dōng wài yǔ wài mào dà xué	610
+上海浦东发展银行	shàng hǎi pǔ dōng fā zhǎn yín háng	609
+重庆江北国际机场	chóng qìng jiāng běi guó jì jī chǎng	609
+布宜诺斯艾利斯省	bù yí nuò sī ài lì sī shěng	606
+世界知识产权组织	shì jiè zhī shí chǎn quán zǔ zhī	600
+美国全国广播公司	měi guó quán guó guǎng bō gōng sī	597
+远东国际军事法庭	yuǎn dōng guó jì jūn shì fǎ tíng	596
+清华大学美术学院	qīng huá dà xué měi shù xué yuàn	595
+联合国儿童基金会	lián hé guó ér tóng jī jīn huì	591
+中欧国际工商学院	zhōng ōu guó jì gōng shāng xué yuàn	590
+北京大学人民医院	běi jīng dà xué rén mín yī yuàn	589
+多一事不如少一事	duō yī shì bù rú shǎo yī shì	589
+太原卫星发射中心	tài yuán wèi xīng fā shè zhōng xīn	588
+阿拉伯联合酋长国	ā lā bó lián hé qiú zhǎng guó	587
+北京大学第三医院	běi jīng dà xué dì sān yī yuàn	587
+美国哥伦比亚大学	měi guó gē lún bǐ yà dà xué	587
+中国青年政治学院	zhōng guó qīng nián zhèng zhì xué yuàn	581
+延边朝鲜族自治州	yán biān cháo xiǎn zú zì zhì zhōu	580
+中国国际展览中心	zhōng guó guó jì zhǎn lǎn zhōng xīn	577
+八仙过海各显神通	bā xiān guò hǎi gè xiǎn shén tōng	575
+世界大学生运动会	shì jiè dà xué shēng yùn dòng huì	574
+青出于蓝而胜于蓝	qīng chū yú lán ér shèng yú lán	571
+北京大学第一医院	běi jīng dà xué dì yī yī yuàn	568
+德国汉莎航空公司	dé guó hàn shā háng kōng gōng sī	568
+安理会常任理事国	ān lǐ huì cháng rèn lǐ shì guó	564
+一方水土养一方人	yī fāng shuǐ tǔ yǎng yī fāng rén	563
+中国电影集团公司	zhōng guó diàn yǐng jí tuán gōng sī	562
+百尺竿头更进一步	bǎi chǐ gān tóu gèng jìn yī bù	561
+广州白云国际机场	guǎng zhōu bái yún guó jì jī chǎng	561
+华为技术有限公司	huá wèi jì shù yǒu xiàn gōng sī	561
+美国电话电报公司	měi guó diàn huà diàn bào gōng sī	558
+北京钓鱼台国宾馆	běi jīng diào yú tái guó bīn guǎn	556
+中国移动通信集团	zhōng guó yí dòng tōng xìn jí tuán	555
+中国科学技术协会	zhōng guó kē xué jì shù xié huì	554
+中国电子商务协会	zhōng guó diàn zi shāng wù xié huì	549
+抗日民族统一战线	kàng rì mín zú tǒng yī zhàn xiàn	549
+劳动和社会保障部	láo dòng hé shè huì bǎo zhàng bù	548
+特立尼达和多巴哥	tè lì ní dá hé duō bā gē	547
+陆家嘴金融贸易区	lù jiā zuǐ jīn róng mào yì qū	547
+中国兵器工业集团	zhōng guó bīng qì gōng yè jí tuán	547
+联合国环境规划署	lián hé guó huán jìng guī huà shǔ	544
+中国国际航空公司	zhōng guó guó jì háng kōng gōng sī	538
+中华苏维埃共和国	zhōng huá sū wéi āi gòng hé guó	535
+上海浦东国际机场	shàng hǎi pǔ dōng guó jì jī chǎng	531
+中央工艺美术学院	zhōng yāng gōng yì měi shù xué yuàn	531
+幼吾幼以及人之幼	yòu wú yòu yǐ jí rén zhī yòu	531
+国家开发投资公司	guó jiā kāi fā tóu zī gōng sī	530
+伊犁哈萨克自治州	yī lí hā sà kè zì zhì zhōu	529
+中国天主教主教团	zhōng guó tiān zhǔ jiào zhǔ jiào tuán	525
+中国红十字会总会	zhōng guó hóng shí zì huì zǒng huì	520
+全国五一劳动奖章	quán guó wǔ yī láo dòng jiǎng zhāng	519
+长阳土家族自治县	zhǎng yáng tǔ jiā zú zì zhì xiàn	517
+燕雀安知鸿鹄之志	yàn què ān zhī hóng hú zhī zhì	516
+欧洲核子研究中心	ōu zhōu hé zǐ yán jiū zhōng xīn	514
+国际海事卫星组织	guó jì hǎi shì wèi xīng zǔ zhī	513
+加拿大多伦多大学	jiā ná dà duō lún duō dà xué	512
+英国曼彻斯特大学	yīng guó màn chè sī tè dà xué	511
+美国普林斯顿大学	měi guó pǔ lín sī dùn dà xué	507
+武汉职业技术学院	wǔ hàn zhí yè jì shù xué yuàn	506
+中国海军舰艇编队	zhōng guó hǎi jūn jiàn tǐng biān duì	505
+国防科学技术大学	guó fáng kē xué jì shù dà xué	503
+美国加州理工学院	měi guó jiā zhōu lǐ gōng xué yuàn	503
+国际共产主义运动	guó jì gòng chǎn zhǔ yì yùn dòng	502
+北京人民艺术剧院	běi jīng rén mín yì shù jù yuàn	502
+美国伊利诺伊大学	měi guó yī lì nuò yī dà xué	498
+中国国际贸易中心	zhōng guó guó jì mào yì zhōng xīn	497
+东湖新技术开发区	dōng hú xīn jì shù kāi fā qū	497
+雅鲁藏布江大峡谷	yǎ lǔ zàng bù jiāng dà xiá gǔ	497
+俄罗斯太平洋舰队	é luó sī tài píng yáng jiàn duì	495
+美国明尼苏达大学	měi guó míng ní sū dá dà xué	494
+中国残疾人联合会	zhōng guó cán jí rén lián hé huì	494
+穷人的孩子早当家	qióng rén de hái zi zǎo dāng jiā	492
+中国食品工业协会	zhōng guó shí pǐn gōng yè xié huì	492
+上海光大会展中心	shàng hǎi guāng dà huì zhǎn zhōng xīn	490
+国家环境保护总局	guó jiā huán jìng bǎo hù zǒng jú	489
+五峰土家族自治县	wǔ fēng tǔ jiā zú zì zhì xiàn	488
+纽约联邦储备银行	niǔ yuē lián bāng chǔ bèi yín háng	487
+圣多美和普林西比	shèng duō měi hé pǔ lín xī bǐ	485
+中国人民银行总行	zhōng guó rén mín yín háng zǒng xíng	483
+美利坚合众国政府	měi lì jiān hé zhòng guó zhèng fǔ	481
+红十字国际委员会	hóng shí zì guó jì wěi yuán huì	481
+切尔诺贝利核电站	qiè ěr nuò bèi lì hé diàn zhàn	480
+北京人民广播电台	běi jīng rén mín guǎng bō diàn tái	478
+北大西洋公约组织	běi dà xī yáng gōng yuē zǔ zhī	478
+布宜诺斯艾利斯市	bù yí nuò sī ài lì sī shì	476
+德意志联邦共和国	dé yì zhì lián bāng gòng hé guó	476
+山东工艺美术学院	shān dōng gōng yì měi shù xué yuàn	476
+中国人民保险公司	zhōng guó rén mín bǎo xiǎn gōng sī	475
+澳大利亚广播公司	ào dà lì yà guǎng bō gōng sī	473
+人民武装警察部队	rén mín wǔ zhuāng jǐng chá bù duì	472
+芝加哥商品交易所	zhī jiā gē shāng pǐn jiāo yì suǒ	471
+怒江傈僳族自治州	nù jiāng lì sù zú zì zhì zhōu	471
+中国南方航空公司	zhōng guó nán fāng háng kōng gōng sī	471
+癞蛤蟆想吃天鹅肉	lài há má xiǎng chī tiān é ròu	470
+世界图书出版公司	shì jiè tú shū chū bǎn gōng sī	470
+国家杰出青年基金	guó jiā jié chū qīng nián jī jīn	468
+中央社会主义学院	zhōng yāng shè huì zhǔ yì xué yuàn	468
+北美自由贸易协定	běi měi zì yóu mào yì xié dìng	466
+中国家用电器协会	zhōng guó jiā yòng diàn qì xié huì	466
+清华大学建筑学院	qīng huá dà xué jiàn zhù xué yuàn	460
+人大常委会法工委	rén dà cháng wěi huì fǎ gōng wěi	460
+西安卫星测控中心	xī ān wèi xīng cè kòng zhōng xīn	460
+中华全国体育总会	zhōng huá quán guó tǐ yù zǒng huì	459
+美国威斯康星大学	měi guó wēi sī kāng xīng dà xué	458
+兵器装备集团公司	bīng qì zhuāng bèi jí tuán gōng sī	457
+北京大学社会学系	běi jīng dà xué shè huì xué xì	455
+塔克拉玛干大沙漠	tǎ kè lā mǎ gàn dà shā mò	454
+兵器工业集团公司	bīng qì gōng yè jí tuán gōng sī	454
+中国协和医科大学	zhōng guó xié hé yī kē dà xué	451
+中国国家体育总局	zhōng guó guó jiā tǐ yù zǒng jú	451
+伊朗伊斯兰共和国	yī lǎng yī sī lán gòng hé guó	451
+联合国经社理事会	lián hé guó jīng shè lǐ shì huì	449
+二十一世纪出版社	èr shí yí shì jì chū bǎn shè	449
+国际天文学联合会	guó jì tiān wén xué lián hé huì	449
+上海第二医科大学	shàng hǎi dì èr yī kē dà xué	448
+韩国三星电子公司	hán guó sān xīng diàn zi gōng sī	448
+印度尼西亚共和国	yìn dù ní xī yà gòng hé guó	447
+海峡两岸关系协会	hǎi xiá liǎng àn guān xì xié huì	446
+循化撒拉族自治县	xún huà sā lā zú zì zhì xiàn	445
+中央音乐学院附中	zhōng yāng yīn yuè xué yuàn fù zhōng	444
+克拉斯诺亚尔斯克	kè lā sī nuò yà ěr sī kè	444
+阜新蒙古族自治县	fù xīn měng gǔ zú zì zhì xiàn	444
+中国石油化工集团	zhōng guó shí yóu huà gōng jí tuán	444
+哈萨克斯坦共和国	hā sà kè sī tǎn gòng hé guó	442
+老鼠的儿子会打洞	lǎo shǔ de ér zi huì dǎ dòng	442
+德意志民主共和国	dé yì zhì mín zhǔ gòng hé guó	442
+北京市人大常委会	běi jīng shì rén dà cháng wěi huì	441
+成都电子科技大学	chéng dū diàn zi kē jì dà xué	439
+美国通用汽车公司	měi guó tōng yòng qì chē gōng sī	439
+美国纽约州立大学	měi guó niǔ yuē zhōu lì dà xué	438
+中国东方航空公司	zhōng guó dōng fāng háng kōng gōng sī	438
+中央政治局常委会	zhōng yāng zhèng zhì jú cháng wěi huì	435
+美国通用电气公司	měi guó tōng yòng diàn qì gōng sī	433
+孟加拉人民共和国	mèng jiā lā rén mín gòng hé guó	432
+深圳市人大常委会	shēn zhèn shì rén dà cháng wěi huì	432
+肃南裕固族自治县	sù nán yù gù zú zì zhì xiàn	432
+澳大利亚联邦政府	ào dà lì yà lián bāng zhèng fǔ	431
+南京国际展览中心	nán jīng guó jì zhǎn lǎn zhōng xīn	431
+国际奥委会执委会	guó jì ào wěi huì zhí wěi huì	429
+无线电管理委员会	wú xiàn diàn guǎn lǐ wěi yuán huì	427
+海军航空工程学院	hǎi jūn háng kōng gōng chéng xué yuàn	427
+美国联合航空公司	měi guó lián hé háng kōng gōng sī	425
+阿拉伯埃及共和国	ā lā bó āi jí gòng hé guó	424
+美国亚利桑那大学	měi guó yà lì sāng nà dà xué	424
+南京五台山体育馆	nán jīng wǔ tái shān tǐ yù guǎn	423
+张家川回族自治县	zhāng jiā chuān huí zú zì zhì xiàn	423
+中央广播电视大学	zhōng yāng guǎng bō diàn shì dà xué	420
+中国环境科学学会	zhōng guó huán jìng kē xué xué huì	420
+河南蒙古族自治县	hé nán měng gǔ zú zì zhì xiàn	420
+新加坡人民行动党	xīn jiā pō rén mín xíng dòng dǎng	419
+南加利福尼亚大学	nán jiā lì fú ní yà dà xué	419
+中国北方工业公司	zhōng guó běi fāng gōng yè gōng sī	417
+中国新闻摄影学会	zhōng guó xīn wén shè yǐng xué huì	417
+法兰西第五共和国	fǎ lán xī dì wǔ gòng hé guó	415
+长白朝鲜族自治县	zhǎng bái cháo xiǎn zú zì zhì xiàn	415
+第一第二第三第四	dì yī dì èr dì sān dì sì	413
+亚太经济合作组织	yà tài jīng jì hé zuò zǔ zhī	410
+北京市社会科学院	běi jīng shì shè huì kē xué yuàn	410
+天知地知你知我知	tiān zhī dì zhī nǐ zhī wǒ zhī	409
+中国民用航空总局	zhōng guó mín yòng háng kōng zǒng jú	406
+鄂豫皖革命根据地	è yù wǎn gé mìng gēn jù dì	405
+古尔班通古特沙漠	gǔ ěr bān tōng gǔ tè shā mò	405
+中国儿童艺术剧院	zhōng guó ér tóng yì shù jù yuàn	404
+环江毛南族自治县	huán jiāng máo nán zú zì zhì xiàn	404
+中国驻埃及大使馆	zhōng guó zhù āi jí dà shǐ guǎn	403
+农业与农村委员会	nóng yè yǔ nóng cūn wěi yuán huì	400
+国务院外事办公室	guó wù yuàn wài shì bàn gōng shì	400
+上海市人大常委会	shàng hǎi shì rén dà cháng wěi huì	399
+维西傈僳族自治县	wéi xī lì sù zú zì zhì xiàn	399
+石柱土家族自治县	shí zhù tǔ jiā zú zì zhì xiàn	397
+国际商业机器公司	guó jì shāng yè jī qì gōng sī	397
+罗城仫佬族自治县	luó chéng mù lǎo zú zì zhì xiàn	395
+澜沧拉祜族自治县	lán cāng lā hù zú zì zhì xiàn	393
+中国内蒙古自治区	zhōng guó nèi méng gǔ zì zhì qū	391
+美国福特汽车公司	měi guó fú tè qì chē gōng sī	390
+天安门国旗护卫队	tiān ān mén guó qí hù wèi duì	386
+中国青年艺术剧院	zhōng guó qīng nián yì shù jù yuàn	383
+中国康复研究中心	zhōng guó kāng fù yán jiū zhōng xīn	381
+延安鲁迅艺术学院	yán ān lǔ xùn yì shù xué yuàn	381
+华盛顿国家动物园	huá shèng dùn guó jiā dòng wù yuán	380
+上海对外贸易学院	shàng hǎi duì wài mào yì xué yuàn	379
+俄罗斯国家图书馆	é luó sī guó jiā tú shū guǎn	379
+信达资产管理公司	xìn dá zī chǎn guǎn lǐ gōng sī	378
+中国人民外交学会	zhōng guó rén mín wài jiāo xué huì	378
+国际商用机器公司	guó jì shāng yòng jī qì gōng sī	378
+中国东方电气集团	zhōng guó dōng fāng diàn qì jí tuán	377
+北京大学附属中学	běi jīng dà xué fù shǔ zhōng xué	377
+台湾民主自治同盟	tái wān mín zhǔ zì zhì tóng méng	376
+三聚氰胺甲醛树脂	sān jù qíng àn jiǎ quán shù zhī	376
+北京城乡贸易中心	běi jīng chéng xiāng mào yì zhōng xīn	375
+内蒙古人民出版社	nèi méng gǔ rén mín chū bǎn shè	373
+德国大众汽车集团	dé guó dà zhòng qì chē jí tuán	373
+解放日报报业集团	jiě fàng rì bào bào yè jí tuán	373
+俄罗斯联邦委员会	é luó sī lián bāng wěi yuán huì	372
+维也纳国家歌剧院	wéi yě nà guó jiā gē jù yuàn	372
+肃北蒙古族自治县	sù běi měng gǔ zú zì zhì xiàn	372
+德国大众汽车公司	dé guó dà zhòng qì chē gōng sī	371
+国民党中央委员会	guó mín dǎng zhōng yāng wěi yuán huì	370
+中国伊斯兰教协会	zhōng guó yī sī lán jiào xié huì	369
+西藏自治区旅游局	xī zàng zì zhì qū lǚ yóu jú	369
+美国电报电话公司	měi guó diàn bào diàn huà gōng sī	363
+教育部高校学生司	jiào yù bù gāo xiào xué shēng sī	363
+中国男子乒乓球队	zhōng guó nán zi pīng pāng qiú duì	361
+共青团中央书记处	gòng qīng tuán zhōng yāng shū jì chù	359
+巴勒斯坦解放组织	bā lè sī tǎn jiě fàng zǔ zhī	358
+美国西北航空公司	měi guó xī běi háng kōng gōng sī	354
+中国国际战略学会	zhōng guó guó jì zhàn lüè xué huì	354
+万事达卡国际组织	wàn shì dá kǎ guó jì zǔ zhī	354
+联合国人权委员会	lián hé guó rén quán wěi yuán huì	354
+中国软件行业协会	zhōng guó ruǎn jiàn háng yè xié huì	349
+新疆人民广播电台	xīn jiāng rén mín guǎng bō diàn tái	349
+井冈山革命博物馆	jǐng gāng shān gé mìng bó wù guǎn	348
+国防部外事办公室	guó fáng bù wài shì bàn gōng shì	348
+上海第二军医大学	shàng hǎi dì èr jūn yī dà xué	346
+中国惠普有限公司	zhōng guó huì pǔ yǒu xiàn gōng sī	346
+红军前敌总指挥部	hóng jūn qián dí zǒng zhǐ huī bù	346
+英国皇家芭蕾舞团	yīng guó huáng jiā bā lěi wǔ tuán	344
+木垒哈萨克自治县	mù lěi hā sà kè zì zhì xiàn	343
+空中客车工业公司	kōng zhōng kè chē gōng yè gōng sī	341
+黄埔军校武汉分校	huáng pǔ jūn xiào wǔ hàn fēn xiào	338
+百花洲文艺出版社	bǎi huā zhōu wén yì chū bǎn shè	334
+北京语言文化大学	běi jīng yǔ yán wén huà dà xué	332
+斯图加特芭蕾舞团	sī tú jiā tè bā lěi wǔ tuán	330
+中国民主同盟中央	zhōng guó mín zhǔ tóng méng zhōng yāng	330
+中科院动物研究所	zhōng kē yuàn dòng wù yán jiū suǒ	330
+墨江哈尼族自治县	mò jiāng hā ní zú zì zhì xiàn	326
+关税及贸易总协定	guān shuì jí mào yì zǒng xié dìng	326
+中国企业评价协会	zhōng guó qǐ yè píng jià xié huì	326
+马克思列宁主义者	mǎ kè sī liè níng zhǔ yì zhě	324
+塔吉克斯坦共和国	tǎ jí kè sī tǎn gòng hé guó	324
+西安飞机工业公司	xī ān fēi jī gōng yè gōng sī	322
+日本丰田汽车公司	rì běn fēng tián qì chē gōng sī	322
+几内亚比绍共和国	jǐ nèi yà bǐ shào gòng hé guó	322
+北京信息工程学院	běi jīng xìn xī gōng chéng xué yuàn	322
+斯洛文尼亚共和国	sī luò wén ní yà gòng hé guó	320
+中国驻韩国大使馆	zhōng guó zhù hán guó dà shǐ guǎn	315
+美国联邦上诉法院	měi guó lián bāng shàng sù fǎ yuàn	313
+黑龙江人民出版社	hēi lóng jiāng rén mín chū bǎn shè	313
+辽宁人民艺术剧院	liáo níng rén mín yì shù jù yuàn	308
+丽江纳西族自治县	lì jiāng nà xī zú zì zhì xiàn	306
+阿拉伯复兴社会党	ā lā bó fù xīng shè huì dǎng	306
+北京市委教育工委	běi jīng shì wěi jiào yù gōng wěi	303
+江苏省社会科学院	jiāng sū shěng shè huì kē xué yuàn	301
+马达加斯加共和国	mǎ dá jiā sī jiā gòng hé guó	301
+丹麦皇家芭蕾舞团	dān mài huáng jiā bā lěi wǔ tuán	295
+英国伦敦经济学院	yīng guó lún dūn jīng jì xué yuàn	292
+沈阳飞机制造公司	shěn yáng fēi jī zhì zào gōng sī	289
+加利福尼亚州大学	jiā lì fú ní yà zhōu dà xué	286
+周口店遗址博物馆	zhōu kǒu diàn yí zhǐ bó wù guǎn	282
+成都飞机工业公司	chéng dū fēi jī gōng yè gōng sī	282
+首都机场高速公路	shǒu dū jī chǎng gāo sù gōng lù	279
+中国人民解放战争	zhōng guó rén mín jiě fàng zhàn zhēng	279
+中国陶行知研究会	zhōng guó táo xíng zhī yán jiū huì	279
+乌拉圭东岸共和国	wù la guī dōng àn gòng hé guó	276
+欧洲原子能共同体	ōu zhōu yuán zǐ néng gòng tóng tǐ	276
+中国天主教爱国会	zhōng guó tiān zhǔ jiào ài guó huì	272
+中国残疾人艺术团	zhōng guó cán jí rén yì shù tuán	268
+九千九百九十九间	jiǔ qiān jiǔ bǎi jiǔ shí jiǔ jiān	268
+纽约卡内基音乐厅	niǔ yuē kǎ nèi jī yīn yuè tīng	268
+中国移动通信公司	zhōng guó yí dòng tōng xìn gōng sī	268
+中非金融合作法郎	zhōng fēi jīn róng hé zuò fǎ láng	268
+京师大学堂师范馆	jīng shī dà xué táng shī fàn guǎn	264
+中国青少年基金会	zhōng guó qīng shào nián jī jīn huì	264
+日本电气株式会社	rì běn diàn qì zhū shì huì shè	264
+一百多万平方公里	yì bǎi duō wàn píng fāng gōng lǐ	260
+美国环球影片公司	měi guó huán qiú yǐng piān gōng sī	260
+中国民主政团同盟	zhōng guó mín zhǔ zhèng tuán tóng méng	255
+中国纺织工业协会	zhōng guó fǎng zhī gōng yè xié huì	255
+伦敦经济政治学院	lún dūn jīng jì zhèng zhì xué yuàn	251
+北京外企服务集团	běi jīng wài qǐ fú wù jí tuán	251
+赤道几内亚共和国	chì dào jǐ nèi yà gòng hé guó	246
+陕西省考古研究所	shǎn xī shěng kǎo gǔ yán jiū suǒ	240
+一千一百一十一个	yì qiān yì bǎi yī shí yí gè	240
+中共六届六中全会	zhōng gòng liù jiè liù zhōng quán huì	240
+中国国际交流协会	zhōng guó guó jì jiāo liú xié huì	235
+三千三百五十七刀	sān qiān sān bǎi wǔ shí qī dāo	235
+三峡水利枢纽工程	sān xiá shuǐ lì shū niǔ gōng chéng	229
+北京广播电视大学	běi jīng guǎng bō diàn shì dà xué	229
+八千七百五十万元	bā qiān qī bǎi wǔ shí wàn yuán	222
+西藏自治区交通厅	xī zàng zì zhì qū jiāo tōng tīng	208
+全国政治协商会议	quán guó zhèng zhì xié shāng huì yì	200
+美国辉瑞制药公司	měi guó huī ruì zhì yào gōng sī	200
+北京八中怡海分校	běi jīng bā zhōng yí hǎi fēn xiào	200
+葡萄牙共和国政府	pú táo yá gòng hé guó zhèng fǔ	190
+鄱阳湖自然保护区	pó yáng hú zì rán bǎo hù qū	180
+不知人间有羞耻事	bù zhī rén jiān yǒu xiū chǐ shì	180
+四万万七千五百万	sì wàn wàn qī qiān wǔ bǎi wàn	180
+广州抽水蓄能电站	guǎng zhōu chōu shuǐ xù néng diàn zhàn	169
+八路军第一一五师	bā lù jūn dì yī yī wǔ shī	169
+北京心理卫生协会	běi jīng xīn lǐ wèi shēng xié huì	169
+八达岭特区办事处	bā dá lǐng tè qū bàn shì chù	169
+五千四百八十一卷	wǔ qiān sì bǎi bā shí yì juǎn	155
+中共晋察冀中央局	zhōng gòng jìn chá jì zhōng yāng jú	155
+上海市工人文化宫	shàng hǎi shì gōng rén wén huà gōng	155
+松下电器产业公司	sōng xià diàn qì chǎn yè gōng sī	155
+百分之四五十左右	bǎi fēn zhī sì wǔ shí zuǒ yòu	139
+国务院西部开发办	guó wù yuàn xī bù kāi fā bàn	139
+克拉斯诺雅尔斯克	kè lā sī nuò yǎ ěr sī kè	139
+信息产业部科技司	xìn xī chǎn yè bù kē jì sī	120
+金川有色金属公司	jīn chuān yǒu sè jīn shǔ gōng sī	95
+一千三百六十二年	yì qiān sān bǎi liù shí èr nián	95
+佛得角非洲独立党	fú dé jiǎo fēi zhōu dú lì dǎng	95
+九万二千平方公里	jiǔ wàn èr qiān píng fāng gōng lǐ	60
+一千三百三十五卷	yì qiān sān bǎi sān shí wǔ juǎn	60
+中航第二集团公司	zhōng háng dì èr jí tuán gōng sī	60
+桑给巴尔革命政府	sāng gěi bā ěr gé mìng zhèng fǔ	60
+三万四千三百余顷	sān wàn sì qiān sān bǎi yú qǐng	60
+过了这个村就没这个店了	guò le zhè gè cūn jiù méi zhè gè diàn le	1
+压死骆驼的最后一根稻草	yā sǐ luò tuó de zuì hòu yì gēn dào cǎo	1
+让暴风雨来得更猛烈些吧	ràng bào fēng yǔ lái de gèng měng liè xiē ba	1
+你不说话没人当你是哑巴	nǐ bù shuō huà méi rén dāng nǐ shì yǎ bā	1
+可怜之人必有可恨之处	kě lián zhī rén bì yǒu kě hèn zhī chù	1
+以彼之道还治其人之身	yǐ bǐ zhī dào hái zhì qí rén zhī shēn	1
+过了这个村就没这个店	guò le zhè gè cūn jiù méi zhè gè diàn	1
+既想当婊子又要立牌坊	jì xiǎng dāng biǎo zi yòu yào lì pái fāng	1
+人生不如意事十之八九	rén shēng bù rú yì shì shí zhī bā jiǔ	1
+天地不仁以万物为刍狗	tiān dì bù rén yǐ wàn wù wèi chú gǒu	1
+圣文森特和格林纳丁斯	shèng wén sēn tè hé gé lín nà dīng sī	1
+常在河边走哪有不湿鞋	cháng zài hé biān zǒu nǎ yǒu bù shī xié	1
+躲得了初一躲不过十五	duǒ dé le chū yī duǒ bú guò shí wǔ	1
+恨不得有条地缝钻进去	hèn bù dé yǒu tiáo dì fèng zuān jìn qù	1
+救人一命胜造七级浮屠	jiù rén yī mìng shèng zào qī jí fú tú	1
+不要在一棵树上吊死	bú yào zài yì kē shù shàng diào sǐ	1
+贫穷限制了我的想象	pín qióng xiàn zhì le wǒ de xiǎng xiàng	1
+天将降大任于斯人也	tiān jiāng jiàng dà rèn yú sī rén yě	1
+不积跬步无以至千里	bù jī kuǐ bù wú yǐ zhì qiān lǐ	1
+被人卖了还帮着数钱	bèi rén mài le hái bāng zhāo shù qián	1
+当一天和尚撞一天钟	dāng yì tiān hé shàng zhuàng yì tiān zhōng	1
+吃不到葡萄说葡萄酸	chī bú dào pú táo shuō pú táo suān	1
+没有对比就没有伤害	méi yǒu duì bǐ jiù méi yǒu shāng hài	1
+弱水三千只取一瓢饮	ruò shuǐ sān qiān zhǐ qǔ yī piáo yǐn	1
+天下没有白吃的午餐	tiān xià méi yǒu bái chī de wǔ cān	1
+天下没有不散的筵席	tiān xià méi yǒu bú sàn de yán xí	1
+丈二和尚摸不着头脑	zhàng èr hé shàng mō bù zháo tóu nǎo	1
+我不入地狱谁入地狱	wǒ bú rù dì yù shuí rù dì yù	1
+王子犯法与庶民同罪	wáng zǐ fàn fǎ yǔ shù mín tóng zuì	1
+做一天和尚撞一天钟	zuò yī tiān hé shàng zhuàng yī tiān zhōng	1
+机会是给有准备的人	jī huì shì gěi yǒu zhǔn bèi de rén	1
+搬起石头砸自己的脚	bān qǐ shí tou zá zì jǐ de jiǎo	1
+跑得了和尚跑不了庙	pǎo dé le hé shàng pǎo bù liǎo miào	1
+打碎了牙往肚子里咽	dǎ suì le yá wǎng dǔ zi lǐ yàn	1
+唯女子与小人难养也	wéi nǚ zǐ yǔ xiǎo rén nán yǎng yě	1
+不求同年同月同日生	bù qiú tóng nián tóng yuè tóng rì shēng	1
+但求同年同月同日死	dàn qiú tóng nián tóng yuè tóng rì sǐ	1
+该放松的时候就放松	gāi fàng sōng de shí hòu jiù fàng sōng	1
+百尺竿头更进一步	bǎi chǐ gān tóu gèng jìn yī bù	1
+跑了和尚跑不了庙	pǎo le hé shàng pǎo bù le miào	1
+多一事不如少一事	duō yī shì bù rú shǎo yī shì	1
+狗嘴里吐不出象牙	gǒu zuǐ lǐ tǔ bù chū xiàng yá	1
+巧妇难为无米之炊	qiǎo fù nán wéi wú mǐ zhī chuī	1
+重赏之下必有勇夫	zhòng shǎng zhī xià bì yǒu yǒng fū	1
+阿拉伯联合酋长国	ā lā bó lián hé qiú zhǎng guó	1
+不经一事不长一智	bù jīng yī shì bù zhǎng yī zhì	1
+苍蝇不叮无缝的蛋	cāng yíng bù dīng wú fèng de dàn	1
+打不着狐狸惹身骚	dǎ bù zhe hú lí rě shēn sāo	1
+大门不出二门不迈	dà mén bù chū èr mén bú mài	1
+东一榔头西一棒子	dōng yī láng tou xī yī bàng zi	1
+法律面前人人平等	fǎ lǜ miàn qián rén rén píng děng	1
+会哭的孩子有奶吃	huì kū de hái zi yǒu nǎi chī	1
+和平共处五项原则	hé píng gòng chǔ wǔ xiàng yuán zé	1
+活人不能让尿憋死	huó rén bù néng ràng niào biē sǐ	1
+活要见人死要见尸	huó yào jiàn rén sǐ yào jiàn shī	1
+赤条条来去无牵挂	chì tiáo tiáo lái qù wú qiān guà	1
+丑媳妇总得见公婆	chǒu xí fù zǒng de jiàn gōng pó	1
+教会徒弟饿死师傅	jiào huì tú dì è sǐ shī fù	1
+急惊风撞着慢郎中	jí jīng fēng zhuàng zhe màn láng zhōng	1
+具体问题具体分析	jù tǐ wèn tí jù tǐ fēn xī	1
+君子不立危墙之下	jūn zi bú lì wēi qiáng zhī xià	1
+看看不一样的风景	kàn kàn bù yí yàng de fēng jǐng	1
+癞蛤蟆想吃天鹅肉	lài há má xiǎng chī tiān é ròu	1
+老吾老以及人之老	lǎo wú lǎo yǐ jí rén zhī lǎo	1
+明知不可为而为之	míng zhī bù kě wèi ér wèi zhī	1
+没有规矩不成方圆	méi yǒu guī jǔ bù chéng fāng yuán	1
+宁做鸡头不做凤尾	níng zuò jī tóu bú zuò fèng wěi	1
+青菜萝卜各有所爱	qīng cài luó bo gè yǒu suǒ ài	1
+青出于蓝而胜于蓝	qīng chū yú lán ér shèng yú lán	1
+人见人爱花见花开	rén jiàn rén ài huā jiàn huā kāi	1
+四通八达上房揭瓦	sì tōng bā dá shàng fáng jiē wǎ	1
+特立尼达和多巴哥	tè lì ní dá hé duō bā gē	1
+天下无不散之筵席	tiān xià wú bù sàn zhī yán xí	1
+圣多美和普林西比	shèng duō měi hé pǔ lín xī bǐ	1
+瘦死的骆驼比马大	shòu sǐ de luò tuó bǐ mǎ dà	1
+壮士一去兮不复返	zhuàng shì yī qù xī bú fù fǎn	1
+只知其一不知其二	zhǐ zhī qí yī bù zhī qí èr	1
+站着说话不嫌腰疼	zhàn zhe shuō huà bù xián yāo téng	1
+中央人民广播电台	zhōng yāng rén mín guǎng bō diàn tái	1
+王侯将相宁有种乎	wáng hóu jiàng xiàng níng yǒu zhǒng hū	1
+心急吃不了热豆腐	xīn jí chī bù liǎo rè dòu fǔ	1
+新疆维吾尔自治区	xīn jiāng wéi wú ěr zì zhì qū	1
+一波未平一波又起	yì bō wèi píng yì bō yòu qǐ	1
+一方水土养一方人	yī fāng shuǐ tǔ yǎng yī fāng rén	1
+一个天上一个地下	yí gè tiān shàng yí gè dì xià	1
+鱼和熊掌不可兼得	yú hé xióng zhǎng bù kě jiān dé	1
+一家人不说两家话	yī jiā rén bù shuō liǎng jiā huà	1
+一颗红心两手准备	yì kē hóng xīn liǎng shǒu zhǔn bèi	1
+燕雀安知鸿鹄之志	yàn què ān zhī hóng hú zhī zhì	1
+一日不见如隔三秋	yì rì bú jiàn rú gé sān qiū	1
+幼吾幼以及人之幼	yòu wú yòu yǐ jí rén zhī yòu	1
+天下兴亡匹夫有责	tiān xià xīng wáng pǐ fū yǒu zé	1
+前无古人后无来者	qián wú gǔ rén hòu wú lái zhě	1
+嘴巴给我放干净点	zuǐ bā gěi wǒ fàng gān jìng diǎn	1
+萝卜青菜各有所爱	luó bo qīng cài gè yǒu suǒ ài	1
+身体是革命的本钱	shēn tǐ shì gé mìng de běn qián	1
+家家有本难念的经	jiā jiā yǒu běn nán niàn de jīng	1
+什么风把你吹来了	shén me fēng bǎ nǐ chuī lái le	1
+吃葡萄不吐葡萄皮	chī pú táo bù tǔ pú táo pí	1
+走过路过不要错过	zǒu guò lù guò bú yào cuò guò	1
+你说没有就没有吗	nǐ shuō méi yǒu jiù méi yǒu ma	1
+你猜你猜你猜猜猜	nǐ cāi nǐ cāi nǐ cāi cāi cāi	1
+春天夏天秋天冬天	chūn tiān xià tiān qiū tiān dōng tiān	1
+重要的事情说三遍	zhòng yào de shì qíng shuō sān biàn	1
+打着灯笼都找不到	dǎ zhe dēng lóng dōu zhǎo bú dào	1
+独乐乐不如众乐乐	dú lè lè bù rú zhòng lè lè	1
+真不懂还是装不懂	zhēn bù dǒng hái shì zhuāng bù dǒng	1
+好记性不如烂笔头	hǎo jì xìng bù rú làn bǐ tóu	1
+异父异母的亲兄弟	yì fù yì mǔ de qīn xiōng dì	1
+看不到明天的太阳	kàn bú dào míng tiān de tài yáng	1
+打雷下雨收衣服了	dǎ léi xià yǔ shōu yī fú le	1
+别往自己脸上贴金	bié wǎng zì jǐ liǎn shàng tiē jīn	1
+群众的眼睛是雪亮	qún zhòng de yǎn jīng shì xuě liàng	1
+放着不用也是浪费	fàng zhe bú yòng yě shì làng fèi	1
+之前的努力都白费	zhī qián de nǔ lì dōu bái fèi	1
+迅雷不及掩耳之势	xùn léi bù jí yǎn ěr zhī shì	1
+不愧是我看上的人	bú kuì shì wǒ kàn shàng de rén	1
+忆往昔峥嵘岁月稠	yì wǎng xī zhēng róng suì yuè chóu	1
+各个国家有各个国家的国歌	gè gè guó jiā yǒu gè gè guó jiā de guó gē		1
