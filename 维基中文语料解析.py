@@ -1,5 +1,6 @@
 """
-主要用于解析wiki
+下载链接
+https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2  
 """
 from gensim.corpora.wikicorpus import extract_pages, filter_wiki
 import bz2file
