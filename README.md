@@ -20,7 +20,7 @@
 
  示例项目：
  
-  [声飞万象增强版-多维辅助码与任意拼音方案的组合](https://github.com/amzxyz/rime_wanxiang_pro)  |  [声飞万象基础版-全拼双拼无辅助码版本](https://github.com/amzxyz/rime_wanxiang)   
+  [万象拼音增强版-多维直接辅助码与任意拼音方案的组合](https://github.com/amzxyz/rime_wanxiang_pro)  |  [万象拼音基础版-全拼双拼间接辅助码版本](https://github.com/amzxyz/rime_wanxiang)   
 
 | 词库类型 | 文件名称     | 描述                   |
 |----------|--------------|------------------------|
