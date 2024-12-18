@@ -1,6 +1,7 @@
 """
 下载链接
 https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2  
+需要安装的库：pip install opencc-python-reimplemented tqdm bz2file gensim
 """
 from gensim.corpora.wikicorpus import extract_pages, filter_wiki
 import bz2file
