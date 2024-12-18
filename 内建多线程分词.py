@@ -1,3 +1,4 @@
+#这种方式太慢了，和直接读取文件处理没法比，如果是我写的调用的方式有问题麻烦帮助改改！
 import os
 import jieba
 from opencc import OpenCC
