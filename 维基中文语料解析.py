@@ -1,4 +1,5 @@
 """
+已获取1454000篇文章: : 4579025it [2:30:45, 506.24it/s]  截止2024年12月数据量
 下载链接
 https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2  
 需要安装的库：pip install opencc-python-reimplemented tqdm bz2file gensim
