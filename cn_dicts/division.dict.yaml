@@ -721,8 +721,8 @@ sort: by_weight
 库伦旗	kù lún qí	352
 奈曼旗	nài màn qí	671
 扎鲁特旗	zhā lǔ tè qí	366
-霍林郭勒	huò lín guō lēi	263
-霍林郭勒市	huò lín guō lēi shì	0
+霍林郭勒	huò lín guō lè	263
+霍林郭勒市	huò lín guō lè shì	0
 鄂尔多斯	è ěr duō sī	7287
 鄂尔多斯市	è ěr duō sī shì	2395
 东胜	dōng shèng	1469
@@ -802,8 +802,8 @@ sort: by_weight
 扎赉特旗	zhā lài tè qí	348
 突泉	tū quán	179
 突泉县	tū quán xiàn	239
-锡林郭勒	xī lín guō lēi	1133
-锡林郭勒盟	xī lín guō lēi méng	2382
+锡林郭勒	xī lín guō lè	1133
+锡林郭勒盟	xī lín guō lè méng	2382
 二连浩特	èr lián hào tè	711
 二连浩特市	èr lián hào tè shì	336
 锡林浩特	xī lín hào tè	690
@@ -5906,8 +5906,8 @@ sort: by_weight
 温泉县	wēn quán xiàn	387
 巴音郭楞	bā yīn guō léng	252
 巴音郭楞蒙古自治州	bā yīn guō léng méng gǔ zì zhì zhōu	379
-库尔勒	kù ěr lēi	2918
-库尔勒市	kù ěr lēi shì	882
+库尔勒	kù ěr lè	2918
+库尔勒市	kù ěr lè shì	882
 轮台	lún tái	911
 轮台县	lún tái xiàn	205
 尉犁尉犁县	yù lí yù lí xiàn	0
@@ -5941,8 +5941,8 @@ sort: by_weight
 阿瓦提县	ā wǎ tí xiàn	239
 柯坪	kē píng	103
 柯坪县	kē píng xiàn	69
-克孜勒苏	kè zī lēi sū	153
-克孜勒苏柯尔克孜自治州	kè zī lēi sū kē ěr kè zī zì zhì zhōu	313
+克孜勒苏	kè zī lè sū	153
+克孜勒苏柯尔克孜自治州	kè zī lè sū kē ěr kè zī zì zhì zhōu	313
 阿图什	ā tú shén	336
 阿图什市	ā tú shén shì	229
 阿克陶	ā kè táo	104
@@ -5984,7 +5984,7 @@ sort: by_weight
 皮山县	pí shān xiàn	290
 洛浦	luò pǔ	576
 洛浦县	luò pǔ xiàn	207
-策勒策勒县	cè lēi cè lēi xiàn	0
+策勒策勒县	cè lè cè lè xiàn	0
 于田	yú tián	557
 于田县	yú tián xiàn	233
 民丰	mín fēng	657
@@ -6008,8 +6008,8 @@ sort: by_weight
 昭苏县	zhāo sū xiàn	257
 特克斯	tè kè sī	1090
 特克斯县	tè kè sī xiàn	172
-尼勒克	ní lēi kè	127
-尼勒克县	ní lēi kè xiàn	213
+尼勒克	ní lè kè	127
+尼勒克县	ní lè kè xiàn	213
 塔城	tǎ chéng	2789
 塔城地区	tǎ chéng dì qū	904
 塔城市	tǎ chéng shì	365
@@ -6022,9 +6022,9 @@ sort: by_weight
 裕民县	yù mín xiàn	109
 和布克赛尔	hé bù kè sài ěr	0
 和布克赛尔蒙古自治县	hé bù kè sài ěr méng gǔ zì zhì xiàn	84
-阿勒泰	ā lēi tài	3294
-阿勒泰地区	ā lēi tài dì qū	1143
-阿勒泰市	ā lēi tài shì	593
+阿勒泰	ā lè tài	3294
+阿勒泰地区	ā lè tài dì qū	1143
+阿勒泰市	ā lè tài shì	593
 布尔津	bù ěr jīn	788
 布尔津县	bù ěr jīn xiàn	479
 富蕴	fù yùn	385

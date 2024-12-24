@@ -7,6 +7,16 @@ name: compatible
 version: "2024-11-11"
 sort: by_weight
 ...
+调配	diào pèi	12379
+调配	tiáo pèi	7325
+数次	shù cì	23317
+数次	shuò cì	3317
+我为	wǒ wéi	2122
+我为	wǒ wèi	10122
+更为	gèng wéi	75245	
+更为	gèng wèi	112171
+长的	cháng de	25642
+长的	zhǎng de	77641
 落下	là xià	22622
 落下	luò xià	34974
 穿着	chuān zhe	148518
@@ -57,11 +67,10 @@ sort: by_weight
 一行	yì háng	7197
 一行	yì xíng	3524
 重天	zhòng tiān	2694
-往外传	wǎng wài zhuàn	90
 捉兔	zhuō tù	1
 白石塔	bái shí tǎ	1
 板凳宽	bǎn dèng kuān	1
-扁担长	biǎn dàn zhǎng	1
+扁担长	biǎn dàn cháng	1
 剥桔子	bō jú zi	1
 常练习	cháng liàn xí	1
 醋湿布	cù shī bù	1
@@ -443,8 +452,8 @@ sort: by_weight
 提锡壶	tí xī hú	1
 听物理	tīng wù lǐ	1
 腿说嘴	tuǐ shuō zuǐ	1
-为一名	wèi yì míng	5417
-为一名	wèi yì míng	4011
+为一名	wéi yì míng	5417
+为一名	wéi yì míng	4011
 星映灯	xīng yìng dēng	1
 杨家羊	yáng jiā yáng	1
 硬石头	yìng shí tou	1
@@ -582,7 +591,7 @@ sort: by_weight
 坐下分果果	zuò xià fēn guǒ guǒ	1
 绊倒了秃丫头	bàn dǎo le tū yā tou	1
 板凳比扁担宽	bǎn dèng bǐ biǎn dàn kuān	1
-扁担比板凳长	biǎn dàn bǐ bǎn dèng zhǎng	1
+扁担比板凳长	biǎn dàn bǐ bǎn dèng cháng	1
 别喇叭的哑巴	bié lǎ bā de yǎ bā	1
 别喇叭的哑巴	bié lǎ bā de yǎ bā	1
 不知是鹅过河	bù zhī shì é guò hé	1
@@ -631,14 +640,14 @@ sort: by_weight
 嘴说腿爱跑腿	zuǐ shuō tuǐ ài pǎo tuǐ	1
 八百标兵奔北坡	bā bǎi biāo bīng bēn běi pō	1
 八朵粉红大荷花	bā duǒ fěn hóng dà hé huā	1
-板凳没有扁担长	bǎn dèng méi yǒu biǎn dàn zhǎng	1
+板凳没有扁担长	bǎn dèng méi yǒu biǎn dàn cháng	1
 搬来白石搭白塔	bān lái bái shí dā bái tǎ	1
 北坡炮兵并排跑	běi pō pào bīng bìng pái pǎo	1
 彼此匆匆跑回头	bǐ cǐ cōng cōng pǎo huí tóu	1
 壁虎不敢咬李虎	bì hǔ bú gǎn yǎo lǐ hǔ	1
 扁担没有板凳宽	biǎn dàn méi yǒu bǎn dèng kuān	1
 标兵怕碰炮兵炮	biāo bīng pà pèng pào bīng pào	1
-不如不长腿和嘴	bù rú bù zhǎng tuǐ hé zuǐ	1
+不如不长腿和嘴	bù rú bù cháng tuǐ hé zuǐ	1
 不是鸡卵品种乱	bú shì jī luǎn pǐn zhǒng luàn	1
 吃完柿子玩石子	chī wán shì zi wán shí zǐ	1
 从北边来个哑吧	cóng běi biān lái gè yǎ ba	1
@@ -725,7 +734,7 @@ sort: by_weight
 石小四和史肖石	shí xiǎo sì hé shǐ xiào shí	1
 石小四和史肖石	shí xiǎo sì hé shǐ xiào shí	1
 树上结了白果果	shù shàng jié le bái guǒ guǒ	1
-谁都不来买鸡卵	shéi dōu bù lái mǎi jī luǎn	1
+谁都不来买鸡卵	shuí dōu bù lái mǎi jī luǎn	1
 谁说十四是适时	shuí shuō shí sì shì shì shí	1
 谁说四十是细席	shuí shuō sì shí shì xì xí	1
 四个孩子出果市	sì gè hái zi chū guǒ shì	1
@@ -762,7 +771,7 @@ sort: by_weight
 一口鱼翅刚到嘴	yì kǒu yú chì gāng dào zuǐ	1
 一同来到阅览室	yì tóng lái dào yuè lǎn shì	1
 一同来到阅览室	yì tóng lái dào yuè lǎn shì	1
-一位爷爷他姓顾	yí wèi yé yé tā xìng gù	1
+一位爷爷他姓顾	yí wèi yé ye tā xìng gù	1
 有个懒汉本姓阮	yǒu gè lǎn hàn běn xìng ruǎn	1
 有个面铺门朝南	yǒu gè miàn pù mén cháo nán	1
 又画一个小喇叭	yòu huà yí gè xiǎo lǎ bā	1
@@ -968,7 +977,7 @@ sort: by_weight
 四十四个涩柿子倒吃四十四个石狮子	sì shí sì gè sè shì zi dào chī sì shí sì gè shí shī zi	1
 四十四个石狮子不吃四十四个涩柿子	sì shí sì gè shí shī zi bù chī sì shí sì gè sè shì zi	1
 乌鸦说猪黑乌鸦站在黑猪脊上说黑猪黑	wū yā shuō zhū hēi wū yā zhàn zài hēi zhū jí shàng shuō hēi zhū hēi	1
-你说共数出多少只大石狮子和多少只小石狮子	nǐ shuō gòng shù chū duō shǎo zhǐ dà shí shī zi hé duō shǎo zhǐ xiǎo shí shī zi	1
+你说共数出多少只大石狮子和多少只小石狮子	nǐ shuō gòng shǔ chū duō shǎo zhǐ dà shí shī zi hé duō shǎo zhǐ xiǎo shí shī zi	1
 提拉塔嘛的喇嘛拿塔嘛打了别喇叭的哑巴一塔嘛	tí lā tǎ ma de lǎ ma ná tǎ ma dǎ le bié lǎ bā de yǎ bā yī tǎ ma	1
 也不知别喇叭的哑巴拿喇巴打坏了提拉塔嘛喇嘛的塔嘛	yě bù zhī bié lǎ bā de yǎ bā ná lǎ bā dǎ huài le tí lā tǎ ma lǎ ma de tǎ ma	1
 也不知提拉塔嘛的喇嘛拿塔嘛打坏了别喇叭哑巴的喇叭	yě bù zhī tí lā tǎ ma de lǎ ma ná tǎ ma dǎ huài le bié lǎ bā yǎ bā de lǎ bā	1
