@@ -1,0 +1,6757 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#------二级行政区划------
+---
+name: division
+version: "2024-12-20"
+sort: by_weight
+...
+阿坝	ā bà	7942
+阿城	ā chéng	1993
+阿里	ā lǐ	272274
+阿莲	ā lián	1021
+爱辉	ài huī	542
+爱民	ài mín	6365
+安次	ān cì	435
+安达	ān dá	15111
+安定	ān dìng	31749
+安多	ān duō	2459
+安福	ān fú	10364
+安国	ān guó	4929
+安化	ān huà	3067
+安徽	ān huī	180165
+安吉	ān jí	17102
+安居	ān jū	17360
+安康	ān kāng	19452
+安乐	ān lè	14438
+安龙	ān lóng	1082
+安陆	ān lù	2044
+安南	ān nán	7546
+安宁	ān níng	24895
+安平	ān píng	8165
+安庆	ān qìng	12852
+安丘	ān qiū	1312
+安仁	ān rén	2363
+安塞	ān sāi	2410
+鞍山	ān shān	21605
+安顺	ān shùn	10869
+安图	ān tú	1386
+安溪	ān xī	6279
+安乡	ān xiāng	1751
+安新	ān xīn	3276
+安阳	ān yáng	16917
+安义	ān yì	1327
+安源	ān yuán	2211
+安远	ān yuǎn	1650
+安岳	ān yuè	2576
+安泽	ān zé	710
+安州	ān zhōu	1327
+昂仁	áng rén	119
+澳门	ào mén	149774
+八步	bā bù	2076
+巴楚	bā chǔ	839
+八德	bā dé	2102
+巴东	bā dōng	3185
+八里	bā lǐ	7852
+巴马	bā mǎ	69124
+巴南	bā nán	3492
+灞桥	bà qiáo	1276
+巴青	bā qīng	153
+八宿	bā sù	1742
+巴塘	bā táng	1436
+巴彦	bā yàn	4807
+巴宜	bā yí	133
+巴中	bā zhōng	10874
+巴州	bā zhōu	4534
+霸州	bà zhōu	1705
+白城	bái chéng	3046
+拜城	bài chéng	465
+白河	bái hé	7180
+白朗	bái lǎng	2009
+拜泉	bài quán	231
+白沙	bái shā	16372
+白山	bái shān	21689
+白水	bái shuǐ	17963
+白塔	bái tǎ	6377
+柏乡	bǎi xiāng	409
+白银	bái yín	142884
+白玉	bái yù	16758
+白云	bái yún	58948
+班戈	bān gē	1019
+班玛	bān mǎ	1109
+板桥	bǎn qiáo	14536
+蚌山	bàng shān	64
+宝安	bǎo ān	17194
+保德	bǎo dé	3108
+宝坻	bǎo dǐ	5744
+保定	bǎo dìng	31114
+宝丰	bǎo fēng	2157
+包河	bāo hé	3081
+宝鸡	bǎo jī	12351
+保靖	bǎo jìng	551
+保康	bǎo kāng	1035
+宝清	bǎo qīng	628
+宝山	bǎo shān	20763
+保山	bǎo shān	5516
+宝塔	bǎo tǎ	7286
+保亭	bǎo tíng	1333
+包头	bāo tóu	17288
+宝兴	bǎo xīng	4918
+宝应	bǎo yìng	2336
+褒忠	bāo zhōng	728
+北安	běi ān	3536
+北碚	běi bèi	3358
+北辰	běi chén	8227
+北川	běi chuān	5232
+北斗	běi dǒu	24701
+北港	běi gǎng	4495
+北关	běi guān	2146
+北海	běi hǎi	90326
+北湖	běi hú	3791
+北京	běi jīng	1986927
+碑林	bēi lín	4390
+北林	běi lín	2155
+北流	běi liú	1733
+北仑	běi lún	4288
+北门	běi mén	16903
+卑南	bēi nán	2879
+北票	běi piào	816
+北埔	běi pǔ	1115
+北区	běi qū	36256
+北塔	běi tǎ	1253
+北投	běi tóu	4866
+北屯	běi tún	2331
+北屯	běi tún	2331
+北镇	běi zhèn	2414
+本溪	běn xī	7757
+蚌埠	bèng bù	10979
+碧江	bì jiāng	816
+毕节	bì jié	4655
+比如	bǐ rú	1514757
+璧山	bì shān	2308
+泌阳	bì yáng	763
+边坝	biān bà	151
+滨城	bīn chéng	1557
+宾川	bīn chuān	972
+滨海	bīn hǎi	48116
+滨湖	bīn hú	7416
+滨江	bīn jiāng	21338
+宾县	bīn xiàn	1450
+宾阳	bīn yáng	2092
+滨州	bīn zhōu	7109
+彬州	bīn zhōu	153
+博爱	bó ài	11123
+博白	bó bái	1519
+博湖	bó hú	491
+博乐	bó lè	1482
+勃利	bó lì	449
+博罗	bó luó	5599
+波密	bō mì	1831
+百色	bó sè	4619
+博山	bó shān	2563
+博望	bó wàng	944
+博兴	bó xīng	940
+博野	bó yě	834
+亳州	bó zhōu	5320
+播州	bò zhōu	1477
+布袋	bù dài	13227
+布拖	bù tuō	217
+蔡甸	cài diān	1598
+苍南	cāng nán	3687
+仓山	cāng shān	4316
+苍梧	cāng wú	1484
+苍溪	cāng xī	1096
+沧县	cāng xiàn	930
+沧源	cāng yuán	1212
+沧州	cāng zhōu	14347
+草屯	cǎo tún	1718
+曹县	cáo xiàn	1657
+册亨	cè hēng	448
+策勒	cè lè	391
+岑巩	cén gǒng	304
+岑溪	cén xī	979
+曾都	céng dōu	0
+茶陵	chá líng	1257
+察雅	chá yǎ	150
+察隅	chá yú	758
+柴桑	chái sāng	430
+禅城	chán chéng	7809
+瀍河	chán hé	0
+瀍河	chán hé	0
+长安	cháng ān	108266
+长白	cháng bái	17600
+长滨	cháng bīn	1764
+长春	cháng chūn	101849
+常德	cháng dé	12461
+昌都	chāng dōu	3307
+长丰	cháng fēng	3191
+长海	cháng hǎi	3837
+昌吉	chāng jí	3817
+昌江	chāng jiāng	1872
+长乐	cháng lè	12866
+昌乐	chāng lè	1632
+昌黎	chāng lí	2303
+长岭	cháng lǐng	2019
+长宁	cháng níng	9163
+常宁	cháng níng	1827
+昌宁	chāng níng	887
+昌平	chāng píng	19962
+长清	cháng qīng	3548
+长沙	cháng shā	157167
+常山	cháng shān	3706
+长寿	cháng shòu	51703
+常熟	cháng shú	12229
+长顺	cháng shùn	2155
+长泰	chāng tài	1619
+长汀	cháng tīng	2682
+昌图	chāng tú	984
+长武	cháng wǔ	537
+长兴	cháng xīng	7767
+长阳	cháng yáng	4797
+昌邑	chāng yì	2439
+长垣	cháng yuán	1702
+长治	cháng zhì	15329
+常州	cháng zhōu	34526
+长洲	cháng zhōu	4069
+潮安	cháo ān	1436
+巢湖	cháo hú	6601
+潮南	cháo nán	779
+朝天	cháo tiān	22595
+潮阳	cháo yáng	2969
+潮州	cháo zhōu	24482
+车城	chē chéng	5112
+陈仓	chén cāng	2856
+辰溪	chén xī	562
+郴州	chēn zhōu	7431
+成安	chéng ān	1177
+城北	chéng běi	12049
+城步	chéng bù	851
+澄城	chéng chéng	838
+承德	chéng dé	13723
+城东	chéng dōng	12116
+成都	chéng dū	350538
+称多	chēng duō	352
+成功	chéng gōng	1245786
+呈贡	chéng gòng	4301
+城固	chéng gù	1346
+城关	chéng guān	11048
+澄海	chéng hǎi	2883
+成华	chéng huá	2864
+澄江	chéng jiāng	1654
+城口	chéng kǒu	2864
+澄迈	chéng mài	2601
+城区	chéng qū	204797
+成武	chéng wǔ	1665
+城西	chéng xī	13664
+成县	chéng xiàn	1419
+城厢	chéng xiāng	2280
+城阳	chéng yáng	5508
+城中	chéng zhōng	33806
+赤壁	chì bì	14697
+赤城	chì chéng	2707
+赤峰	chì fēng	11461
+赤坎	chì kǎn	1125
+茌平	chí píng	847
+池上	chí shàng	3518
+赤水	chì shuǐ	7585
+池州	chí zhōu	6244
+崇川	chóng chuān	411
+崇礼	chóng lǐ	3659
+崇明	chóng míng	12013
+重庆	chóng qìng	347287
+崇仁	chóng rén	1822
+崇信	chóng xìn	2208
+崇阳	chóng yáng	1120
+崇义	chóng yì	1197
+崇州	chóng zhōu	3056
+崇左	chóng zuǒ	2310
+楚雄	chǔ xióng	5136
+滁州	chú zhōu	6287
+川汇	chuān huì	318
+船山	chuán shān	1550
+船营	chuán yíng	378
+淳安	chún ān	3495
+淳化	chún huà	1583
+春日	chūn rì	19917
+慈利	cí lì	2096
+莿桐	cì tóng	0
+慈溪	cí xī	7509
+磁县	cí xiàn	1714
+从化	cóng huà	0
+从江	cóng jiāng	2221
+丛台	cóng tái	923
+翠屏	cuì píng	2596
+措美	cuò měi	93
+错那	cuò nà	0
+措勤	cuò qín	134
+大安	dà ān	7965
+大安	dà ān	7965
+大埔	dà bù	15056
+大厂	dà chǎng	25373
+达川	dá chuān	559
+大村	dà cūn	2939
+大东	dà dōng	13302
+大肚	dà dù	12061
+大方	dà fāng	90415
+大丰	dà fēng	6895
+大关	dà guān	26690
+大观	dà guān	15680
+大湖	dà hú	6944
+大化	dà huà	62223
+大甲	dà jiǎ	5663
+大理	dà lǐ	66584
+大里	dà lǐ	3741
+大荔	dà lì	1999
+大连	dà lián	142991
+大寮	dà liáo	0
+大林	dà lín	28903
+大名	dà míng	55278
+大内	dà nèi	8693
+大宁	dà níng	5692
+大埤	dà pí	0
+大庆	dà qìng	17624
+达仁	dá rén	834
+达日	dá rì	615
+大社	dà shè	7859
+大树	dà shù	26673
+大田	dà tián	9390
+大同	dà tóng	53716
+大通	dà tōng	19652
+大洼	dà wā	841
+大悟	dà wù	14569
+大武	dà wǔ	3907
+大溪	dà xī	8862
+大祥	dà xiáng	1044
+大新	dà xīn	13117
+大兴	dà xīng	26872
+大雅	dà yá	9323
+大姚	dà yáo	1462
+大冶	dà yě	3277
+大邑	dà yì	2026
+大英	dà yīng	19028
+大余	dà yú	833
+大园	dà yuán	1507
+达州	dá zhōu	39818
+大竹	dà zhú	3157
+达孜	dá zī	666
+大足	dà zú	3929
+大城	dài chéng	67247
+岱山	dài shān	1220
+代县	dài xiàn	1278
+岱岳	dài yuè	621
+丹巴	dān bā	3847
+郸城	dān chéng	1011
+丹东	dān dōng	9429
+丹凤	dān fèng	3663
+丹棱	dān léng	578
+淡水	dàn shuǐ	43114
+丹徒	dān tú	1397
+单县	dān xiàn	1872
+丹阳	dān yáng	7807
+丹寨	dān zhài	722
+儋州	dān zhōu	4067
+宕昌	dàng chāng	629
+砀山	dàng shān	2174
+当涂	dāng tú	1513
+当雄	dāng xióng	830
+当阳	dāng yáng	1829
+稻城	dào chéng	8993
+道孚	dào fú	668
+道里	dào lǐ	14756
+道外	dào wài	3969
+道县	dào xiàn	1277
+道真	dào zhēn	0
+德安	dé ān	3241
+德保	dé bǎo	1079
+德昌	dé chāng	3105
+德城	dé chéng	1178
+德格	dé gé	6537
+德宏	dé hóng	5044
+德化	dé huà	3543
+德惠	dé huì	1918
+德江	dé jiāng	2990
+德钦	dé qīn	1795
+德清	dé qīng	4648
+德庆	dé qìng	1962
+得荣	dé róng	311
+德兴	dé xīng	3535
+德阳	dé yáng	7038
+德州	dé zhōu	33627
+登封	dēng fēng	3795
+磴口	dèng kǒu	384
+灯塔	dēng tǎ	17115
+邓州	dèng zhōu	3134
+滴道	dī dào	61
+迪庆	dí qìng	2178
+电白	diàn bái	1412
+垫江	diàn jiāng	1847
+点军	diǎn jūn	2075
+迭部	dié bù	401
+叠彩	dié cǎi	1618
+定安	dìng ān	2258
+定边	dìng biān	1434
+鼎城	dǐng chéng	486
+定海	dìng hǎi	4670
+鼎湖	dǐng hú	1195
+定结	dìng jié	248
+定南	dìng nán	1273
+丁青	dīng qīng	516
+定日	dìng rì	1757
+定陶	dìng táo	1090
+定西	dìng xī	4253
+定襄	dìng xiāng	1089
+定兴	dìng xīng	715
+定远	dìng yuǎn	4037
+定州	dìng zhōu	3557
+东安	dōng ān	5306
+东宝	dōng bǎo	7563
+东昌	dōng chāng	3578
+东城	dōng chéng	27628
+东川	dōng chuān	5239
+东阿	dōng ē	3500
+东方	dōng fāng	296022
+东风	dōng fēng	97646
+东丰	dōng fēng	731
+东港	dōng gǎng	6159
+东莞	dōng guǎn	107612
+东光	dōng guāng	1414
+东海	dōng hǎi	59335
+东河	dōng hé	2809
+东湖	dōng hú	16426
+洞口	dòng kǒu	7842
+东兰	dōng lán	585
+东丽	dōng lì	2950
+东辽	dōng liáo	598
+东明	dōng míng	4691
+东宁	dōng níng	2387
+东平	dōng píng	8173
+东坡	dōng pō	28467
+东区	dōng qū	33420
+东山	dōng shān	27587
+冬山	dōng shān	917
+东胜	dōng shèng	2292
+东势	dōng shì	3358
+东石	dōng shí	2637
+东台	dōng tái	3700
+洞头	dòng tóu	1075
+东乡	dōng xiāng	4841
+东兴	dōng xīng	9466
+东阳	dōng yáng	11121
+东营	dōng yíng	10910
+东源	dōng yuán	1998
+东至	dōng zhì	10634
+东洲	dōng zhōu	1081
+都安	dōu ān	4139
+都昌	dōu chāng	1292
+都兰	dōu lán	1260
+斗六	dòu liù	3622
+斗门	dǒu mén	4912
+斗南	dòu nán	1966
+都匀	dōu yún	2044
+杜集	dù jí	227
+独山	dú shān	3181
+端州	duān zhōu	926
+堆龙	duī lóng	34
+敦化	dūn huà	2453
+敦煌	dūn huáng	22959
+掇刀	duō dāo	213
+多伦	duō lún	28693
+峨边	é biān	340
+鄂城	è chéng	496
+峨眉	é méi	17800
+额敏	é mǐn	598
+峨山	é shān	954
+鄂州	è zhōu	4361
+恩平	ēn píng	1869
+恩施	ēn shī	8973
+恩阳	ēn yáng	1181
+二道	èr dào	8924
+二林	èr lín	1055
+二仑	èr lún	604
+二七	èr qī	6649
+二水	èr shuǐ	1431
+洱源	ěr yuán	776
+法库	fǎ kù	2811
+繁昌	fán chāng	841
+樊城	fán chéng	1790
+番路	fān lù	697
+范县	fàn xiàn	3150
+繁峙	fán zhì	842
+防城	fáng chéng	4058
+方城	fāng chéng	2255
+枋寮	fāng liáo	1394
+房山	fáng shān	10839
+方山	fāng shān	2155
+枋山	fāng shān	542
+房县	fáng xiàn	861
+芳苑	fāng yuàn	672
+方正	fāng zhèng	25806
+坊子	fāng zǐ	463
+肥城	féi chéng	2306
+肥东	féi dōng	2722
+肥西	féi xī	3203
+费县	fèi xiàn	1573
+肥乡	féi xiāng	793
+汾西	fén xī	650
+汾阳	fén yáng	3020
+分宜	fēn yí	829
+芬园	fēn yuán	833
+丰滨	fēng bīn	429
+凤城	fèng chéng	3747
+丰城	fēng chéng	2551
+丰都	fēng dōu	2252
+凤冈	fèng gāng	613
+奉化	fèng huà	4873
+凤凰	fèng huáng	107345
+奉节	fèng jié	2867
+封开	fēng kāi	603
+凤林	fèng lín	1456
+丰林	fēng lín	547
+丰满	fēng mǎn	28696
+丰南	fēng nán	856
+丰宁	fēng níng	1808
+凤庆	fèng qìng	696
+封丘	fēng qiū	1106
+凤泉	fèng quán	164
+丰润	fēng rùn	3337
+凤山	fèng shān	11238
+丰顺	fēng shùn	1393
+丰台	fēng tái	13927
+凤台	fèng tái	1767
+丰县	fēng xiàn	8945
+奉贤	fèng xián	6322
+凤县	fèng xiàn	1397
+凤翔	fèng xiáng	5128
+奉新	fèng xīn	854
+凤阳	fèng yáng	4019
+丰原	fēng yuán	4877
+丰泽	fēng zé	2870
+丰镇	fēng zhèn	2127
+佛山	fó shān	74704
+福安	fú ān	4679
+阜城	fù chéng	945
+涪城	fú chéng	796
+富川	fù chuān	1467
+福鼎	fú dǐng	3761
+扶风	fú fēng	2799
+佛冈	fú gāng	917
+福贡	fú gòng	337
+扶沟	fú gōu	691
+府谷	fǔ gǔ	1795
+福海	fú hǎi	1969
+福建	fú jiàn	208641
+富锦	fù jǐn	1131
+阜康	fù kāng	1035
+富里	fù lǐ	983
+浮梁	fú liáng	1071
+涪陵	fú líng	4725
+福绵	fú mián	773
+富民	fù mín	7830
+阜南	fù nán	961
+阜宁	fù níng	1951
+抚宁	fǔ níng	894
+富宁	fù níng	859
+富平	fù píng	2320
+阜平	fù píng	1286
+佛坪	fú píng	797
+福清	fú qīng	9213
+福泉	fú quán	1596
+芙蓉	fú róng	28660
+福山	fú shān	8042
+浮山	fú shān	4131
+抚顺	fǔ shùn	10715
+富顺	fù shùn	1957
+抚松	fǔ sōng	621
+扶绥	fú suí	463
+福田	fú tián	30002
+富县	fù xiàn	1020
+阜新	fù xīn	3504
+复兴	fù xīng	97287
+福兴	fú xīng	2494
+阜阳	fù yáng	10192
+富阳	fù yáng	7194
+富裕	fù yù	46756
+扶余	fú yú	2105
+富源	fù yuán	1778
+抚远	fǔ yuǎn	1073
+富蕴	fù yùn	767
+福州	fú zhōu	113123
+抚州	fǔ zhōu	5910
+噶尔	gá ěr	6720
+伽师	gā shī	1108
+改则	gǎi zé	363
+盖州	gài zhōu	723
+甘德	gān dé	733
+甘谷	gān gǔ	700
+甘洛	gān luò	356
+甘南	gān nán	4758
+甘泉	gān quán	3531
+甘肃	gān sù	88563
+赣县	gàn xiàn	1170
+赣榆	gàn yú	1523
+赣州	gàn zhōu	13651
+甘州	gān zhōu	1415
+甘孜	gān zī	6950
+岗巴	gǎng bā	226
+港北	gǎng běi	755
+刚察	gāng chá	511
+钢城	gāng chéng	949
+港口	gǎng kǒu	65344
+港南	gǎng nán	750
+冈山	gāng shān	19026
+高安	gāo ān	5148
+高昌	gāo chāng	3765
+藁城	gǎo chéng	1299
+高淳	gāo chún	4215
+高港	gāo gǎng	677
+皋兰	gāo lán	1238
+高陵	gāo líng	1395
+高密	gāo mì	13968
+高明	gāo míng	18384
+高平	gāo píng	5884
+高坪	gāo píng	899
+高青	gāo qīng	1047
+高树	gāo shù	1601
+高台	gāo tái	6180
+高唐	gāo táng	1516
+高县	gāo xiàn	1629
+高雄	gāo xióng	64077
+高阳	gāo yáng	5154
+高要	gāo yào	4679
+高邑	gāo yì	513
+高邮	gāo yóu	3664
+高州	gāo zhōu	2587
+革吉	gé jí	110
+个旧	gè jiù	1360
+根河	gēn hé	942
+耿马	gěng mǎ	879
+公安	gōng ān	335492
+恭城	gōng chéng	785
+贡嘎	gòng gā	3686
+公馆	gōng guǎn	17526
+共和	gòng hé	388759
+贡井	gòng jǐng	430
+贡觉	gòng jué	221
+贡寮	gòng liáo	918
+巩留	gǒng liú	1520
+工农	gōng nóng	19914
+贡山	gòng shān	2070
+拱墅	gǒng shù	2654
+珙县	gǒng xiàn	499
+巩义	gǒng yì	2090
+固安	gù ān	0
+古城	gǔ chéng	79920
+故城	gù chéng	4037
+谷城	gǔ chéng	1436
+古交	gǔ jiāo	789
+古坑	gǔ kēng	1436
+古浪	gǔ làng	780
+古蔺	gǔ lìn	1116
+鼓楼	gǔ lóu	26321
+鼓山	gǔ shān	2927
+固始	gù shǐ	2341
+姑苏	gū sū	5259
+古塔	gǔ tǎ	2706
+古田	gǔ tián	5165
+古县	gǔ xiàn	2022
+固阳	gù yáng	676
+古冶	gǔ yě	502
+固原	gù yuán	3181
+沽源	gū yuán	769
+古丈	gǔ zhàng	843
+固镇	gù zhèn	918
+瓜州	guā zhōu	1442
+管城	guǎn chéng	1405
+官渡	guān dù	9600
+关岭	guān lǐng	1023
+关庙	guān miào	1092
+灌南	guàn nán	418
+关山	guān shān	5304
+馆陶	guǎn táo	1505
+官田	guān tián	1149
+关西	guān xī	14534
+冠县	guān xiàn	1149
+灌阳	guàn yáng	394
+观音	guān yīn	53360
+灌云	guàn yún	783
+广安	guǎng ān	9868
+广昌	guǎng chāng	2568
+广德	guǎng dé	3803
+广东	guǎng dōng	379499
+广丰	guǎng fēng	1735
+光复	guāng fù	9657
+广汉	guǎng hàn	2699
+广河	guǎng hé	746
+广陵	guǎng líng	5108
+广灵	guǎng líng	730
+光明	guāng míng	107449
+广南	guǎng nán	3131
+广宁	guǎng níng	2649
+广平	guǎng píng	4447
+广饶	guǎng ráo	1156
+光山	guāng shān	7085
+广水	guǎng shuǐ	822
+广西	guǎng xī	132080
+广信	guǎng xìn	1437
+广阳	guǎng yáng	1377
+广元	guǎng yuán	6075
+光泽	guāng zé	43510
+广州	guǎng zhōu	498147
+广宗	guǎng zōng	816
+贵池	guì chí	2133
+贵德	guì dé	1953
+贵定	guì dìng	703
+桂东	guì dōng	1616
+贵港	guì gǎng	2644
+桂林	guì lín	66417
+贵南	guì nán	463
+桂平	guì píng	1661
+归仁	guī rén	1834
+龟山	guī shān	4710
+贵溪	guì xī	1362
+贵阳	guì yáng	63870
+桂阳	guì yáng	3340
+贵州	guì zhōu	145427
+果洛	guǒ luò	1815
+国姓	guó xìng	1707
+哈密	hā mì	21430
+海安	hǎi ān	2943
+海北	hǎi běi	5407
+海沧	hǎi cāng	6449
+海城	hǎi chéng	3991
+海淀	hǎi diàn	36027
+海东	hǎi dōng	9662
+海端	hǎi duān	351
+海丰	hǎi fēng	3262
+海港	hǎi gǎng	16252
+海口	hǎi kǒu	54941
+海林	hǎi lín	2626
+海陵	hǎi líng	2403
+海伦	hǎi lún	12741
+海门	hǎi mén	4452
+海南	hǎi nán	158730
+海宁	hǎi níng	10163
+海曙	hǎi shǔ	2700
+海棠	hǎi táng	25392
+海西	hǎi xī	10354
+海兴	hǎi xīng	869
+海盐	hǎi yán	8268
+海晏	hǎi yàn	1128
+海阳	hǎi yáng	5655
+海原	hǎi yuán	1379
+海州	hǎi zhōu	2399
+海珠	hǎi zhū	9543
+汉滨	hàn bīn	1089
+韩城	hán chéng	3256
+汉川	hàn chuān	1152
+邯郸	hán dān	24643
+邗江	hán jiāng	1819
+涵江	hán jiāng	1052
+汉南	hàn nán	1429
+含山	hán shān	729
+邯山	hán shān	228
+汉寿	hàn shòu	1117
+汉台	hàn tái	647
+寒亭	hán tíng	641
+汉阳	hàn yáng	9850
+汉阴	hàn yīn	995
+汉源	hàn yuán	1461
+汉中	hàn zhōng	19777
+杭州	háng zhōu	320927
+濠江	háo jiāng	1428
+河北	hé běi	194778
+鹤壁	hè bì	3665
+鹤城	hè chéng	748
+河池	hé chí	3351
+合川	hé chuān	3869
+河东	hé dōng	18368
+合肥	hé féi	121760
+鹤峰	hè fēng	1175
+鹤岗	hè gǎng	1684
+河间	hé jiān	4594
+合江	hé jiāng	4017
+河津	hé jīn	1505
+和静	hé jìng	0
+河口	hé kǒu	23513
+贺兰	hè lán	4120
+和龙	hé lóng	2894
+和美	hé měi	12304
+河南	hé nán	263464
+和平	hé píng	203235
+鹤庆	hè qìng	912
+河曲	hé qū	1147
+鹤山	hè shān	2614
+赫山	hè shān	942
+合山	hé shān	536
+合水	hé shuǐ	1261
+和顺	hé shùn	6050
+和硕	hé shuò	3545
+荷塘	hé táng	6416
+和田	hé tián	24603
+河西	hé xī	23945
+和县	hé xiàn	7968
+合阳	hé yáng	1140
+河源	hé yuán	9503
+菏泽	hé zé	8294
+赫章	hè zhāng	618
+和政	hé zhèng	4080
+贺州	hè zhōu	3246
+合作	hé zuò	1193004
+黑河	hēi hé	4962
+黑山	hēi shān	12074
+黑水	hēi shuǐ	8888
+恒春	héng chūn	3493
+衡东	héng dōng	723
+横峰	héng fēng	609
+衡南	héng nán	683
+衡山	héng shān	7743
+横山	héng shān	6865
+恒山	héng shān	2872
+衡水	héng shuǐ	19387
+衡阳	héng yáng	14811
+横州	héng zhōu	297
+红安	hóng ān	1812
+洪洞	hóng dòng	2507
+红岗	hóng gǎng	179
+红古	hóng gǔ	611
+红河	hóng hé	7490
+洪湖	hóng hú	3827
+洪江	hóng jiāng	3433
+虹口	hóng kǒu	10800
+红旗	hóng qí	41269
+红桥	hóng qiáo	3470
+红山	hóng shān	6464
+洪山	hóng shān	5618
+红塔	hóng tǎ	2554
+宏伟	hóng wěi	20641
+洪雅	hóng yǎ	1224
+红原	hóng yuán	2004
+洪泽	hóng zé	2279
+后壁	hòu bì	2621
+后里	hòu lǐ	1674
+后龙	hòu lóng	1346
+侯马	hóu mǎ	1044
+湖北	hú běi	167920
+湖滨	hú bīn	8373
+壶关	hú guān	784
+湖口	hú kǒu	3726
+呼兰	hū lán	2325
+湖里	hú lǐ	7349
+虎林	hǔ lín	1061
+湖南	hú nán	266640
+湖内	hú nèi	1323
+虎丘	hǔ qiū	3281
+虎尾	hǔ wěi	5342
+湖西	hú xī	2118
+鄠邑	hù yì	0
+湖州	hú zhōu	13870
+互助	hù zhù	32354
+华安	huá ān	19903
+华池	huá chí	1360
+桦川	huà chuān	238
+化德	huà dé	328
+桦甸	huà diān	547
+花都	huā dū	8574
+花莲	huā lián	18327
+华龙	huá lóng	5303
+化隆	huà lóng	1157
+桦南	huà nán	478
+华宁	huá níng	802
+华坪	huá píng	509
+华容	huá róng	2186
+花山	huā shān	7650
+花坛	huā tán	6447
+华亭	huá tíng	3274
+花溪	huā xī	5818
+滑县	huá xiàn	1789
+华阴	huá yīn	2449
+华蓥	huá yíng	1115
+花垣	huā yuán	1041
+华州	huá zhōu	13470
+化州	huà zhōu	1687
+淮安	huái ān	14070
+怀安	huái ān	1142
+淮北	huái běi	6256
+淮滨	huái bīn	496
+怀化	huái huà	6058
+怀集	huái jí	884
+怀来	huái lái	1684
+淮南	huái nán	14663
+怀宁	huái níng	1582
+怀仁	huái rén	2818
+怀柔	huái róu	10301
+淮上	huái shàng	535
+淮阳	huái yáng	3185
+淮阴	huái yīn	3236
+槐荫	huái yīn	2165
+怀远	huái yuǎn	2745
+环翠	huán cuì	1109
+环江	huán jiāng	561
+桓仁	huán rén	916
+桓台	huán tái	757
+环县	huán xiàn	1588
+潢川	huáng chuān	1407
+黄岛	huáng dǎo	6163
+黄冈	huáng gāng	11704
+皇姑	huáng gū	3784
+黄骅	huáng huá	1421
+黄陵	huáng líng	1325
+黄龙	huáng lóng	14509
+黄梅	huáng méi	6470
+黄南	huáng nán	1335
+黄陂	huáng pí	4598
+黄平	huáng píng	1533
+黄埔	huáng pǔ	21195
+黄浦	huáng pǔ	20090
+黄山	huáng shān	51554
+黄石	huáng shí	15391
+黄岩	huáng yán	5401
+湟源	huáng yuán	927
+湟中	huáng zhōng	1350
+黄州	huáng zhōu	3829
+惠安	huì ān	4076
+会昌	huì chāng	2291
+惠城	huì chéng	2141
+汇川	huì chuān	1844
+珲春	huī chūn	2824
+惠东	huì dōng	3158
+会东	huì dōng	471
+惠济	huì jì	1780
+惠来	huì lái	1717
+会理	huì lǐ	11324
+惠民	huì mín	21794
+回民	huí mín	18099
+辉南	huī nán	500
+会宁	huì níng	2915
+惠农	huì nóng	3842
+惠山	huì shān	2604
+惠水	huì shuǐ	954
+会同	huì tóng	23071
+辉县	huī xiàn	1628
+徽县	huī xiàn	462
+惠阳	huì yáng	3737
+会泽	huì zé	1343
+惠州	huì zhōu	31975
+徽州	huī zhōu	10376
+浑江	hún jiāng	312
+浑南	hún nán	3678
+浑源	hún yuán	829
+霍城	huò chéng	815
+获嘉	huò jiā	582
+霍邱	huò qiū	1907
+霍山	huò shān	2494
+霍州	huò zhōu	796
+吉安	jí ān	11812
+集安	jí ān	1188
+鸡东	jī dōng	292
+鸡冠	jī guān	3172
+集集	jí jí	3205
+吉林	jí lín	98897
+基隆	jī lóng	18342
+吉隆	jí lóng	17763
+集美	jí měi	11483
+即墨	jí mò	7065
+济南	jǐ nán	142928
+济宁	jǐ níng	12304
+集宁	jí níng	1946
+稷山	jì shān	1021
+吉首	jí shǒu	2110
+吉水	jí shuǐ	1187
+鸡西	jī xī	2130
+绩溪	jì xī	1803
+吉县	jí xiàn	2711
+集贤	jí xián	1841
+济阳	jì yáng	2899
+吉阳	jí yáng	966
+济源	jì yuán	3258
+鸡泽	jī zé	517
+冀州	jì zhōu	4386
+吉州	jí zhōu	2373
+蓟州	jì zhōu	2043
+加查	jiā chá	605
+嘉定	jiā dìng	15330
+茄萣	jiā dìng	0
+佳冬	jiā dōng	542
+嘉禾	jiā hé	6275
+夹江	jiā jiāng	1261
+佳里	jiā lǐ	2240
+嘉黎	jiā lí	229
+嘉陵	jiā líng	6438
+嘉善	jiā shàn	3173
+贾汪	jiǎ wāng	635
+佳县	jiā xiàn	768
+郏县	jiá xiàn	715
+甲仙	jiǎ xiān	709
+嘉祥	jiā xiáng	2516
+嘉兴	jiā xīng	19814
+嘉荫	jiā yīn	466
+嘉鱼	jiā yú	749
+建安	jiàn ān	10398
+建昌	jiàn chāng	2410
+剑川	jiàn chuān	1281
+建德	jiàn dé	8128
+剑阁	jiàn gé	1782
+剑河	jiàn hé	3040
+建湖	jiàn hú	666
+建华	jiàn huá	30290
+监利	jiàn lì	1566
+建宁	jiàn níng	3621
+建瓯	jiàn ōu	1405
+建平	jiàn píng	10501
+尖山	jiān shān	3054
+建始	jiàn shǐ	1080
+尖石	jiān shí	758
+建水	jiàn shuǐ	2905
+涧西	jiàn xī	458
+简阳	jiǎn yáng	2407
+建阳	jiàn yáng	2252
+建邺	jiàn yè	2227
+尖扎	jiān zhā	423
+江岸	jiāng àn	4244
+江安	jiāng ān	1459
+江北	jiāng běi	22269
+江城	jiāng chéng	7605
+江川	jiāng chuān	2135
+江达	jiāng dá	1122
+江都	jiāng dū	4273
+江海	jiāng hǎi	6296
+江汉	jiāng hàn	10485
+江华	jiāng huá	3328
+江津	jiāng jīn	6691
+将军	jiāng jūn	169048
+江口	jiāng kǒu	12559
+将乐	jiāng lè	0
+江陵	jiāng líng	7195
+江门	jiāng mén	17163
+江南	jiāng nán	129294
+江宁	jiāng níng	15231
+江山	jiāng shān	35689
+江苏	jiāng sū	256327
+江西	jiāng xī	161803
+江夏	jiāng xià	6038
+绛县	jiàng xiàn	1264
+姜堰	jiāng yàn	1667
+江阳	jiāng yáng	1788
+江阴	jiāng yīn	10284
+江永	jiāng yǒng	1269
+江油	jiāng yóu	3008
+江源	jiāng yuán	3371
+江州	jiāng zhōu	3573
+江孜	jiāng zī	1121
+交城	jiāo chéng	1001
+蕉城	jiāo chéng	873
+蛟河	jiāo hé	782
+椒江	jiāo jiāng	1459
+交口	jiāo kǒu	9207
+蕉岭	jiāo lǐng	762
+郊区	jiāo qū	37283
+礁溪	jiāo xī	1375
+胶州	jiāo zhōu	8486
+焦作	jiāo zuò	9224
+揭东	jiē dōng	266
+解放	jiě fàng	207355
+界首	jiè shǒu	4098
+揭西	jiē xī	771
+介休	jiè xiū	2254
+揭阳	jiē yáng	6417
+晋安	jìn ān	4927
+金安	jīn ān	2749
+金昌	jīn chāng	2920
+晋城	jìn chéng	8275
+金川	jīn chuān	4798
+金东	jīn dōng	2700
+金凤	jīn fèng	7026
+金峰	jīn fēng	1422
+金湖	jīn hú	3513
+金华	jīn huá	25392
+锦江	jǐn jiāng	17639
+晋江	jìn jiāng	14980
+金林	jīn lín	509
+金门	jīn mén	18553
+津南	jīn nán	3162
+晋宁	jìn níng	2210
+金牛	jīn niú	41221
+金平	jīn píng	5084
+锦屏	jǐn píng	1825
+金沙	jīn shā	23731
+金山	jīn shān	93464
+津市	jīn shì	43101
+金水	jīn shuǐ	12044
+金塔	jīn tǎ	3591
+金台	jīn tái	3097
+金坛	jīn tán	2070
+金堂	jīn táng	2808
+金湾	jīn wān	2364
+金溪	jīn xī	1114
+进贤	jìn xián	2350
+金乡	jīn xiāng	2182
+金秀	jīn xiù	6581
+金阳	jīn yáng	2153
+晋源	jìn yuán	1282
+缙云	jìn yún	2550
+金寨	jīn zhài	3569
+晋中	jìn zhōng	7392
+锦州	jǐn zhōu	10346
+金州	jīn zhōu	9111
+晋州	jìn zhōu	1531
+静安	jìng ān	18266
+靖安	jìng ān	1034
+靖边	jìng biān	1538
+泾川	jīng chuān	732
+旌德	jīng dé	1087
+景东	jǐng dōng	849
+景谷	jǐng gǔ	493
+静海	jìng hǎi	3399
+精河	jīng hé	435
+景洪	jǐng hóng	1906
+镜湖	jìng hú	1953
+靖江	jìng jiāng	3940
+京口	jīng kǒu	1905
+静乐	jìng lè	809
+荆门	jīng mén	6293
+静宁	jìng níng	983
+景宁	jǐng níng	945
+京山	jīng shān	1969
+景泰	jǐng tài	7912
+靖西	jìng xī	863
+泾县	jīng xiàn	1653
+景县	jǐng xiàn	691
+井陉	jǐng xíng	2273
+竞秀	jìng xiù	694
+井研	jǐng yán	509
+泾阳	jīng yáng	1594
+旌阳	jīng yáng	822
+靖宇	jìng yǔ	3235
+靖远	jìng yuǎn	1372
+泾源	jīng yuán	861
+荆州	jīng zhōu	22550
+靖州	jìng zhōu	692
+九江	jiǔ jiāng	21069
+鸠江	jiū jiāng	0
+九龙	jiǔ lóng	61876
+酒泉	jiǔ quán	11047
+九如	jiǔ rú	2038
+九台	jiǔ tái	1247
+九原	jiǔ yuán	1057
+久治	jiǔ zhì	3235
+巨鹿	jù lù	3390
+莒南	jǔ nán	993
+句容	jù róng	2670
+莒县	jǔ xiàn	1566
+巨野	jù yě	1412
+鄄城	juàn chéng	939
+君山	jūn shān	2862
+浚县	jùn xiàn	780
+卡若	kǎ ruò	421
+喀什	kā shí	14799
+开封	kāi fēng	33694
+开福	kāi fú	2745
+开化	kāi huà	7290
+开江	kāi jiāng	1089
+凯里	kǎi lǐ	6779
+开鲁	kāi lǔ	1095
+开平	kāi píng	6185
+开阳	kāi yáng	2333
+开远	kāi yuǎn	2259
+开原	kāi yuán	1379
+开州	kāi zhōu	1294
+崁顶	kàn dǐng	714
+康保	kāng bǎo	787
+康定	kāng dìng	7281
+康乐	kāng lè	7791
+康马	kāng mǎ	150
+康平	kāng píng	1848
+康县	kāng xiàn	2891
+柯城	kē chéng	465
+克东	kè dōng	407
+岢岚	kě lán	570
+柯坪	kē píng	172
+柯桥	kē qiáo	2564
+克山	kè shān	2841
+垦利	kěn lì	735
+崆峒	kōng tóng	1557
+口湖	kǒu hú	1038
+库车	kù chē	2148
+宽城	kuān chéng	1358
+宽甸	kuān diān	612
+矿区	kuàng qū	7954
+奎屯	kuí tún	1088
+奎文	kuí wén	662
+昆明	kūn míng	136238
+昆山	kūn shān	20243
+昆玉	kūn yù	907
+拉萨	lā sà	40978
+拉孜	lā zī	458
+来安	lái ān	7012
+来宾	lái bīn	15672
+来凤	lái fèng	821
+莱山	lái shān	1552
+涞水	lái shuǐ	1031
+莱芜	lái wú	5282
+莱西	lái xī	5712
+莱阳	lái yáng	2874
+来义	lái yì	310
+涞源	lái yuán	1154
+莱州	lái zhōu	3699
+澜沧	lán cāng	4192
+岚皋	lán gāo	522
+兰考	lán kǎo	2367
+兰陵	lán líng	6585
+兰坪	lán píng	409
+蓝山	lán shān	6049
+兰山	lán shān	4834
+岚山	lán shān	4572
+蓝田	lán tián	7433
+兰西	lán xī	34167
+兰溪	lán xī	3820
+岚县	lán xiàn	1064
+兰屿	lán yǔ	2341
+兰州	lán zhōu	102841
+廊坊	láng fāng	13793
+郎溪	láng xī	790
+朗县	lǎng xiàn	577
+琅琊	láng yá	15881
+阆中	láng zhōng	4349
+老边	lǎo biān	1099
+老城	lǎo chéng	23133
+崂山	láo shān	12327
+乐安	lè ān	2387
+乐昌	lè chāng	1102
+乐东	lè dōng	1314
+乐都	lè dōu	2028
+乐陵	lè líng	1520
+乐平	lè píng	3617
+乐山	lè shān	15638
+乐亭	lè tíng	1695
+乐业	lè yè	8601
+乐至	lè zhì	3004
+雷波	léi bō	1005
+雷山	léi shān	2384
+耒阳	lěi yáng	2150
+雷州	léi zhōu	3739
+荔波	lì bō	2583
+李沧	lǐ cāng	4656
+历城	lì chéng	5382
+荔城	lì chéng	1327
+鲤城	lǐ chéng	1086
+黎城	lí chéng	953
+利川	lì chuān	2072
+黎川	lí chuān	540
+里港	lǐ gǎng	1395
+丽江	lì jiāng	57396
+利津	lì jīn	1150
+醴陵	lǐ líng	2592
+黎平	lí píng	5819
+荔浦	lì pǔ	958
+礼泉	lǐ quán	1037
+立山	lì shān	2151
+离石	lí shí	1526
+梨树	lí shù	2888
+丽水	lí shuǐ	9007
+溧水	lì shuǐ	4927
+理塘	lǐ táng	2265
+利通	lì tōng	1003
+荔湾	lì wān	6811
+历下	lì xià	2791
+理县	lǐ xiàn	2045
+澧县	lǐ xiàn	1280
+礼县	lǐ xiàn	1093
+蠡县	lǐ xiàn	823
+利辛	lì xīn	939
+溧阳	lì yáng	3662
+利州	lì zhōu	1002
+连城	lián chéng	8779
+莲池	lián chí	1943
+莲都	lián dōu	951
+莲湖	lián hú	2829
+莲花	lián huā	47022
+连江	lián jiāng	8836
+廉江	lián jiāng	1399
+连南	lián nán	870
+连平	lián píng	3262
+连山	lián shān	5534
+涟水	lián shuǐ	2150
+濂溪	lián xī	0
+涟源	lián yuán	887
+连云	lián yún	12487
+连州	lián zhōu	2244
+凉城	liáng chéng	1072
+两当	liǎng dāng	520
+梁河	liáng hé	1060
+梁平	liáng píng	1886
+良庆	liáng qìng	1173
+梁山	liáng shān	13940
+凉山	liáng shān	9170
+梁溪	liáng xī	1042
+梁园	liáng yuán	892
+凉州	liáng zhōu	6010
+聊城	liáo chéng	9936
+辽宁	liáo níng	129858
+辽阳	liáo yáng	6775
+辽源	liáo yuán	2530
+辽中	liáo zhōng	1748
+烈山	liè shān	836
+临安	lín ān	8613
+林边	lín biān	1399
+临沧	lín cāng	4458
+临城	lín chéng	3041
+临川	lín chuān	3422
+林甸	lín diàn	258
+临汾	lín fén	10793
+临高	lín gāo	4031
+临桂	lín guì	894
+临海	lín hǎi	9120
+临河	lín hé	3078
+临江	lín jiāng	7212
+林口	lín kǒu	2929
+临澧	lín lǐ	532
+麟洛	lín luò	433
+林内	lín nèi	2251
+临平	lín píng	2366
+临清	lín qīng	1898
+临朐	lín qú	1645
+临泉	lín quán	1905
+临沭	lín shù	963
+邻水	lín shuǐ	1800
+临潭	lín tán	454
+临洮	lín táo	1880
+临潼	lín tóng	4544
+临渭	lín wèi	1065
+临武	lín wǔ	608
+林西	lín xī	2780
+临西	lín xī	494
+临夏	lín xià	3402
+临县	lín xiàn	1249
+临湘	lín xiāng	1137
+临翔	lín xiáng	136
+临沂	lín yí	25274
+临猗	lín yī	1034
+临邑	lín yì	1027
+临颍	lín yǐng	860
+麟游	lín yóu	395
+林园	lín yuán	2722
+临泽	lín zé	654
+临漳	lín zhāng	1057
+林芝	lín zhī	12491
+林州	lín zhōu	7251
+林周	lín zhōu	391
+临淄	lín zī	3024
+灵宝	líng bǎo	4955
+灵璧	líng bì	1384
+陵城	líng chéng	781
+陵川	líng chuān	1200
+灵川	líng chuān	772
+岭东	lǐng dōng	1536
+凌海	líng hǎi	554
+凌河	líng hé	847
+零陵	líng líng	2235
+灵丘	líng qiū	900
+灵山	líng shān	10748
+灵石	líng shí	3464
+灵寿	líng shòu	1358
+陵水	líng shuǐ	3983
+灵台	líng tái	1119
+灵武	líng wǔ	1461
+苓雅	líng yǎ	0
+凌源	líng yuán	875
+凌云	líng yún	8845
+留坝	liú bà	706
+柳北	liǔ běi	601
+柳城	liǔ chéng	971
+六龟	liù guī	904
+六合	liù hé	16076
+柳河	liǔ hé	1125
+六甲	liù jiǎ	11983
+柳江	liǔ jiāng	1740
+六脚	liù jiǎo	796
+柳林	liǔ lín	2900
+柳南	liǔ nán	570
+琉球	liú qiú	19320
+浏阳	liú yáng	8018
+柳营	liǔ yíng	917
+柳州	liǔ zhōu	18708
+隆安	lóng ān	1562
+龙安	lóng ān	1046
+隆昌	lóng chāng	1741
+龙城	lóng chéng	14588
+龙川	lóng chuān	3092
+陇川	lǒng chuān	701
+隆德	lóng dé	2970
+龙凤	lóng fèng	12832
+龙岗	lóng gǎng	15773
+龙港	lóng gǎng	1991
+龙海	lóng hǎi	3408
+龙湖	lóng hú	14484
+龙华	lóng huá	15459
+隆化	lóng huà	772
+隆回	lóng huí	1211
+龙江	lóng jiāng	82605
+龙井	lóng jǐng	19287
+龙口	lóng kǒu	3854
+龙里	lóng lǐ	1290
+隆林	lóng lín	564
+龙陵	lóng líng	985
+龙门	lóng mén	24459
+陇南	lǒng nán	3016
+龙南	lóng nán	936
+龙崎	lóng qí	1040
+龙泉	lóng quán	15428
+龙沙	lóng shā	468
+龙山	lóng shān	17584
+龙胜	lóng shèng	2229
+龙潭	lóng tán	13193
+龙亭	lóng tíng	960
+龙湾	lóng wān	17839
+龙圩	lóng wéi	0
+龙文	lóng wén	3411
+陇西	lǒng xī	4279
+陇县	lǒng xiàn	1099
+龙岩	lóng yán	9432
+隆阳	lóng yáng	554
+隆尧	lóng yáo	648
+龙游	lóng yóu	2099
+龙州	lóng zhōu	1307
+隆子	lóng zi	829
+娄底	lóu dǐ	5361
+娄烦	lóu fán	448
+娄星	lóu xīng	298
+六安	lù ān	10570
+路北	lù běi	8401
+鹿草	lù cǎo	546
+鹿城	lù chéng	5023
+潞城	lù chéng	969
+陆川	lù chuān	4826
+鲁甸	lǔ diān	886
+泸定	lú dìng	5349
+陆丰	lù fēng	2953
+禄丰	lù fēng	1025
+鹿港	lù gǎng	7962
+鹿谷	lù gǔ	965
+陆河	lù hé	866
+炉霍	lú huò	610
+庐江	lú jiāng	3761
+渌口	lù kǒu	0
+陆良	lù liáng	865
+卢龙	lú lóng	1509
+路南	lù nán	7805
+路桥	lù qiáo	12514
+碌曲	lù qū	255
+禄劝	lù quàn	1420
+鹿泉	lù quán	1019
+庐山	lú shān	16926
+芦山	lú shān	3617
+鲁山	lǔ shān	2242
+卢氏	lú shì	3792
+泸水	lú shuǐ	660
+芦淞	lú sōng	419
+泸溪	lú xī	976
+泸西	lú xī	600
+芦溪	lú xī	552
+泸县	lú xiàn	950
+庐阳	lú yáng	2872
+鹿野	lù yě	1692
+鹿邑	lù yì	1263
+鹿寨	lù zhài	689
+泸州	lú zhōu	15281
+芦洲	lú zhōu	2125
+潞州	lù zhōu	890
+芦竹	lú zhú	1324
+路竹	lù zhú	919
+栾城	luán chéng	938
+栾川	luán chuān	1628
+滦南	luán nán	394
+滦平	luán píng	2239
+滦州	luán zhōu	758
+仑背	lún bèi	684
+轮台	lún tái	1114
+萝北	luó běi	361
+罗城	luó chéng	3985
+洛川	luò chuān	1905
+罗甸	luó diàn	510
+罗定	luó dìng	1723
+罗东	luó dōng	2868
+罗湖	luó hú	14574
+罗江	luó jiāng	1973
+洛江	luò jiāng	623
+洛龙	luò lóng	911
+洛隆	luò lóng	79
+洛南	luò nán	1081
+洛宁	luò níng	1162
+罗平	luó píng	3041
+洛浦	luò pǔ	785
+罗山	luó shān	4095
+罗田	luó tián	1500
+洛阳	luò yáng	62758
+罗源	luó yuán	4014
+洛扎	luò zhā	456
+罗庄	luó zhuāng	1179
+绿春	lǜ chūn	400
+绿岛	lǜ dǎo	3804
+吕梁	lǚ liáng	8111
+绿园	lǜ yuán	2302
+略阳	lüè yáng	948
+马边	mǎ biān	517
+麻城	má chéng	2982
+马村	mǎ cūn	2340
+麻豆	má dòu	6686
+玛多	mǎ duō	676
+马公	mǎ gōng	3757
+马关	mǎ guān	2880
+玛家	mǎ jiā	183
+麻江	má jiāng	394
+马龙	mǎ lóng	18812
+玛沁	mǎ qìn	268
+玛曲	mǎ qū	445
+马山	mǎ shān	47025
+麻山	má shān	265
+麻阳	má yáng	749
+马尾	mǎ yǐ	22442
+麻章	má zhāng	250
+麦积	mài jī	1742
+麦寮	mài liáo	0
+满城	mǎn chéng	7034
+满州	mǎn zhōu	1718
+芒康	máng kāng	1155
+芒市	máng shì	2302
+茫崖	máng yá	346
+茅箭	máo jiàn	176
+茂林	mào lín	2102
+茂名	mào míng	11368
+茂南	mào nán	518
+茂县	mào xiàn	1420
+美姑	měi gū	480
+梅江	méi jiāng	2159
+美兰	měi lán	6931
+美浓	měi nóng	5594
+眉山	méi shān	18453
+梅山	méi shān	3690
+湄潭	méi tán	1008
+梅县	méi xiàn	3469
+眉县	méi xiàn	1285
+梅州	méi zhōu	11430
+门源	mén yuán	1681
+蒙城	méng chéng	2003
+孟村	mèng cūn	358
+勐海	měng hǎi	2121
+孟津	mèng jīn	1329
+勐腊	měng là	946
+孟连	mèng lián	608
+蒙山	méng shān	4669
+蒙阴	méng yīn	1191
+孟州	mèng zhōu	730
+蒙自	méng zì	3767
+米东	mǐ dōng	293
+弥渡	mí dù	581
+弥勒	mí lè	8197
+米林	mǐ lín	1453
+汨罗	mì luó	2043
+密山	mì shān	773
+弥陀	mí tuó	18450
+米易	mǐ yì	764
+密云	mì yún	8295
+米脂	mǐ zhī	1170
+渑池	miǎn chí	1737
+冕宁	miǎn níng	742
+勉县	miǎn xiàn	704
+绵阳	mián yáng	14690
+绵竹	mián zhú	1821
+苗栗	miáo lì	11021
+民丰	mín fēng	887
+民和	mín hé	4368
+闽侯	mǐn hòu	5501
+民勤	mín qín	782
+闽清	mǐn qīng	2754
+民权	mín quán	12714
+岷县	mín xiàn	1359
+闵行	mǐn xíng	11207
+民雄	mín xióng	1388
+民乐	mín yuè	6804
+明光	míng guāng	2846
+名间	míng jiān	865
+名山	míng shān	11786
+明山	míng shān	5228
+明水	míng shuǐ	2036
+明溪	míng xī	594
+漠河	mò hé	3396
+墨江	mò jiāng	781
+墨脱	mò tuō	3318
+墨玉	mò yù	1490
+牟定	móu dìng	243
+沐川	mù chuān	421
+牡丹	mǔ dān	44591
+木兰	mù lán	15433
+木垒	mù lěi	679
+穆棱	mù léng	542
+木里	mù lǐ	1196
+牟平	mù píng	1353
+牧野	mù yě	3279
+那坡	nà pō	400
+那曲	nà qū	2860
+纳溪	nà xī	711
+纳雍	nà yōng	680
+乃东	nǎi dōng	172
+南岸	nán àn	16211
+南安	nán ān	13013
+南澳	nán ào	8710
+南部	nán bù	216634
+南岔	nán chà	249
+南昌	nán chāng	93403
+南城	nán chéng	12647
+南充	nán chōng	9807
+南川	nán chuān	2737
+南丹	nán dān	1410
+南芬	nán fēn	146
+南丰	nán fēng	2889
+南港	nán gǎng	5143
+南岗	nán gǎng	4342
+南宫	nán gōng	5267
+南关	nán guān	4254
+南海	nán hǎi	117246
+南和	nán hé	2058
+南湖	nán hú	15118
+南华	nán huá	12362
+南化	nán huà	889
+南涧	nán jiàn	692
+南江	nán jiāng	4310
+南京	nán jīng	427484
+南靖	nán jìng	2222
+南开	nán kāi	25222
+南康	nán kāng	2559
+南乐	nán lè	883
+南陵	nán líng	1376
+南明	nán míng	9127
+南宁	nán níng	68706
+南皮	nán pí	689
+南票	nán piào	143
+南平	nán píng	8118
+南谯	nán qiáo	0
+南区	nán qū	27937
+南沙	nán shā	19965
+南山	nán shān	46149
+南通	nán tōng	23613
+南投	nán tóu	11429
+南屯	nán tún	1483
+南溪	nán xī	1969
+楠西	nán xī	372
+南县	nán xiàn	16462
+南雄	nán xióng	2794
+南浔	nán xún	3014
+南阳	nán yáng	29968
+南岳	nán yuè	3179
+南漳	nán zhāng	798
+南召	nán zhào	1159
+南郑	nán zhèng	1401
+南州	nán zhōu	7125
+南庄	nán zhuāng	2986
+楠梓	nán zǐ	2058
+囊谦	náng qiān	630
+讷河	nè hé	3983
+内湖	nèi hú	3999
+内黄	nèi huáng	1004
+内江	nèi jiāng	6124
+内门	nèi mén	1217
+内埔	nèi pǔ	1332
+内丘	nèi qiū	571
+内乡	nèi xiāng	1966
+嫩江	nèn jiāng	1912
+尼玛	ní mǎ	36240
+尼木	ní mù	612
+鸟松	niǎo sōng	617
+聂荣	niè róng	2729
+宁安	níng ān	2270
+宁波	níng bō	113129
+宁城	níng chéng	1440
+宁德	níng dé	9733
+宁都	níng dōu	1950
+宁洱	níng ěr	312
+宁国	níng guó	3678
+宁海	níng hǎi	7552
+宁河	níng hé	2461
+宁化	níng huà	2865
+宁江	níng jiāng	560
+宁晋	níng jìn	851
+宁津	níng jīn	667
+宁蒗	níng làng	941
+宁陵	níng líng	928
+宁明	níng míng	556
+宁南	níng nán	644
+宁强	níng qiáng	1081
+宁陕	níng shǎn	675
+宁武	níng wǔ	1400
+宁夏	níng xià	48893
+宁县	níng xiàn	16911
+宁乡	níng xiāng	5124
+宁阳	níng yáng	1099
+宁远	níng yuǎn	3129
+农安	nóng ān	1521
+怒江	nù jiāng	5241
+暖暖	nuǎn nuǎn	29596
+瓯海	ōu hǎi	2090
+磐安	pán ān	1246
+潘集	pān jí	262
+盘锦	pán jǐn	4778
+盘龙	pán lóng	7284
+盘山	pán shān	8340
+磐石	pán shí	4468
+番禺	pān yú	15503
+盘州	pán zhōu	187
+沛县	pèi xiàn	2806
+蓬安	péng ān	658
+澎湖	pēng hú	16239
+蓬江	péng jiāng	1338
+蓬莱	péng lái	9949
+彭山	péng shān	1675
+彭水	péng shuǐ	1587
+蓬溪	péng xī	764
+彭阳	péng yáng	564
+彭泽	péng zé	1429
+彭州	péng zhōu	3186
+郫都	pí dōu	0
+皮山	pí shān	559
+埤头	pí tóu	1095
+邳州	pī zhōu	2322
+偏关	piān guān	366
+平安	píng ān	165522
+平坝	píng bà	980
+屏边	píng biān	436
+平昌	píng chāng	3806
+平城	píng chéng	2537
+平川	píng chuān	3592
+平定	píng dìng	16969
+屏东	píng dōng	17220
+平度	píng dù	6057
+平房	píng fáng	12215
+平谷	píng gǔ	6077
+平桂	píng guì	222
+平果	píng guǒ	1111
+平和	píng hé	37382
+平湖	píng hú	7407
+平江	píng jiāng	6902
+平乐	píng lè	2859
+平利	píng lì	984
+平凉	píng liáng	4899
+坪林	píng lín	1502
+平陆	píng lù	1348
+平鲁	píng lǔ	396
+平罗	píng luó	1197
+平南	píng nán	2377
+屏南	píng nán	890
+平桥	píng qiáo	3233
+平泉	píng quán	1492
+平山	píng shān	8722
+坪山	píng shān	6911
+屏山	píng shān	4350
+平顺	píng shùn	10576
+平潭	píng tán	7192
+平塘	píng táng	836
+平武	píng wǔ	1212
+平溪	píng xī	1738
+萍乡	píng xiāng	4635
+平乡	píng xiāng	1340
+凭祥	píng xiáng	975
+平阳	píng yáng	10137
+平遥	píng yáo	6530
+平邑	píng yì	1259
+平阴	píng yīn	1551
+平舆	píng yú	1446
+平原	píng yuán	48942
+平远	píng yuǎn	1253
+平镇	píng zhèn	4159
+坡头	pō tóu	1477
+泊头	pō tóu	486
+鄱阳	pó yáng	9616
+普安	pǔ ān	2057
+浦北	pǔ běi	527
+蒲城	pú chéng	1836
+浦城	pǔ chéng	1358
+普定	pǔ dìng	1167
+普洱	pǔ ěr	33738
+普格	pǔ gé	638
+浦江	pǔ jiāng	14994
+蒲江	pú jiāng	1630
+浦口	pǔ kǒu	5095
+普兰	pǔ lán	9565
+埔里	pǔ lǐ	3600
+普宁	pǔ níng	4921
+莆田	pú tián	26769
+普陀	pǔ tuó	14960
+蒲县	pú xiàn	396
+埔心	pǔ xīn	1166
+埔盐	pǔ yán	583
+濮阳	pú yáng	9534
+朴子	pǔ zi	2246
+淇滨	qí bīn	327
+蕲春	qí chūn	1440
+启东	qǐ dōng	2537
+祁东	qí dōng	758
+七堵	qī dǔ	881
+七股	qī gǔ	1691
+齐河	qí hé	1445
+綦江	qí jiāng	2319
+旗津	qí jīn	1152
+祁连	qí lián	5052
+麒麟	qí lín	30168
+七美	qī měi	650
+祁门	qí mén	2235
+岐山	qí shān	6587
+旗山	qí shān	2596
+奇台	qí tái	790
+栖霞	qī xiá	7242
+杞县	qǐ xiàn	2081
+祁县	qí xiàn	1492
+淇县	qí xiàn	727
+七星	qī xīng	17464
+祁阳	qí yáng	924
+迁安	qiān ān	2097
+乾安	qián ān	0
+前锋	qián fēng	46207
+潜江	qián jiāng	2915
+黔江	qián jiāng	2382
+前进	qián jìn	92590
+前金	qián jīn	576
+黔南	qián nán	2789
+千山	qiān shān	9499
+潜山	qián shān	1739
+钱塘	qián táng	12728
+犍为	qián wéi	1195
+黔西	qián xī	3822
+迁西	qiān xī	742
+乾县	qián xiàn	2
+千阳	qiān yáng	965
+前镇	qián zhèn	1425
+谯城	qiáo chéng	649
+桥东	qiáo dōng	4244
+巧家	qiǎo jiā	706
+硚口	qiáo kǒu	1557
+桥头	qiáo tóu	14476
+桥西	qiáo xī	4759
+且末	qiě mò	704
+秦安	qín ān	1068
+钦北	qīn běi	280
+秦都	qín dōu	549
+秦淮	qín huái	9789
+钦南	qīn nán	135
+沁水	qìn shuǐ	1112
+沁县	qìn xiàn	741
+沁阳	qìn yáng	1539
+沁源	qìn yuán	1140
+钦州	qīn zhōu	4891
+秦州	qín zhōu	2426
+庆安	qìng ān	2028
+清城	qīng chéng	930
+庆城	qìng chéng	597
+青川	qīng chuān	1154
+青岛	qīng dǎo	238213
+清丰	qīng fēng	856
+青冈	qīng gāng	1147
+青海	qīng hǎi	85031
+清河	qīng hé	11326
+青河	qīng hé	494
+清涧	qīng jiàn	846
+清流	qīng liú	8123
+青龙	qīng lóng	19744
+晴隆	qíng lóng	768
+青浦	qīng pǔ	6467
+青山	qīng shān	49313
+青神	qīng shén	740
+清水	qīng shuǐ	119859
+青田	qīng tián	3200
+青县	qīng xiàn	1214
+青秀	qīng xiù	2676
+清徐	qīng xú	984
+庆阳	qìng yáng	4434
+青羊	qīng yáng	3983
+青阳	qīng yáng	2808
+清远	qīng yuǎn	11835
+庆元	qìng yuán	2170
+清原	qīng yuán	1260
+清苑	qīng yuàn	1045
+青原	qīng yuán	518
+庆云	qìng yún	2480
+清镇	qīng zhèn	1914
+青州	qīng zhōu	6951
+琼海	qióng hǎi	4076
+琼结	qióng jié	101
+邛崃	qióng lái	3053
+芎林	qiōng lín	0
+琼山	qióng shān	2029
+琼中	qióng zhōng	1384
+丘北	qiū běi	588
+邱县	qiū xiàn	1735
+曲阜	qū fù	6262
+曲江	qǔ jiāng	6317
+衢江	qú jiāng	468
+曲靖	qū jìng	6949
+曲水	qǔ shuǐ	2102
+曲松	qū sōng	497
+曲沃	qū wò	1408
+渠县	qú xiàn	1264
+曲阳	qū yáng	2508
+衢州	qú zhōu	8538
+曲周	qū zhōu	591
+泉港	quán gǎng	1160
+全椒	quán jiāo	992
+全南	quán nán	808
+泉山	quán shān	3135
+泉州	quán zhōu	42849
+全州	quán zhōu	7994
+确山	què shān	1183
+壤塘	rǎng táng	340
+饶河	ráo hé	686
+饶平	ráo píng	2650
+饶阳	ráo yáng	645
+仁爱	rén ài	9809
+仁布	rén bù	156
+任城	rèn chéng	1312
+仁德	rén dé	3522
+仁和	rén hé	7462
+仁化	rén huà	1086
+仁怀	rén huái	1742
+任丘	rén qiū	1048
+仁寿	rén shòu	3468
+仁武	rén wǔ	1202
+任泽	rèn zé	2748
+日土	rì tǔ	475
+日照	rì zhào	24064
+融安	róng ān	570
+荣昌	róng chāng	4756
+荣成	róng chéng	2947
+榕城	róng chéng	1209
+容城	róng chéng	682
+榕江	róng jiāng	1082
+融水	róng shuǐ	1634
+荣县	róng xiàn	2221
+容县	róng xiàn	1768
+汝城	rǔ chéng	1917
+如东	rú dōng	2600
+如皋	rú gāo	6748
+汝南	rǔ nán	3435
+乳山	rǔ shān	1777
+汝阳	rǔ yáng	1496
+乳源	rǔ yuán	1140
+汝州	rǔ zhōu	3446
+瑞安	ruì ān	11673
+瑞昌	ruì chāng	1741
+芮城	ruì chéng	1275
+瑞芳	ruì fāng	2684
+瑞金	ruì jīn	9714
+瑞丽	ruì lì	7624
+瑞穗	ruì suì	3472
+润州	rùn zhōu	947
+若羌	ruò qiāng	1275
+萨嘎	sà gā	281
+萨迦	sà jiā	2476
+赛罕	sài hǎn	1354
+三重	sān chóng	24058
+三都	sān dōu	2362
+三河	sān hé	7940
+三江	sān jiāng	11560
+三门	sān mén	17865
+三民	sān mín	7176
+三明	sān míng	52500
+三沙	sān shā	2715
+三水	sān shuǐ	6340
+三穗	sān suì	393
+三台	sān tái	10399
+三湾	sān wān	1068
+三峡	sān xiá	31185
+三星	sān xīng	259206
+三亚	sān yà	73635
+三义	sān yì	1656
+三元	sān yuán	43015
+三原	sān yuán	6247
+三芝	sān zhī	742
+桑日	sāng rì	244
+桑植	sāng zhí	1375
+色达	sè dá	3337
+色尼	sè ní	0
+莎车	shā chē	1204
+沙河	shā hé	13133
+沙鹿	shā lù	1356
+沙市	shā shì	22279
+沙湾	shā wān	8485
+沙县	shā xiàn	13223
+沙雅	shā yǎ	291
+沙洋	shā yáng	834
+山城	shān chéng	13548
+山丹	shān dān	1330
+山东	shān dōng	326199
+善化	shàn huà	1932
+杉林	shān lín	1690
+山南	shān nán	9495
+鄯善	shàn shàn	1541
+山上	shān shàng	41046
+山亭	shān tíng	943
+汕头	shàn tóu	24802
+汕尾	shàn wěi	6296
+山西	shān xī	177403
+陕西	shǎn xī	158939
+山阳	shān yáng	7845
+山阴	shān yīn	5160
+陕州	shǎn zhōu	1884
+上蔡	shàng cài	1350
+商城	shāng chéng	81919
+上城	shàng chéng	3114
+上党	shàng dǎng	2861
+商都	shāng dōu	3725
+上高	shàng gāo	17655
+上海	shàng hǎi	1406495
+上杭	shàng háng	2133
+商河	shāng hé	1443
+上街	shàng jiē	16829
+上栗	shàng lì	443
+上林	shàng lín	2566
+商洛	shāng luò	4141
+商南	shāng nán	1261
+商丘	shāng qiū	9244
+上饶	shàng ráo	7881
+商水	shāng shuǐ	730
+上思	shàng sī	490
+尚义	shàng yì	1438
+上犹	shàng yóu	524
+上虞	shàng yú	3306
+尚志	shàng zhì	3586
+商州	shāng zhōu	1424
+邵东	shào dōng	1458
+韶关	sháo guān	9639
+韶山	sháo shān	5401
+邵武	shào wǔ	1861
+绍兴	shào xīng	34751
+邵阳	shào yáng	6977
+射洪	shè hóng	1197
+社旗	shè qí	1101
+社头	shè tóu	680
+歙县	shè xiàn	3913
+涉县	shè xiàn	1539
+射阳	shè yáng	1273
+神池	shén chí	723
+什邡	shén fāng	1520
+神冈	shén gāng	1514
+伸港	shēn gǎng	330
+沈河	shěn hé	3983
+深坑	shēn kēng	4104
+神木	shén mù	5582
+沈丘	shěn qiū	1065
+莘县	shēn xiàn	809
+沈阳	shěn yáng	153722
+深泽	shēn zé	1673
+申扎	shēn zhā	117
+深圳	shēn zhèn	524347
+深州	shēn zhōu	1073
+嵊泗	shèng sì	1419
+嵊州	shèng zhōu	2050
+市北	shì běi	8129
+施秉	shī bǐng	382
+石城	shí chéng	4768
+施甸	shī diān	440
+石碇	shí dìng	962
+石峰	shí fēng	1615
+石冈	shí gāng	1064
+石鼓	shí gǔ	3456
+石拐	shí guǎi	196
+浉河	shī hé	584
+石林	shí lín	11278
+士林	shì lín	10731
+石龙	shí lóng	5054
+石楼	shí lóu	1445
+石门	shí mén	11560
+石棉	shí mián	3277
+市南	shì nán	6006
+石屏	shí píng	1357
+石阡	shí qiān	1094
+石渠	shí qú	1159
+石泉	shí quán	2121
+石狮	shí shī	7617
+石首	shí shǒu	2104
+石台	shí tái	1554
+狮潭	shī tán	478
+始兴	shǐ xīng	1615
+十堰	shí yàn	6206
+市中	shì zhōng	143180
+石柱	shí zhù	8214
+狮子	shī zi	110700
+师宗	shī zōng	1463
+寿丰	shòu fēng	656
+寿光	shòu guāng	3325
+寿宁	shòu níng	2890
+寿县	shòu xiàn	4297
+寿阳	shòu yáng	1963
+舒城	shū chéng	1994
+疏附	shū fù	437
+舒兰	shū lán	826
+疏勒	shū lè	1579
+树林	shù lín	34673
+蜀山	shǔ shān	10284
+沭阳	shù yáng	3039
+双柏	shuāng bǎi	747
+双城	shuāng chéng	8884
+双峰	shuāng fēng	4945
+双河	shuāng hé	1443
+双湖	shuāng hú	776
+双江	shuāng jiāng	2586
+双辽	shuāng liáo	573
+双流	shuāng liú	7884
+双滦	shuāng luán	148
+双牌	shuāng pái	396
+双桥	shuāng qiáo	3384
+双清	shuāng qīng	1137
+双塔	shuāng tǎ	4506
+双溪	shuāng xī	4406
+双阳	shuāng yáng	1498
+水城	shuǐ chéng	7912
+水富	shuǐ fù	580
+水里	shuǐ lǐ	40345
+水林	shuǐ lín	1065
+水上	shuǐ shàng	82136
+顺昌	shùn chāng	1793
+顺城	shùn chéng	1518
+顺德	shùn dé	26284
+顺河	shùn hé	1086
+顺平	shùn píng	1228
+顺庆	shùn qìng	1710
+顺义	shùn yì	9648
+朔城	shuò chéng	529
+朔州	shuò zhōu	3746
+四川	sì chuān	329357
+泗洪	sì hóng	1301
+四湖	sì hú	1274
+四会	sì huì	1791
+思茅	sī máo	1430
+思明	sī míng	8227
+思南	sī nán	3455
+四平	sì píng	10570
+泗水	sì shuǐ	3401
+泗县	sì xiàn	1448
+泗阳	sì yáng	1195
+松北	sōng běi	1335
+松江	sōng jiāng	22141
+嵩明	sōng míng	1524
+松潘	sōng pān	1974
+松山	sōng shān	16105
+松桃	sōng táo	856
+松溪	sōng xī	1126
+嵩县	sōng xiàn	1469
+松阳	sōng yáng	1615
+松原	sōng yuán	4820
+松滋	sōng zī	1079
+苏澳	sū ào	2496
+肃北	sù běi	352
+宿城	sù chéng	816
+肃南	sù nán	538
+肃宁	sù níng	519
+宿迁	sù qiān	9434
+宿松	sù sōng	1181
+苏仙	sū xiān	451
+宿豫	sù yù	620
+苏州	sū zhōu	178350
+宿州	sù zhōu	5417
+肃州	sù zhōu	1008
+绥滨	suí bīn	218
+遂昌	suì chāng	1481
+遂川	suì chuān	857
+绥德	suí dé	1583
+绥化	suí huà	2259
+绥江	suí jiāng	310
+绥棱	suí léng	283
+遂宁	suì níng	5882
+睢宁	suī níng	1576
+绥宁	suí níng	595
+遂平	suì píng	794
+濉溪	suī xī	1379
+遂溪	suì xī	648
+睢县	suī xiàn	716
+随县	suí xiàn	552
+睢阳	suī yáng	1577
+绥阳	suí yáng	1090
+绥中	suí zhōng	1064
+随州	suí zhōu	3852
+孙吴	sūn wú	2889
+索县	suǒ xiàn	249
+塔城	tǎ chéng	3878
+漯河	tà hé	6592
+塔河	tǎ hé	1523
+泰安	tài ān	13088
+台安	tái ān	477
+太白	tài bái	12369
+太保	tài bǎo	10945
+台北	tái běi	187110
+太仓	tài cāng	8443
+台东	tái dōng	18986
+太谷	tài gǔ	1994
+太和	tài hé	11506
+泰和	tài hé	4538
+太湖	tài hú	21937
+台江	tái jiāng	3716
+太康	tài kāng	3133
+泰来	tài lái	2723
+台南	tái nán	50977
+泰宁	tài níng	2496
+太平	tài píng	195753
+台前	tái qián	11274
+泰山	tài shān	36557
+台山	tái shān	20151
+泰顺	tài shùn	1823
+台湾	tái wān	933986
+泰武	tài wǔ	332
+台西	tái xī	1374
+泰兴	tài xīng	2876
+太原	tài yuán	74291
+台中	tái zhōng	64742
+台州	tāi zhōu	17510
+泰州	tài zhōu	11747
+郯城	tán chéng	1751
+覃塘	tán táng	172
+潭子	tán zi	1295
+唐河	táng hé	2219
+唐山	táng shān	40286
+汤旺	tāng wàng	355
+唐县	táng xiàn	2031
+汤阴	tāng yīn	1024
+汤原	tāng yuán	608
+洮北	táo běi	172
+桃城	táo chéng	823
+桃江	táo jiāng	1249
+洮南	táo nán	598
+桃山	táo shān	2318
+桃园	táo yuán	42528
+桃源	táo yuán	20508
+腾冲	téng chōng	9699
+藤县	téng xiàn	820
+滕州	téng zhōu	2661
+天长	tiān cháng	13600
+天等	tiān děng	1150
+田东	tián dōng	2323
+天峨	tiān é	254
+天河	tiān hé	32454
+天津	tiān jīn	330270
+天峻	tiān jùn	490
+田寮	tián liáo	1060
+田林	tián lín	2870
+天门	tiān mén	15963
+天宁	tiān níng	2879
+天桥	tiān qiáo	29635
+天全	tiān quán	1676
+天山	tiān shān	21227
+天水	tiān shuǐ	10666
+天台	tiān tāi	16750
+田尾	tián wěi	730
+天心	tiān xīn	5068
+天涯	tiān yá	45784
+田阳	tián yáng	673
+天元	tiān yuán	6460
+天镇	tiān zhèn	602
+田中	tián zhōng	21533
+天柱	tiān zhù	6378
+天祝	tiān zhù	814
+铁东	tiě dōng	795
+铁锋	tiě fēng	288
+铁力	tiě lì	1177
+铁岭	tiě lǐng	5438
+铁山	tiě shān	2559
+铁西	tiě xī	6770
+亭湖	tíng hú	479
+同安	tóng ān	8692
+桐柏	tóng bǎi	2715
+桐城	tóng chéng	3952
+通城	tōng chéng	1560
+铜川	tóng chuān	5214
+通川	tōng chuān	573
+通道	tōng dào	176804
+同德	tóng dé	3331
+铜鼓	tóng gǔ	2319
+潼关	tóng guān	3673
+铜官	tóng guān	1071
+通海	tōng hǎi	1977
+通河	tōng hé	1547
+通化	tōng huà	7143
+通江	tōng jiāng	3026
+同江	tóng jiāng	1292
+铜梁	tóng liáng	1548
+通辽	tōng liáo	5248
+铜陵	tóng líng	6819
+桐庐	tóng lú	6260
+铜锣	tóng luó	15485
+潼南	tóng nán	1452
+同仁	tóng rén	24085
+铜仁	tóng rén	4592
+铜山	tóng shān	1915
+通山	tōng shān	1424
+通渭	tōng wèi	849
+桐乡	tóng xiāng	4159
+通霄	tōng xiāo	1166
+同心	tóng xīn	16518
+通许	tōng xǔ	927
+通榆	tōng yú	631
+通州	tōng zhōu	21598
+桐梓	tóng zǐ	1955
+头城	tóu chéng	2584
+头份	tóu fèn	1375
+头屋	tóu wū	593
+土城	tǔ chéng	5255
+土库	tǔ kù	7725
+图们	tú men	2117
+突泉	tū quán	3650
+团风	tuán fēng	738
+屯昌	tún chāng	949
+屯留	tún liú	3097
+屯溪	tún xī	2526
+托里	tuō lǐ	11222
+外埔	wài pǔ	811
+万安	wàn ān	4068
+宛城	wǎn chéng	1680
+万丹	wàn dān	1254
+万华	wàn huá	3936
+万里	wàn lǐ	52409
+万峦	wàn luán	648
+万年	wàn nián	62486
+万宁	wàn níng	8788
+万全	wàn quán	3432
+万荣	wàn róng	2240
+万山	wàn shān	3801
+万秀	wàn xiù	424
+万源	wàn yuán	1616
+万载	wàn zǎi	2035
+湾沚	wān zhǐ	0
+万州	wàn zhōu	8557
+望安	wàng ān	350
+旺苍	wàng cāng	759
+望城	wàng chéng	2051
+望都	wàng dōu	0
+望花	wàng huā	579
+望江	wàng jiāng	4468
+望奎	wàng kuí	661
+望谟	wàng mó	423
+汪清	wāng qīng	1288
+王益	wáng yì	1131
+渭滨	wèi bīn	563
+卫滨	wèi bīn	0
+围场	wéi chǎng	2410
+渭城	wèi chéng	906
+潍城	wéi chéng	302
+卫东	wèi dōng	5692
+魏都	wèi dōu	540
+潍坊	wéi fāng	20094
+威海	wēi hǎi	21955
+卫辉	wèi huī	1354
+渭南	wèi nán	10054
+威宁	wēi níng	1792
+微山	wēi shān	2950
+巍山	wēi shān	1456
+尉氏	wèi shì	888
+维西	wéi xī	1463
+威县	wēi xiàn	916
+魏县	wèi xiàn	801
+威信	wēi xìn	11491
+未央	wèi yāng	7764
+威远	wēi yuǎn	2290
+渭源	wèi yuán	580
+文安	wén ān	2522
+文昌	wén chāng	19843
+文成	wén chéng	5487
+汶川	wèn chuān	11413
+文登	wén dēng	2511
+文峰	wén fēng	5195
+温江	wēn jiāng	3835
+温岭	wēn lǐng	3659
+温泉	wēn quán	128795
+文山	wén shān	12188
+汶上	wèn shàng	981
+文圣	wén shèng	452
+文水	wén shuǐ	1393
+温宿	wēn sù	442
+闻喜	wén xǐ	1709
+文县	wén xiàn	1941
+温县	wēn xiàn	1628
+温州	wēn zhōu	79557
+瓮安	wèng ān	757
+翁源	wēng yuán	1246
+卧龙	wò lóng	9191
+涡阳	wō yáng	1112
+武安	wǔ ān	3941
+吴堡	wú bǔ	579
+武昌	wǔ chāng	30061
+五常	wǔ cháng	8707
+武城	wǔ chéng	1601
+婺城	wù chéng	889
+武川	wǔ chuān	1306
+吴川	wú chuān	1299
+务川	wù chuān	549
+乌翠	wū cuì	0
+乌达	wū dá	1698
+乌当	wū dāng	1118
+无棣	wú dì	623
+武定	wǔ dìng	3163
+武都	wǔ dōu	2250
+五峰	wǔ fēng	2777
+雾峰	wù fēng	2217
+武冈	wǔ gāng	1264
+舞钢	wǔ gāng	374
+武功	wǔ gōng	29856
+五股	wǔ gǔ	1733
+乌海	wū hǎi	2561
+武汉	wǔ hàn	281033
+五河	wǔ hé	1315
+武侯	wǔ hòu	9243
+芜湖	wú hú	17010
+五华	wǔ huá	5108
+无极	wú jí	10060
+吴江	wú jiāng	16271
+武江	wǔ jiāng	342
+五结	wǔ jié	783
+武进	wǔ jìn	6168
+乌来	wū lái	1114
+乌兰	wū lán	13367
+五莲	wǔ lián	1181
+武陵	wǔ líng	8418
+武隆	wǔ lóng	4675
+武鸣	wǔ míng	1279
+武宁	wǔ níng	2699
+武平	wǔ píng	3539
+吴起	wú qǐ	4751
+梧栖	wú qī	1141
+乌恰	wū qià	404
+武强	wǔ qiáng	869
+吴桥	wú qiáo	733
+武清	wǔ qīng	5688
+乌日	wū rì	2247
+巫山	wū shān	10818
+武山	wǔ shān	1634
+乌什	wū shén	1920
+武胜	wǔ shèng	1997
+乌苏	wū sū	5278
+五台	wǔ tái	11147
+雾台	wù tái	431
+无为	wú wéi	14716
+武威	wǔ wēi	6947
+无锡	wú xī	71018
+巫溪	wū xī	2604
+武乡	wǔ xiāng	1588
+吴兴	wú xīng	4000
+武宣	wǔ xuān	713
+武穴	wǔ xué	1195
+舞阳	wǔ yáng	1724
+武义	wǔ yì	2443
+武邑	wǔ yì	688
+婺源	wù yuán	15554
+五原	wǔ yuán	1842
+五寨	wǔ zhài	654
+武陟	wǔ zhì	1073
+吴中	wú zhōng	8067
+吴忠	wú zhōng	2930
+梧州	wú zhōu	4909
+西安	xī ān	235487
+西昌	xī chāng	7838
+西城	xī chéng	25437
+西充	xī chōng	967
+西畴	xī chóu	599
+淅川	xī chuān	2376
+喜德	xǐ dé	654
+西峰	xī fēng	1744
+西丰	xī fēng	881
+息烽	xī fēng	878
+西岗	xī gǎng	2231
+西港	xī gǎng	1620
+西工	xī gōng	2972
+西固	xī gù	2026
+细河	xì hé	38
+西和	xī hé	0
+西湖	xī hú	71731
+溪湖	xī hú	3653
+溪湖	xī hú	3653
+西华	xī huá	5125
+西吉	xī jí	2514
+溪口	xī kǒu	3548
+西林	xī lín	7315
+西陵	xī líng	3150
+西螺	xī luó	1700
+西盟	xī méng	365
+西宁	xī níng	25547
+西平	xī píng	5051
+西青	xī qīng	3632
+西区	xī qū	30099
+西沙	xī shā	11510
+西山	xī shān	22311
+锡山	xī shān	5859
+西市	xī shì	5396
+习水	xí shuǐ	1059
+浠水	xī shuǐ	685
+西屯	xī tún	1526
+西夏	xī xià	12062
+西峡	xī xiá	2414
+息县	xī xiàn	611
+隰县	xí xiàn	434
+西乡	xī xiāng	7343
+西秀	xī xiù	813
+昔阳	xī yáng	1159
+西屿	xī yǔ	746
+西藏	xī zàng	130818
+汐止	xī zhǐ	2356
+溪州	xī zhōu	1262
+夏河	xià hé	1156
+峡江	xiá jiāng	846
+夏津	xià jīn	637
+下陆	xià lù	272
+厦门	xià mén	197865
+霞浦	xiá pǔ	4842
+霞山	xiá shān	3804
+夏县	xià xiàn	1186
+夏邑	xià yì	860
+下营	xià yíng	1110
+咸安	xián ān	930
+咸丰	xián fēng	13104
+仙居	xiān jū	4152
+咸宁	xián níng	7065
+仙桃	xiān táo	4187
+线西	xiàn xī	700
+献县	xiàn xiàn	785
+咸阳	xián yáng	15606
+仙游	xiān yóu	3007
+翔安	xiáng ān	4259
+相城	xiāng chéng	2316
+襄城	xiāng chéng	1801
+项城	xiàng chéng	1090
+芗城	xiāng chéng	1032
+乡城	xiāng chéng	901
+湘东	xiāng dōng	1299
+襄都	xiāng dōu	0
+香坊	xiāng fāng	2642
+襄汾	xiāng fén	981
+祥符	xiáng fú	2091
+香港	xiāng gǎng	1065321
+香河	xiāng hé	3059
+乡宁	xiāng níng	422
+湘桥	xiāng qiáo	394
+香山	xiāng shān	20267
+象山	xiàng shān	10892
+相山	xiāng shān	407
+响水	xiǎng shuǐ	1710
+湘潭	xiāng tán	14111
+湘西	xiāng xī	12332
+湘乡	xiāng xiāng	2376
+襄阳	xiāng yáng	21000
+向阳	xiàng yáng	11784
+湘阴	xiāng yīn	1190
+襄垣	xiāng yuán	929
+祥云	xiáng yún	6599
+香洲	xiāng zhōu	3763
+襄州	xiāng zhōu	901
+象州	xiàng zhōu	690
+孝昌	xiào chāng	1082
+小店	xiǎo diàn	113507
+孝感	xiào gǎn	4653
+小港	xiǎo gǎng	1809
+小金	xiǎo jīn	15072
+孝南	xiào nán	276
+萧山	xiāo shān	18711
+猇亭	xiāo tíng	309
+萧县	xiāo xiàn	1326
+孝义	xiào yì	2208
+新安	xīn ān	12928
+新北	xīn běi	27682
+新宾	xīn bīn	712
+新蔡	xīn cài	1058
+新昌	xīn chāng	3598
+新城	xīn chéng	79283
+忻城	xīn chéng	445
+新店	xīn diàn	30551
+新都	xīn dōu	11399
+信都	xìn dōu	1081
+新丰	xīn fēng	4759
+信丰	xìn fēng	972
+忻府	xīn fǔ	327
+新抚	xīn fǔ	160
+新干	xīn gàn	15514
+新港	xīn gǎng	7968
+新和	xīn hé	2822
+新河	xīn hé	2710
+新华	xīn huá	232926
+新化	xīn huà	4647
+新晃	xīn huǎng	1077
+新会	xīn huì	9511
+辛集	xīn jí	2009
+新建	xīn jiàn	94091
+新疆	xīn jiāng	213061
+新绛	xīn jiàng	879
+新津	xīn jīn	2511
+新乐	xīn lè	3403
+新龙	xīn lóng	2453
+新罗	xīn luó	10315
+新密	xīn mì	2916
+新民	xīn mín	19009
+新宁	xīn níng	2159
+新埤	xīn pí	0
+新平	xīn píng	7278
+新埔	xīn pǔ	1623
+新邱	xīn qiū	0
+新荣	xīn róng	2137
+新邵	xīn shào	614
+新社	xīn shè	39054
+新市	xīn shì	13023
+新泰	xīn tài	1909
+新田	xīn tián	5835
+新屋	xīn wū	7394
+新吴	xīn wú	0
+新县	xīn xiàn	4135
+新乡	xīn xiāng	12527
+新兴	xīn xīng	135187
+新星	xīn xīng	23322
+信阳	xìn yáng	13568
+新野	xīn yě	3173
+信义	xìn yì	10221
+新沂	xīn yí	1836
+信宜	xìn yí	1143
+新营	xīn yíng	3302
+新余	xīn yú	4405
+新园	xīn yuán	4471
+新源	xīn yuán	2078
+新郑	xīn zhèng	4298
+忻州	xīn zhōu	5096
+新洲	xīn zhōu	3771
+信州	xìn zhōu	1526
+新庄	xīn zhuāng	9468
+兴安	xīng ān	13057
+兴宾	xīng bīn	393
+兴城	xīng chéng	2559
+兴国	xīng guó	9120
+兴海	xīng hǎi	1082
+兴和	xīng hé	0
+兴化	xīng huà	5297
+兴隆	xīng lóng	18553
+兴宁	xīng níng	2962
+兴平	xīng píng	1996
+兴庆	xīng qìng	2113
+兴仁	xīng rén	1374
+兴山	xīng shān	890
+邢台	xíng tái	14645
+行唐	xíng táng	745
+兴文	xīng wén	1623
+兴县	xīng xiàn	7777
+荥阳	xíng yáng	5311
+兴业	xīng yè	31977
+兴义	xīng yì	3032
+雄县	xióng xiàn	4220
+秀峰	xiù fēng	2537
+秀林	xiù lín	1180
+休宁	xiū níng	1774
+秀山	xiù shān	4672
+秀水	xiù shuǐ	4875
+修水	xiū shuǐ	2850
+修文	xiū wén	3105
+修武	xiū wǔ	1121
+岫岩	xiù yán	1099
+秀英	xiù yīng	5388
+秀屿	xiù yǔ	587
+秀洲	xiù zhōu	929
+许昌	xǔ chāng	9121
+徐汇	xú huì	11950
+溆浦	xù pǔ	1038
+徐水	xú shuǐ	1749
+徐闻	xú wén	1380
+盱眙	xū yí	3640
+叙永	xù yǒng	1464
+徐州	xú zhōu	45001
+叙州	xù zhōu	535
+宣城	xuān chéng	5917
+宣恩	xuān ēn	507
+宣汉	xuān hàn	1116
+宣化	xuān huà	3689
+宣威	xuān wēi	2365
+玄武	xuán wǔ	17604
+宣州	xuān zhōu	1268
+薛城	xuē chéng	613
+学甲	xué jiǎ	2344
+寻甸	xún diān	1356
+循化	xún huà	897
+逊克	xùn kè	262
+寻乌	xún wū	885
+浔阳	xún yáng	1390
+旬阳	xún yáng	958
+旬邑	xún yì	624
+雅安	yǎ ān	16389
+亚东	yà dōng	4719
+雅江	yǎ jiāng	1104
+崖州	yá zhōu	1016
+延安	yán ān	32481
+延边	yán biān	13218
+盐边	yán biān	673
+延长	yán cháng	111899
+燕巢	yàn cháo	976
+盐城	yán chéng	13042
+郾城	yǎn chéng	788
+盐埕	yán chéng	0
+盐池	yán chí	1666
+延川	yán chuān	952
+盐都	yán dōu	1968
+雁峰	yàn fēng	536
+沿河	yán hé	6480
+盐湖	yán hú	9043
+延吉	yán jí	5361
+雁江	yàn jiāng	456
+盐津	yán jīn	1030
+延津	yán jīn	885
+阎良	yán liáng	2450
+鄢陵	yān líng	1177
+炎陵	yán líng	727
+延平	yán píng	4597
+盐埔	yán pǔ	434
+焉耆	yān qí	1482
+延庆	yán qìng	11659
+铅山	yán shān	893
+盐山	yán shān	744
+砚山	yàn shān	478
+雁山	yàn shān	309
+偃师	yǎn shī	1509
+延寿	yán shòu	4178
+盐水	yán shuǐ	39437
+雁塔	yàn tǎ	10980
+烟台	yān tái	34601
+沿滩	yán tān	289
+盐田	yán tián	6185
+盐亭	yán tíng	729
+盐源	yán yuán	801
+兖州	yǎn zhōu	6369
+漾濞	yàng bì	445
+阳城	yáng chéng	7648
+阳春	yáng chūn	14439
+阳东	yáng dōng	903
+阳高	yáng gāo	3379
+阳谷	yáng gǔ	1716
+阳江	yáng jiāng	6462
+杨陵	yáng líng	804
+杨梅	yáng méi	10776
+阳明	yáng míng	26320
+杨浦	yáng pǔ	8689
+阳曲	yáng qū	1250
+阳泉	yáng quán	5415
+阳山	yáng shān	3989
+阳朔	yáng shuò	10793
+阳西	yáng xī	5670
+洋县	yáng xiàn	1640
+阳新	yáng xīn	1700
+阳信	yáng xìn	1135
+阳原	yáng yuán	584
+扬中	yáng zhōng	1677
+扬州	yáng zhōu	60136
+姚安	yáo ān	1051
+尧都	yáo dōu	0
+瑶海	yáo hǎi	3019
+耀州	yào zhōu	1633
+叶城	yè chéng	1250
+叶集	yè jí	1516
+叶县	yè xiàn	6351
+义安	yì ān	1488
+依安	yī ān	369
+宜宾	yí bīn	11578
+宜昌	yí chāng	18771
+宜城	yí chéng	1326
+翼城	yì chéng	1067
+峄城	yì chéng	519
+驿城	yì chéng	442
+宜川	yí chuān	1709
+伊川	yī chuān	1515
+宜春	yí chūn	6347
+伊春	yī chūn	3172
+宜都	yí dōu	1486
+宜丰	yí fēng	827
+宜黄	yí huáng	823
+弋江	yì jiāng	408
+宜君	yí jūn	552
+宜兰	yí lán	15569
+依兰	yī lán	1842
+宜良	yí liáng	1780
+彝良	yí liáng	675
+夷陵	yí líng	3680
+仪陇	yí lǒng	986
+义马	yì mǎ	746
+伊美	yī měi	1008
+易门	yì mén	631
+沂南	yí nán	1260
+沂水	yí shuǐ	1928
+伊通	yī tōng	1264
+义乌	yì wū	16338
+伊吾	yī wú	744
+义县	yì xiàn	11006
+易县	yì xiàn	2388
+黟县	yī xiàn	2340
+宜兴	yí xīng	9954
+宜秀	yí xiù	165
+益阳	yì yáng	6038
+弋阳	yì yáng	1881
+宜阳	yí yáng	1305
+沂源	yí yuán	838
+宜章	yí zhāng	869
+仪征	yí zhēng	2200
+伊州	yī zhōu	14697
+宜州	yí zhōu	769
+义竹	yì zhú	0
+银川	yín chuān	20689
+殷都	yīn dōu	199
+银海	yín hǎi	1740
+印江	yìn jiāng	1095
+印台	yìn tái	610
+鄞州	yín zhōu	5046
+银州	yín zhōu	323
+应城	yīng chéng	934
+英德	yīng dé	4641
+颍东	yǐng dōng	257
+莺歌	yīng gē	2784
+盈江	yíng jiāng	1500
+迎江	yíng jiāng	398
+荥经	yíng jīng	957
+营口	yíng kǒu	7902
+颍泉	yǐng quán	381
+营山	yíng shān	1224
+英山	yīng shān	1094
+颍上	yǐng shàng	1054
+鹰潭	yīng tán	2944
+应县	yīng xiàn	1810
+迎泽	yíng zé	2662
+颍州	yǐng zhōu	1734
+永安	yǒng ān	16676
+永昌	yǒng chāng	13473
+永城	yǒng chéng	2166
+永川	yǒng chuān	4448
+永春	yǒng chūn	4836
+永德	yǒng dé	1399
+永登	yǒng dēng	1712
+永定	yǒng dìng	9189
+永丰	yǒng fēng	5969
+永福	yǒng fú	6335
+永和	yǒng hé	18416
+永吉	yǒng jí	2030
+永济	yǒng jì	1902
+永嘉	yǒng jiā	8276
+永靖	yǒng jìng	1233
+永康	yǒng kāng	12248
+永年	yǒng nián	5603
+永宁	yǒng níng	6468
+邕宁	yōng níng	876
+永平	yǒng píng	7627
+埇桥	yǒng qiáo	0
+永清	yǒng qīng	3664
+永仁	yǒng rén	2114
+永善	yǒng shàn	658
+永胜	yǒng shèng	3230
+永寿	yǒng shòu	1502
+永顺	yǒng shùn	2099
+永泰	yǒng tài	8534
+永新	yǒng xīn	3781
+永兴	yǒng xīng	7984
+永修	yǒng xiū	1440
+永州	yǒng zhōu	5715
+友好	yǒu hǎo	123291
+右江	yòu jiāng	913
+尤溪	yóu xī	1396
+游仙	yóu xiān	3334
+攸县	yōu xiàn	2068
+酉阳	yǒu yáng	2268
+友谊	yǒu yì	84639
+右玉	yòu yù	852
+裕安	yù ān	1117
+渝北	yú běi	4715
+禹城	yǔ chéng	1180
+虞城	yú chéng	946
+雨城	yǔ chéng	884
+鱼池	yú chí	4736
+榆次	yú cì	2346
+于都	yú dōu	2219
+鱼峰	yú fēng	502
+余干	yú gàn	1214
+余杭	yú háng	9652
+于洪	yú hóng	3712
+雨湖	yǔ hú	501
+雨花	yǔ huā	10747
+裕华	yù huá	2648
+玉环	yù huán	7672
+禹会	yǔ huì	408
+余江	yú jiāng	652
+玉井	yù jǐng	1505
+玉里	yù lǐ	1582
+玉林	yù lín	13355
+榆林	yú lín	10516
+玉龙	yù lóng	12204
+玉门	yù mén	3234
+裕民	yù mín	1488
+郁南	yù nán	747
+玉屏	yù píng	2211
+余庆	yú qìng	1757
+玉泉	yù quán	6585
+玉山	yù shān	8843
+雨山	yǔ shān	618
+榆社	yú shè	595
+玉树	yù shù	9993
+榆树	yú shù	4307
+渝水	yú shuǐ	424
+鱼台	yú tái	6474
+玉田	yù tián	1920
+于田	yú tián	811
+玉溪	yù xī	7541
+蔚县	yù xiàn	1719
+盂县	yú xiàn	1000
+榆阳	yú yáng	1330
+余姚	yú yáo	8209
+渝中	yú zhōng	6182
+榆中	yú zhōng	2507
+禹州	yǔ zhōu	2244
+玉州	yù zhōu	239
+远安	yuǎn ān	585
+元宝	yuán bǎo	22906
+元长	yuán cháng	891
+源城	yuán chéng	473
+源汇	yuán huì	332
+沅江	yuán jiāng	1476
+元江	yuán jiāng	1365
+苑里	yuàn lǐ	1377
+员林	yuán lín	3643
+沅陵	yuán líng	1286
+元谋	yuán móu	1489
+原平	yuán píng	1666
+垣曲	yuán qū	845
+员山	yuán shān	537
+元氏	yuán shì	1407
+元阳	yuán yáng	3478
+原阳	yuán yáng	1025
+原州	yuán zhōu	1130
+袁州	yuán zhōu	1028
+越城	yuè chéng	1312
+岳池	yuè chí	1149
+月湖	yuè hú	2802
+岳麓	yuè lù	10840
+乐清	yuè qīng	5322
+岳塘	yuè táng	423
+岳西	yuè xī	1282
+越西	yuè xī	428
+越秀	yuè xiù	10997
+岳阳	yuè yáng	16062
+云安	yún ān	3180
+运城	yùn chéng	11569
+郓城	yùn chéng	1353
+云城	yún chéng	727
+云浮	yún fú	3207
+云冈	yún gāng	1653
+运河	yùn hé	49478
+云和	yún hé	7017
+筠连	yún lián	887
+云林	yún lín	12155
+云龙	yún lóng	12757
+云梦	yún mèng	2448
+云南	yún nán	243768
+云溪	yún xī	1256
+郧西	yún xī	694
+云县	yún xiàn	4297
+云霄	yún xiāo	7682
+云岩	yún yán	2461
+云阳	yún yáng	2757
+郧阳	yún yáng	1093
+云州	yún zhōu	680
+杂多	zá duō	3943
+赞皇	zàn huáng	938
+枣强	zǎo qiáng	628
+造桥	zào qiáo	1069
+枣阳	zǎo yáng	1874
+枣庄	zǎo zhuāng	7123
+泽州	zé zhōu	1871
+增城	zēng chéng	8107
+札达	zhá dá	351
+扎囊	zhā náng	278
+柞水	zhà shuǐ	640
+湛河	zhàn hé	171
+沾化	zhān huà	864
+湛江	zhàn jiāng	14920
+站前	zhàn qián	16520
+沾益	zhān yì	577
+张北	zhāng běi	2348
+张店	zhāng diàn	1660
+长葛	zhǎng gé	1330
+章贡	zhāng gòng	600
+彰化	zhāng huà	18988
+漳平	zhāng píng	1246
+漳浦	zhāng pǔ	2829
+章丘	zhāng qiū	5981
+樟树	zhāng shù	4183
+张湾	zhāng wān	572
+彰武	zhāng wǔ	1020
+漳县	zhāng xiàn	1523
+张掖	zhāng yē	6326
+漳州	zhāng zhōu	25907
+长子	zhǎng zǐ	34863
+诏安	zhào ān	1901
+肇东	zhào dōng	777
+昭化	zhāo huà	825
+昭觉	zhāo jué	803
+召陵	zhào líng	396
+昭平	zhāo píng	702
+肇庆	zhào qìng	9662
+昭苏	zhāo sū	1115
+昭通	zhāo tōng	5262
+赵县	zhào xiàn	920
+朝阳	zhāo yáng	79164
+昭阳	zhāo yáng	1488
+招远	zhāo yuǎn	1750
+肇源	zhào yuán	385
+肇州	zhào zhōu	403
+柘城	zhè chéng	654
+浙江	zhè jiāng	296208
+柘荣	zhè róng	914
+镇安	zhèn ān	1769
+振安	zhèn ān	157
+镇巴	zhèn bā	502
+贞丰	zhēn fēng	660
+镇海	zhèn hǎi	7946
+镇江	zhèn jiāng	20563
+浈江	zhēn jiāng	0
+镇康	zhèn kāng	837
+镇赉	zhèn lài	380
+镇宁	zhèn níng	1389
+镇平	zhèn píng	1814
+镇坪	zhèn píng	998
+振兴	zhèn xīng	27644
+镇雄	zhèn xióng	1181
+镇远	zhèn yuǎn	3525
+镇原	zhèn yuán	1491
+镇沅	zhèn yuán	0
+正安	zhèng ān	842
+正定	zhèng dìng	6042
+政和	zhèng hé	2906
+正宁	zhèng níng	621
+蒸湘	zhēng xiāng	304
+正阳	zhèng yáng	4484
+郑州	zhèng zhōu	158384
+志丹	zhì dān	1875
+治多	zhì duō	466
+芝罘	zhī fú	1709
+芷江	zhǐ jiāng	1670
+枝江	zhī jiāng	1403
+织金	zhī jīn	1651
+仲巴	zhòng bā	319
+中方	zhōng fāng	47983
+中和	zhōng hé	46835
+中江	zhōng jiāng	3655
+中坜	zhōng lì	5368
+中寮	zhōng liáo	718
+钟楼	zhōng lóu	14803
+中牟	zhōng mù	2387
+中宁	zhōng níng	1311
+中埔	zhōng pǔ	969
+中区	zhōng qū	19298
+中山	zhōng shān	148964
+钟山	zhōng shān	4909
+中卫	zhōng wèi	9089
+中西	zhōng xī	70873
+忠县	zhōng xiàn	1650
+钟祥	zhōng xiáng	1756
+中阳	zhōng yáng	4502
+中原	zhōng yuán	68697
+中站	zhōng zhàn	1297
+中正	zhōng zhèng	23688
+周村	zhōu cūn	1830
+周口	zhōu kǒu	8281
+周宁	zhōu níng	1575
+舟曲	zhōu qū	598
+舟山	zhōu shān	14129
+周至	zhōu zhì	3032
+竹北	zhú běi	2121
+诸城	zhū chéng	3043
+竹东	zhú dōng	1679
+珠海	zhū hǎi	73703
+珠晖	zhū huī	334
+诸暨	zhū jì	4365
+竹南	zhú nán	1684
+竹崎	zhú qí	910
+竹山	zhú shān	4017
+珠山	zhū shān	2272
+竹塘	zhú táng	720
+竹田	zhú tián	2237
+竹溪	zhú xī	1375
+株洲	zhū zhōu	13697
+庄河	zhuāng hé	2832
+庄浪	zhuāng làng	605
+壮围	zhuàng wéi	517
+卓兰	zhuó lán	603
+涿鹿	zhuō lù	1631
+卓尼	zhuó ní	745
+卓溪	zhuó xī	290
+涿州	zhuō zhōu	2532
+卓资	zhuó zī	364
+淄博	zī bó	14682
+子长	zi cháng	2697
+淄川	zī chuān	1588
+自贡	zì gòng	9393
+梓官	zǐ guān	505
+秭归	zǐ guī	1707
+紫金	zǐ jīn	14574
+梓潼	zǐ tóng	1373
+资溪	zī xī	545
+资兴	zī xīng	1126
+紫阳	zǐ yáng	4855
+资阳	zī yáng	4575
+资源	zī yuán	1139556
+紫云	zǐ yún	3854
+资中	zī zhōng	13109
+子洲	zi zhōu	3268
+枞阳	zōng yáng	992
+邹城	zōu chéng	1528
+邹平	zōu píng	1315
+遵化	zūn huà	1712
+遵义	zūn yì	19127
+左贡	zuǒ gòng	457
+左权	zuǒ quán	1672
+左营	zuǒ yíng	3699
+左云	zuǒ yún	441
+左镇	zuǒ zhèn	480
+阿坝县	ā bà xiàn	377
+阿城区	ā chéng qū	0
+阿尔山	ā ěr shān	3099
+阿合奇	ā hé qí	142
+阿克塞	ā kè sāi	0
+阿克苏	ā kè sū	5276
+阿克陶	ā kè táo	368
+阿拉尔	ā lā ěr	989
+阿拉尔	ā lā ěr	989
+阿拉善	ā lā shàn	5309
+阿勒泰	ā lè tài	5451
+阿里山	ā lǐ shān	4984
+阿莲区	ā lián qū	0
+阿荣旗	ā róng qí	267
+阿图什	ā tú shén	565
+阿瓦提	ā wǎ tí	541
+爱辉区	ài huī qū	214
+爱民区	ài mín qū	43
+安次区	ān cì qū	150
+安达市	ān dá shì	260
+安定区	ān dìng qū	440
+安多县	ān duō xiàn	114
+安福县	ān fú xiàn	638
+安国市	ān guó shì	206
+安化县	ān huà xiàn	605
+安徽省	ān huī shěng	51678
+安吉县	ān jí xiàn	825
+安居区	ān jū qū	209
+安康市	ān kāng shì	2443
+安乐区	ān lè qū	0
+安龙县	ān lóng xiàn	241
+安陆市	ān lù shì	440
+安南区	ān nán qū	0
+安宁区	ān níng qū	1026
+安宁市	ān níng shì	936
+安平区	ān píng qū	0
+安平县	ān píng xiàn	911
+安庆市	ān qìng shì	2430
+安丘市	ān qiū shì	475
+安仁县	ān rén xiàn	306
+安塞区	ān sāi qū	0
+鞍山市	ān shān shì	3682
+安顺市	ān shùn shì	2253
+安图县	ān tú xiàn	331
+安溪县	ān xī xiàn	1417
+安乡县	ān xiāng xiàn	339
+安新县	ān xīn xiàn	518
+安阳市	ān yáng shì	3946
+安阳县	ān yáng xiàn	1515
+安义县	ān yì xiàn	514
+安源区	ān yuán qū	192
+安远县	ān yuǎn xiàn	357
+安岳县	ān yuè xiàn	1188
+安泽县	ān zé xiàn	144
+安州区	ān zhōu qū	0
+昂昂溪	áng áng xī	0
+昂仁县	áng rén xiàn	67
+敖汉旗	áo hàn qí	608
+八步区	bā bù qū	379
+巴楚县	bā chǔ xiàn	337
+八德区	bā dé qū	0
+巴东县	bā dōng xiàn	488
+八公山	bā gōng shān	0
+巴里坤	bā lǐ kūn	973
+八里区	bā lǐ qū	0
+巴南区	bā nán qū	1740
+灞桥区	bà qiáo qū	604
+巴青县	bā qīng xiàn	61
+八宿县	bā sù xiàn	150
+巴塘县	bā táng xiàn	190
+巴彦县	bā yàn xiàn	355
+巴宜区	bā yí qū	0
+鲅鱼圈	bà yú quān	820
+巴中市	bā zhōng shì	3797
+巴州区	bā zhōu qū	1033
+霸州市	bà zhōu shì	395
+白城市	bái chéng shì	550
+拜城县	bài chéng xiàn	253
+白河区	bái hé qū	0
+白河县	bái hé xiàn	428
+白碱滩	bái jiǎn tān	64
+白朗县	bái lǎng xiàn	105
+拜泉县	bài quán xiàn	106
+百色市	bǎi sè shì	1447
+白沙乡	bái shā xiāng	476
+白山市	bái shān shì	1187
+白水县	bái shuǐ xiàn	423
+白塔区	bái tǎ qū	232
+柏乡县	bǎi xiāng xiàn	132
+白银区	bái yín qū	308
+白银市	bái yín shì	1366
+白玉县	bái yù xiàn	146
+白云区	bái yún qū	6731
+班戈县	bān gē xiàn	107
+班玛县	bān mǎ xiàn	491
+板桥区	bǎn qiáo qū	0
+蚌山区	bàng shān qū	0
+宝安区	bǎo ān qū	5338
+保德县	bǎo dé xiàn	232
+宝坻区	bǎo dǐ qū	1508
+保定市	bǎo dìng shì	6620
+宝丰县	bǎo fēng xiàn	685
+包河区	bāo hé qū	1658
+宝鸡市	bǎo jī shì	3407
+保靖县	bǎo jìng xiàn	248
+保康县	bǎo kāng xiàn	366
+宝清县	bǎo qīng xiàn	343
+宝山区	bǎo shān qū	3330
+保山市	bǎo shān shì	1164
+宝山乡	bǎo shān xiāng	0
+宝塔区	bǎo tǎ qū	393
+包头市	bāo tóu shì	5933
+宝兴县	bǎo xīng xiàn	886
+宝应县	bǎo yìng xiàn	643
+褒忠乡	bāo zhōng xiāng	0
+北安市	běi ān shì	319
+北碚区	běi bèi qū	1214
+北辰区	běi chén qū	1847
+北戴河	běi dài hé	6138
+北斗镇	běi dǒu zhèn	0
+北港镇	běi gǎng zhèn	470
+北关区	běi guān qū	251
+北海市	běi hǎi shì	1894
+北湖区	běi hú qū	267
+北京市	běi jīng shì	159630
+碑林区	bēi lín qū	1314
+北林区	běi lín qū	147
+北流市	běi liú shì	341
+北仑区	běi lún qū	1088
+北门区	běi mén qū	0
+卑南乡	bēi nán xiāng	0
+北票市	běi piào shì	273
+北埔乡	běi pǔ xiāng	0
+北塔区	běi tǎ qū	77
+北投区	běi tóu qū	1013
+北屯区	běi tún qū	0
+北镇市	běi zhèn shì	0
+本溪市	běn xī shì	1482
+蚌埠市	bèng bù shì	2520
+碧江区	bì jiāng qū	0
+毕节市	bì jié shì	1705
+比如县	bǐ rú xiàn	95
+璧山区	bì shān qū	0
+泌阳县	bì yáng xiàn	410
+边坝县	biān bà xiàn	46
+滨城区	bīn chéng qū	233
+宾川县	bīn chuān xiàn	481
+滨海县	bīn hǎi xiàn	224
+滨湖区	bīn hú qū	1245
+滨江区	bīn jiāng qū	1433
+宾阳县	bīn yáng xiàn	722
+滨州市	bīn zhōu shì	1606
+彬州市	bīn zhōu shì	0
+博爱县	bó ài xiàn	379
+博白县	bó bái xiàn	1020
+博湖县	bó hú xiàn	208
+博乐市	bó lè shì	247
+勃利县	bó lì xiàn	202
+博罗县	bó luó xiàn	1274
+波密县	bō mì xiàn	295
+博山区	bó shān qū	521
+博望区	bó wàng qū	0
+博兴县	bó xīng xiàn	421
+博野县	bó yě xiàn	447
+播州区	bò zhōu qū	0
+亳州市	bó zhōu shì	1635
+布袋镇	bù dài zhèn	415
+布尔津	bù ěr jīn	1266
+布拖县	bù tuō xiàn	99
+蔡甸区	cài diān qū	641
+苍南县	cāng nán xiàn	1672
+仓山区	cāng shān qū	1896
+苍梧县	cāng wú xiàn	289
+苍溪县	cāng xī xiàn	518
+沧州市	cāng zhōu shì	2485
+曹妃甸	cáo fēi diān	2566
+草屯镇	cǎo tún zhèn	0
+册亨县	cè hēng xiàn	248
+策勒县	cè lè xiàn	130
+岑巩县	cén gǒng xiàn	208
+岑溪市	cén xī shì	483
+曾都区	céng dōu qū	170
+茶陵县	chá líng xiàn	394
+察雅县	chá yǎ xiàn	73
+察隅县	chá yú xiàn	219
+柴桑区	chái sāng qū	0
+禅城区	chán chéng qū	3586
+长安区	cháng ān qū	3494
+长滨乡	cháng bīn xiāng	273
+长春市	cháng chūn shì	18647
+常德市	cháng dé shì	2302
+昌都市	chāng dū shì	0
+长丰县	cháng fēng xiàn	1105
+长海县	cháng hǎi xiàn	739
+昌吉市	chāng jí shì	618
+昌江区	chāng jiāng qū	85
+长乐区	cháng lè qū	0
+昌乐县	chāng lè xiàn	547
+昌黎县	chāng lí xiàn	516
+长岭县	cháng lǐng xiàn	137
+长宁区	cháng níng qū	4060
+常宁市	cháng níng shì	257
+长宁县	cháng níng xiàn	433
+昌宁县	chāng níng xiàn	334
+昌平区	chāng píng qū	4975
+长清区	cháng qīng qū	1181
+长沙市	cháng shā shì	18691
+长沙县	cháng shā xiàn	2829
+常山县	cháng shān xiàn	314
+长寿区	cháng shòu qū	589
+常熟市	cháng shú shì	1470
+长顺县	cháng shùn xiàn	284
+长泰区	chāng tài qū	0
+长汀县	cháng tīng xiàn	786
+昌图县	chāng tú xiàn	423
+长武县	cháng wǔ xiàn	174
+长兴县	cháng xīng xiàn	931
+昌邑区	chāng yì qū	226
+昌邑市	chāng yì shì	315
+长垣市	cháng yuán shì	0
+长治市	cháng zhì shì	4130
+长治乡	cháng zhì xiāng	0
+长洲区	cháng zhōu qū	80
+常州市	cháng zhōu shì	4780
+潮安区	cháo ān qū	0
+巢湖市	cháo hú shì	1267
+潮南区	cháo nán qū	489
+朝天区	cháo tiān qū	164
+朝阳区	cháo yáng qū	26396
+潮阳区	cháo yáng qū	895
+潮州市	cháo zhōu shì	1842
+潮州镇	cháo zhōu zhèn	0
+车城乡	chē chéng xiāng	0
+陈仓区	chén cāng qū	336
+辰溪县	chén xī xiàn	268
+郴州市	chēn zhōu shì	2277
+成安县	chéng ān xiàn	357
+城北区	chéng běi qū	885
+澄城县	chéng chéng xiàn	413
+承德市	chéng dé shì	2485
+承德县	chéng dé xiàn	366
+城东区	chéng dōng qū	823
+成都市	chéng dū shì	31166
+称多县	chēng duō xiàn	193
+呈贡区	chéng gòng qū	0
+成功镇	chéng gōng zhèn	0
+城固县	chéng gù xiàn	456
+城关区	chéng guān qū	3362
+澄海区	chéng hǎi qū	560
+成华区	chéng huá qū	1707
+澄江市	chéng jiāng shì	0
+城口县	chéng kǒu xiàn	515
+澄迈县	chéng mài xiàn	1205
+成武县	chéng wǔ xiàn	210
+城西区	chéng xī qū	768
+城厢区	chéng xiāng qū	554
+城阳区	chéng yáng qū	1970
+城中区	chéng zhōng qū	901
+城子河	chéng zi hé	0
+赤壁市	chì bì shì	687
+赤城县	chì chéng xiàn	308
+赤峰市	chì fēng shì	4463
+赤坎区	chì kǎn qū	142
+茌平区	chí píng qū	0
+池上乡	chí shàng xiāng	0
+赤水市	chì shuǐ shì	431
+池州市	chí zhōu shì	1732
+崇川区	chóng chuān qū	297
+崇礼区	chóng lǐ qū	0
+崇明区	chóng míng qū	0
+重庆市	chóng qìng shì	37843
+崇仁县	chóng rén xiàn	292
+崇信县	chóng xìn xiàn	163
+崇阳县	chóng yáng xiàn	401
+崇义县	chóng yì xiàn	250
+崇州市	chóng zhōu shì	811
+崇左市	chóng zuǒ shì	1142
+楚雄市	chǔ xióng shì	506
+滁州市	chú zhōu shì	1965
+川汇区	chuān huì qū	252
+船山区	chuán shān qū	211
+船营区	chuán yíng qū	249
+淳安县	chún ān xiàn	1505
+淳化县	chún huà xiàn	276
+春日乡	chūn rì xiāng	0
+慈利县	cí lì xiàn	1364
+莿桐乡	cì tóng xiāng	0
+慈溪市	cí xī shì	1517
+从化区	cóng huà qū	0
+从江县	cóng jiāng xiàn	623
+丛台区	cóng tái qū	396
+翠屏区	cuì píng qū	677
+措美县	cuò měi xiàn	52
+错那市	cuò nà shì	0
+措勤县	cuò qín xiàn	61
+大安区	dà ān qū	1865
+大安区	dà ān qū	1865
+大安市	dà ān shì	170
+达坂城	dá bǎn chéng	777
+大埔县	dà bù xiàn	757
+大埔乡	dà bù xiāng	0
+达川区	dá chuān qū	0
+大村乡	dà cūn xiāng	0
+大东区	dà dōng qū	1593
+大渡口	dà dù kǒu	2168
+大肚区	dà dù qū	0
+大方县	dà fāng xiàn	517
+大丰区	dà fēng qū	0
+大观区	dà guān qū	92
+大关县	dà guān xiàn	129
+大湖乡	dà hú xiāng	0
+大甲区	dà jiǎ qū	0
+大里区	dà lǐ qū	0
+大理市	dà lǐ shì	2002
+大荔县	dà lì xiàn	828
+大连市	dà lián shì	15726
+大寮区	dà liáo qū	0
+大林镇	dà lín zhèn	0
+大名县	dà míng xiàn	517
+大内区	dà nèi qū	0
+大宁县	dà níng xiàn	158
+大埤乡	dà pí xiāng	0
+大箐山	dà qìng shān	0
+大庆市	dà qìng shì	1760
+达仁乡	dá rén xiāng	0
+达日县	dá rì xiàn	93
+大社区	dà shè qū	0
+大石桥	dà shí qiáo	1504
+大树区	dà shù qū	0
+大田县	dà tián xiàn	1941
+大同区	dà tóng qū	850
+大通区	dà tōng qū	61
+大同市	dà tóng shì	3330
+大同乡	dà tóng xiāng	415
+大洼区	dà wā qū	295
+大武口	dà wǔ kǒu	0
+大悟县	dà wù xiàn	321
+大武乡	dà wǔ xiāng	0
+大溪区	dà xī qū	0
+大祥区	dà xiáng qū	125
+大新县	dà xīn xiàn	385
+大兴区	dà xīng qū	4048
+大雅区	dà yá qū	0
+大姚县	dà yáo xiàn	183
+大冶市	dà yě shì	702
+大邑县	dà yì xiàn	875
+大英县	dà yīng xiàn	359
+大余县	dà yú xiàn	325
+大园区	dà yuán qū	0
+达州市	dá zhōu shì	1930
+大竹县	dà zhú xiàn	583
+达孜区	dá zī qū	0
+大足区	dà zú qū	0
+大城县	dài chéng xiàn	307
+大城乡	dài chéng xiāng	0
+岱山县	dài shān xiàn	307
+岱岳区	dài yuè qū	401
+丹巴县	dān bā xiàn	468
+郸城县	dān chéng xiàn	420
+丹东市	dān dōng shì	1393
+丹凤县	dān fèng xiàn	378
+丹江口	dān jiāng kǒu	1727
+丹棱县	dān léng xiàn	233
+淡水区	dàn shuǐ qū	978
+丹徒区	dān tú qū	347
+丹阳市	dān yáng shì	589
+丹寨县	dān zhài xiàn	324
+儋州市	dān zhōu shì	1329
+宕昌县	dàng chāng xiàn	272
+砀山县	dàng shān xiàn	574
+当涂县	dāng tú xiàn	549
+当雄县	dāng xióng xiàn	256
+当阳市	dāng yáng shì	290
+稻城县	dào chéng xiàn	520
+道孚县	dào fú xiàn	233
+道里区	dào lǐ qū	2360
+道外区	dào wài qū	1451
+德安县	dé ān xiàn	247
+德保县	dé bǎo xiàn	178
+德昌县	dé chāng xiàn	145
+德城区	dé chéng qū	564
+德格县	dé gé xiàn	189
+德化县	dé huà xiàn	691
+德惠市	dé huì shì	432
+德江县	dé jiāng xiàn	575
+德令哈	dé lìng hā	1694
+德钦县	dé qīn xiàn	361
+德庆区	dé qìng qū	0
+德清县	dé qīng xiàn	1454
+德庆县	dé qìng xiàn	393
+得荣县	dé róng xiàn	84
+德兴市	dé xīng shì	324
+德阳市	dé yáng shì	1524
+德州市	dé zhōu shì	2827
+登封市	dēng fēng shì	1181
+磴口县	dèng kǒu xiàn	260
+灯塔市	dēng tǎ shì	182
+邓州市	dèng zhōu shì	1084
+滴道区	dī dào qū	27
+电白区	diàn bái qū	0
+垫江县	diàn jiāng xiàn	611
+点军区	diǎn jūn qū	120
+调兵山	diào bīng shān	166
+迭部县	dié bù xiàn	209
+叠彩区	dié cǎi qū	188
+定安县	dìng ān xiàn	399
+定边县	dìng biān xiàn	504
+鼎城区	dǐng chéng qū	350
+定海区	dìng hǎi qū	330
+鼎湖区	dǐng hú qū	151
+定结县	dìng jié xiàn	113
+定南县	dìng nán xiàn	336
+丁青县	dīng qīng xiàn	100
+定日县	dìng rì xiàn	375
+定陶区	dìng táo qū	0
+定西市	dìng xī shì	1023
+定襄县	dìng xiāng xiàn	351
+定兴县	dìng xīng xiàn	263
+定远县	dìng yuǎn xiàn	1072
+定州市	dìng zhōu shì	754
+东安区	dōng ān qū	55
+东安县	dōng ān xiàn	328
+东宝区	dōng bǎo qū	273
+东昌府	dōng chāng fǔ	951
+东昌区	dōng chāng qū	147
+东城区	dōng chéng qū	12427
+东川区	dōng chuān qū	503
+东阿县	dōng ē xiàn	509
+东方市	dōng fāng shì	0
+东风区	dōng fēng qū	62
+东丰县	dōng fēng xiàn	215
+东港区	dōng gǎng qū	516
+东港市	dōng gǎng shì	404
+东港镇	dōng gǎng zhèn	0
+东莞市	dōng guǎn shì	20118
+东光县	dōng guāng xiàn	194
+东海县	dōng hǎi xiàn	903
+东河区	dōng hé qū	484
+东河乡	dōng hé xiāng	0
+东湖区	dōng hú qū	1278
+洞口县	dòng kǒu xiàn	259
+东兰县	dōng lán xiàn	190
+东丽区	dōng lì qū	1197
+东辽县	dōng liáo xiàn	330
+东明县	dōng míng xiàn	416
+东宁市	dōng níng shì	0
+东平县	dōng píng xiàn	1068
+东坡区	dōng pō qū	615
+东山区	dōng shān qū	1222
+东山县	dōng shān xiàn	523
+冬山乡	dōng shān xiāng	0
+东胜区	dōng shèng qū	858
+东势区	dōng shì qū	0
+东石乡	dōng shí xiāng	0
+东势乡	dōng shì xiāng	0
+东台市	dōng tái shì	483
+洞头区	dòng tóu qū	0
+东西湖	dōng xi hú	0
+东乡区	dōng xiāng qū	0
+东兴区	dōng xīng qū	448
+东兴市	dōng xīng shì	766
+东阳市	dōng yáng shì	1556
+东营区	dōng yíng qū	603
+东营市	dōng yíng shì	3141
+东源县	dōng yuán xiàn	345
+东至县	dōng zhì xiàn	263
+东洲区	dōng zhōu qū	283
+都昌县	dōu chāng xiàn	555
+都兰县	dōu lán xiàn	502
+斗六市	dòu liù shì	655
+斗门区	dǒu mén qū	1113
+斗南镇	dòu nán zhèn	0
+都匀市	dōu yún shì	485
+杜集区	dù jí qū	140
+都江堰	dū jiāng yàn	9588
+独山县	dú shān xiàn	443
+独山子	dú shān zi	898
+端州区	duān zhōu qū	345
+敦化市	dūn huà shì	354
+敦煌市	dūn huáng shì	1073
+掇刀区	duō dāo qū	110
+多伦县	duō lún xiàn	491
+鄂城区	è chéng qū	153
+峨眉山	é méi shān	11730
+峨眉乡	é méi xiāng	0
+额敏县	é mǐn xiàn	155
+鄂州市	è zhōu shì	1148
+恩平市	ēn píng shì	425
+恩施市	ēn shī shì	866
+恩阳区	ēn yáng qū	0
+二道江	èr dào jiāng	0
+二道区	èr dào qū	748
+二林镇	èr lín zhèn	0
+二仑乡	èr lún xiāng	0
+二七区	èr qī qū	1078
+二水乡	èr shuǐ xiāng	0
+洱源县	ěr yuán xiàn	425
+法库县	fǎ kù xiàn	973
+繁昌区	fán chāng qū	0
+樊城区	fán chéng qū	285
+番路乡	fān lù xiāng	0
+繁峙县	fán zhì xiàn	564
+防城港	fáng chéng gǎng	3301
+防城区	fáng chéng qū	242
+方城县	fāng chéng xiàn	786
+枋寮乡	fāng liáo xiāng	0
+房山区	fáng shān qū	3656
+方山县	fāng shān xiàn	386
+枋山乡	fāng shān xiāng	0
+芳苑乡	fāng yuàn xiāng	0
+方正县	fāng zhèng xiàn	296
+坊子区	fāng zǐ qū	204
+肥城市	féi chéng shì	844
+肥东县	féi dōng xiàn	1320
+肥西县	féi xī xiàn	1375
+肥乡区	féi xiāng qū	0
+汾西县	fén xī xiàn	230
+汾阳市	fén yáng shì	629
+分宜县	fēn yí xiàn	295
+芬园乡	fēn yuán xiāng	0
+丰滨乡	fēng bīn xiāng	0
+丰城市	fēng chéng shì	408
+凤城市	fèng chéng shì	279
+丰都县	fēng dōu xiàn	706
+凤冈县	fèng gāng xiàn	222
+奉化区	fèng huà qū	0
+凤凰县	fèng huáng xiàn	675
+奉节县	fèng jié xiàn	852
+封开县	fēng kāi xiàn	272
+丰林县	fēng lín xiàn	0
+凤林镇	fèng lín zhèn	0
+丰满区	fēng mǎn qū	172
+丰南区	fēng nán qū	288
+凤庆县	fèng qìng xiàn	279
+封丘县	fēng qiū xiàn	559
+凤泉区	fèng quán qū	50
+丰润区	fēng rùn qū	405
+凤山区	fèng shān qū	0
+凤山县	fèng shān xiàn	1081
+丰顺县	fēng shùn xiàn	530
+丰台区	fēng tái qū	6604
+凤台县	fèng tái xiàn	520
+奉贤区	fèng xián qū	1680
+凤翔区	fèng xiáng qū	0
+奉新县	fèng xīn xiàn	438
+凤阳县	fèng yáng xiàn	779
+丰原区	fēng yuán qū	0
+丰泽区	fēng zé qū	731
+丰镇市	fēng zhèn shì	212
+佛山市	fó shān shì	12818
+福安市	fú ān shì	776
+涪城区	fú chéng qū	420
+阜城县	fù chéng xiàn	196
+福鼎市	fú dǐng shì	880
+扶风县	fú fēng xiàn	620
+佛冈县	fú gāng xiàn	325
+福贡县	fú gòng xiàn	171
+扶沟县	fú gōu xiàn	319
+府谷县	fǔ gǔ xiàn	1068
+福海县	fú hǎi xiàn	221
+福建省	fú jiàn shěng	53964
+富锦市	fù jǐn shì	177
+阜康市	fù kāng shì	425
+富里乡	fù lǐ xiāng	0
+浮梁县	fú liáng xiàn	498
+涪陵区	fú líng qū	885
+福绵区	fú mián qū	0
+富民县	fù mín xiàn	400
+阜南县	fù nán xiàn	599
+抚宁区	fǔ níng qū	0
+阜宁县	fù níng xiàn	553
+富宁县	fù níng xiàn	312
+富平县	fù píng xiàn	646
+阜平县	fù píng xiàn	636
+佛坪县	fú píng xiàn	229
+福清市	fú qīng shì	2309
+福泉市	fú quán shì	340
+芙蓉区	fú róng qū	1511
+福山区	fú shān qū	553
+浮山县	fú shān xiàn	281
+抚顺市	fǔ shùn shì	1864
+富顺县	fù shùn xiàn	848
+抚顺县	fǔ shùn xiàn	247
+抚松县	fǔ sōng xiàn	297
+扶绥县	fú suí xiàn	232
+福田区	fú tián qū	8478
+阜新市	fù xīn shì	830
+复兴区	fù xīng qū	477
+福兴乡	fú xīng xiāng	0
+富阳区	fù yáng qū	0
+阜阳市	fù yáng shì	2557
+扶余市	fú yú shì	0
+富裕县	fù yù xiàn	199
+抚远市	fǔ yuǎn shì	0
+富源县	fù yuán xiàn	361
+富蕴县	fù yùn xiàn	391
+福州市	fú zhōu shì	13972
+抚州市	fǔ zhōu shì	1874
+噶尔县	gá ěr xiàn	90
+伽师县	gā shī xiàn	175
+改则县	gǎi zé xiàn	217
+盖州市	gài zhōu shì	320
+甘德县	gān dé xiàn	118
+甘谷县	gān gǔ xiàn	323
+甘井子	gān jǐng zi	2644
+甘洛县	gān luò xiàn	223
+甘南县	gān nán xiàn	292
+甘泉县	gān quán xiàn	249
+甘肃省	gān sù shěng	26595
+赣县区	gàn xiàn qū	0
+赣榆区	gàn yú qū	0
+甘州区	gān zhōu qū	308
+赣州市	gàn zhōu shì	2809
+甘孜县	gān zī xiàn	283
+岗巴县	gǎng bā xiàn	68
+港北区	gǎng běi qū	234
+刚察县	gāng chá xiàn	321
+钢城区	gāng chéng qū	344
+港口区	gǎng kǒu qū	302
+港南区	gǎng nán qū	121
+冈山区	gāng shān qū	0
+高安市	gāo ān shì	451
+高碑店	gāo bēi diàn	1709
+高昌区	gāo chāng qū	0
+藁城区	gǎo chéng qū	0
+高淳区	gāo chún qū	0
+高港区	gāo gǎng qū	284
+皋兰县	gāo lán xiàn	642
+高陵区	gāo líng qū	0
+高密市	gāo mì shì	555
+高明区	gāo míng qū	837
+高坪区	gāo píng qū	250
+高平市	gāo píng shì	555
+高青县	gāo qīng xiàn	589
+高树乡	gāo shù xiāng	0
+高台县	gāo tái xiàn	266
+高唐县	gāo táng xiàn	448
+高雄市	gāo xióng shì	22434
+高阳县	gāo yáng xiàn	639
+高要区	gāo yào qū	0
+高邑县	gāo yì xiàn	215
+高邮市	gāo yóu shì	547
+高州市	gāo zhōu shì	597
+格尔木	gé ěr mù	4126
+革吉县	gé jí xiàn	53
+个旧市	gè jiù shì	351
+根河市	gēn hé shì	213
+公安县	gōng ān xiàn	478
+弓长岭	gōng cháng lǐng	288
+贡嘎县	gòng gā xiàn	112
+公馆乡	gōng guǎn xiāng	0
+共和县	gòng hé xiàn	377
+贡井区	gòng jǐng qū	189
+贡觉县	gòng jué xiàn	67
+贡寮区	gòng liáo qū	0
+巩留县	gǒng liú xiàn	683
+工农区	gōng nóng qū	139
+共青城	gòng qīng chéng	923
+拱墅区	gǒng shù qū	1556
+巩义市	gǒng yì shì	789
+公主岭	gōng zhǔ lǐng	1403
+固安县	gù ān xiàn	0
+古城区	gǔ chéng qū	1527
+故城县	gù chéng xiàn	578
+谷城县	gǔ chéng xiàn	419
+古交市	gǔ jiāo shì	390
+古坑乡	gǔ kēng xiāng	0
+古浪县	gǔ làng xiàn	258
+古蔺县	gǔ lìn xiàn	491
+鼓楼区	gǔ lóu qū	5132
+鼓山区	gǔ shān qū	0
+固始县	gù shǐ xiàn	905
+姑苏区	gū sū qū	0
+古塔区	gǔ tǎ qū	55
+古田县	gǔ tián xiàn	801
+固阳县	gù yáng xiàn	408
+古冶区	gǔ yě qū	168
+固原市	gù yuán shì	1283
+沽源县	gū yuán xiàn	263
+古丈县	gǔ zhàng xiàn	480
+固镇县	gù zhèn xiàn	320
+瓜州县	guā zhōu xiàn	0
+官渡区	guān dù qū	4739
+关庙区	guān miào qū	0
+灌南县	guàn nán xiàn	218
+观山湖	guān shān hú	0
+关山镇	guān shān zhèn	0
+馆陶县	guǎn táo xiàn	361
+官田区	guān tián qū	0
+关西镇	guān xī zhèn	0
+灌阳县	guàn yáng xiàn	192
+观音区	guān yīn qū	0
+灌云县	guàn yún xiàn	395
+广安区	guǎng ān qū	255
+广安市	guǎng ān shì	1437
+广昌县	guǎng chāng xiàn	401
+广德市	guǎng dé shì	0
+广东省	guǎng dōng shěng	99327
+广丰区	guǎng fēng qū	0
+光复乡	guāng fù xiāng	0
+广汉市	guǎng hàn shì	506
+广河县	guǎng hé xiàn	303
+广陵区	guǎng líng qū	683
+广灵县	guǎng líng xiàn	182
+光明区	guāng míng qū	0
+广南县	guǎng nán xiàn	444
+广宁县	guǎng níng xiàn	455
+广平县	guǎng píng xiàn	410
+广饶县	guǎng ráo xiàn	524
+光山县	guāng shān xiàn	693
+广水市	guǎng shuǐ shì	238
+广信区	guǎng xìn qū	0
+广阳区	guǎng yáng qū	317
+广元市	guǎng yuán shì	1749
+光泽县	guāng zé xiàn	246
+广州市	guǎng zhōu shì	53016
+广宗县	guǎng zōng xiàn	254
+贵池区	guì chí qū	477
+贵德县	guì dé xiàn	575
+贵定县	guì dìng xiàn	323
+桂东县	guì dōng xiàn	323
+贵港市	guì gǎng shì	1075
+桂林市	guì lín shì	6289
+贵南县	guì nán xiàn	187
+桂平市	guì píng shì	349
+归仁区	guī rén qū	0
+龟山区	guī shān qū	0
+贵溪市	guì xī shì	503
+贵阳市	guì yáng shì	13239
+桂阳县	guì yáng xiàn	541
+贵州省	guì zhōu shěng	31217
+国姓乡	guó xìng xiāng	0
+哈巴河	hǎ bā hé	457
+哈尔滨	hā ěr bīn	95826
+哈密市	hā mì shì	794
+海安市	hǎi ān shì	0
+海勃湾	hǎi bó wān	354
+海沧区	hǎi cāng qū	1302
+海城区	hǎi chéng qū	347
+海城市	hǎi chéng shì	352
+海淀区	hǎi diàn qū	19472
+海东市	hǎi dōng shì	0
+海端乡	hǎi duān xiāng	0
+海丰县	hǎi fēng xiàn	1017
+海港区	hǎi gǎng qū	1383
+海口市	hǎi kǒu shì	9424
+海拉尔	hǎi lā ěr	2971
+海林市	hǎi lín shì	280
+海陵区	hǎi líng qū	350
+海伦市	hǎi lún shì	251
+海门区	hǎi mén qū	0
+海南区	hǎi nán qū	147
+海南省	hǎi nán shěng	21012
+海宁市	hǎi níng shì	975
+海曙区	hǎi shǔ qū	1501
+海棠区	hǎi táng qū	0
+海兴县	hǎi xīng xiàn	114
+海盐县	hǎi yán xiàn	1035
+海晏县	hǎi yàn xiàn	328
+海阳市	hǎi yáng shì	1445
+海原县	hǎi yuán xiàn	441
+海州区	hǎi zhōu qū	417
+海珠区	hǎi zhū qū	4955
+汉滨区	hàn bīn qū	763
+韩城市	hán chéng shì	786
+汉川市	hàn chuān shì	261
+邯郸市	hán dān shì	5441
+邗江区	hán jiāng qū	713
+涵江区	hán jiāng qū	482
+汉南区	hàn nán qū	616
+邯山区	hán shān qū	155
+含山县	hán shān xiàn	355
+汉寿县	hàn shòu xiàn	440
+汉台区	hàn tái qū	417
+寒亭区	hán tíng qū	324
+汉阳区	hàn yáng qū	1095
+汉阴县	hàn yīn xiàn	511
+汉源县	hàn yuán xiàn	331
+汉中市	hàn zhōng shì	2555
+杭锦旗	háng jǐn qí	451
+杭州市	háng zhōu shì	28577
+濠江区	háo jiāng qū	324
+河北区	hé běi qū	2049
+河北省	hé běi shěng	56658
+鹤壁市	hè bì shì	1361
+鹤城区	hè chéng qū	242
+河池市	hé chí shì	1110
+合川区	hé chuān qū	0
+河东区	hé dōng qū	2460
+合肥市	hé féi shì	19377
+鹤峰县	hè fēng xiàn	400
+鹤岗市	hè gǎng shì	666
+河间市	hé jiān shì	232
+合江县	hé jiāng xiàn	1846
+河津市	hé jīn shì	447
+和静县	hé jìng xiàn	396
+河口区	hé kǒu qū	2441
+贺兰县	hè lán xiàn	380
+和龙市	hé lóng shì	224
+和美镇	hé měi zhèn	0
+河南省	hé nán shěng	66621
+和平区	hé píng qū	5524
+和平县	hé píng xiàn	451
+鹤庆县	hè qìng xiàn	251
+河曲县	hé qū xiàn	235
+赫山区	hè shān qū	579
+鹤山区	hè shān qū	51
+鹤山市	hè shān shì	569
+合山市	hé shān shì	195
+合水县	hé shuǐ xiàn	188
+和顺县	hé shùn xiàn	256
+和硕县	hé shuò xiàn	187
+荷塘区	hé táng qū	229
+和田市	hé tián shì	805
+和田县	hé tián xiàn	173
+河西区	hé xī qū	2655
+合阳县	hé yáng xiàn	364
+河源市	hé yuán shì	2332
+菏泽市	hé zé shì	1732
+赫章县	hè zhāng xiàn	313
+和政县	hé zhèng xiàn	274
+贺州市	hè zhōu shì	1290
+合作市	hé zuò shì	0
+黑河市	hēi hé shì	1075
+黑龙江	hēi lóng jiāng	73358
+黑山县	hēi shān xiàn	260
+黑水县	hēi shuǐ xiàn	531
+恒春镇	héng chūn zhèn	459
+衡东县	héng dōng xiàn	434
+横峰县	héng fēng xiàn	263
+衡南县	héng nán xiàn	512
+恒山区	héng shān qū	26
+横山区	héng shān qū	0
+衡山县	héng shān xiàn	517
+横山乡	héng shān xiāng	0
+衡水市	héng shuǐ shì	3126
+衡阳市	héng yáng shì	3944
+衡阳县	héng yáng xiàn	539
+横州市	héng zhōu shì	0
+红安县	hóng ān xiàn	684
+洪洞县	hóng dòng xiàn	958
+红岗区	hóng gǎng qū	70
+红古区	hóng gǔ qū	353
+红谷滩	hóng gǔ tān	0
+红河县	hóng hé xiàn	269
+洪湖市	hóng hú shì	566
+红花岗	hóng huā gǎng	0
+洪江市	hóng jiāng shì	296
+虹口区	hóng kǒu qū	3315
+红旗区	hóng qí qū	84
+红桥区	hóng qiáo qū	1588
+洪山区	hóng shān qū	2004
+红山区	hóng shān qū	1012
+红寺堡	hóng sì bǎo	346
+红塔区	hóng tǎ qū	401
+宏伟区	hóng wěi qū	29
+洪雅县	hóng yǎ xiàn	505
+红原县	hóng yuán xiàn	419
+洪泽区	hóng zé qū	0
+后壁区	hòu bì qū	0
+后里区	hòu lǐ qū	0
+后龙镇	hòu lóng zhèn	0
+侯马市	hóu mǎ shì	312
+湖北省	hú běi shěng	45858
+湖滨区	hú bīn qū	443
+壶关县	hú guān xiàn	345
+湖口县	hú kǒu xiàn	331
+湖口乡	hú kǒu xiāng	0
+呼兰区	hū lán qū	0
+湖里区	hú lǐ qū	1376
+虎林市	hǔ lín shì	160
+葫芦岛	hú lú dǎo	3650
+湖南省	hú nán shěng	51281
+湖内区	hú nèi qū	0
+虎丘区	hǔ qiū qū	166
+呼图壁	hū tú bì	569
+虎尾镇	hǔ wěi zhèn	0
+湖西乡	hú xī xiāng	0
+胡杨河	hú yáng hé	0
+胡杨河	hú yáng hé	0
+鄠邑区	hù yì qū	0
+湖州市	hú zhōu shì	3050
+华安县	huá ān xiàn	441
+华池县	huá chí xiàn	728
+桦川县	huà chuān xiàn	146
+化德县	huà dé xiàn	210
+桦甸市	huà diān shì	228
+花都区	huā dū qū	2114
+花莲市	huā lián shì	921
+花莲县	huā lián xiàn	5609
+华龙区	huá lóng qū	131
+桦南县	huà nán xiàn	280
+华宁县	huá níng xiàn	275
+华坪县	huá píng xiàn	221
+华容区	huá róng qū	110
+华容县	huá róng xiàn	587
+花山区	huā shān qū	106
+花坛乡	huā tán xiāng	0
+华亭市	huá tíng shì	36
+花溪区	huā xī qū	1034
+华阴市	huá yīn shì	594
+华蓥市	huá yíng shì	376
+花垣县	huā yuán xiàn	694
+华州区	huá zhōu qū	393
+化州市	huà zhōu shì	511
+淮安区	huái ān qū	0
+淮安市	huái ān shì	3539
+怀安县	huái ān xiàn	430
+淮北市	huái běi shì	1543
+淮滨县	huái bīn xiàn	243
+怀化市	huái huà shì	1710
+怀集县	huái jí xiàn	339
+怀来县	huái lái xiàn	756
+淮南市	huái nán shì	1768
+怀宁县	huái níng xiàn	605
+怀仁市	huái rén shì	0
+怀柔区	huái róu qū	2437
+淮上区	huái shàng qū	0
+淮阳区	huái yáng qū	0
+槐荫区	huái yīn qū	1197
+淮阴区	huái yīn qū	529
+怀远县	huái yuǎn xiàn	713
+环翠区	huán cuì qū	400
+桓台县	huán tái xiàn	446
+潢川县	huáng chuān xiàn	511
+黄岛区	huáng dǎo qū	2647
+黄冈市	huáng gāng shì	2019
+皇姑区	huáng gū qū	1863
+黄骅市	huáng huá shì	297
+黄陵县	huáng líng xiàn	503
+黄龙县	huáng lóng xiàn	272
+黄梅县	huáng méi xiàn	891
+黄陂区	huáng pí qū	929
+黄平县	huáng píng xiàn	312
+黄浦区	huáng pǔ qū	7894
+黄埔区	huáng pǔ qū	2100
+黄山区	huáng shān qū	564
+黄山市	huáng shān shì	6595
+黄石港	huáng shí gǎng	244
+黄石市	huáng shí shì	1469
+黄岩区	huáng yán qū	302
+湟源县	huáng yuán xiàn	513
+湟中区	huáng zhōng qū	0
+黄州区	huáng zhōu qū	322
+惠安县	huì ān xiàn	1038
+会昌县	huì chāng xiàn	373
+惠城区	huì chéng qū	1505
+汇川区	huì chuān qū	389
+珲春市	huī chūn shì	651
+惠东县	huì dōng xiàn	983
+会东县	huì dōng xiàn	181
+惠济区	huì jì qū	0
+惠来县	huì lái xiàn	674
+会理市	huì lǐ shì	0
+回民区	huí mín qū	800
+惠民县	huì mín xiàn	301
+辉南县	huī nán xiàn	268
+会宁县	huì níng xiàn	525
+惠农区	huì nóng qū	128
+惠山区	huì shān qū	617
+惠水县	huì shuǐ xiàn	603
+会同县	huì tóng xiàn	241
+辉县市	huī xiàn shì	720
+惠阳区	huì yáng qū	888
+会泽县	huì zé xiàn	547
+徽州区	huī zhōu qū	526
+惠州市	huì zhōu shì	6768
+回族区	huí zú qū	84
+浑江区	hún jiāng qū	0
+浑南区	hún nán qū	0
+浑源县	hún yuán xiàn	353
+霍城县	huò chéng xiàn	469
+获嘉县	huò jiā xiàn	312
+霍邱县	huò qiū xiàn	1242
+霍山县	huò shān xiàn	660
+霍州市	huò zhōu shì	243
+吉安市	jí ān shì	1631
+集安市	jí ān shì	273
+吉安县	jí ān xiàn	464
+吉安乡	jí ān xiāng	0
+鸡东县	jī dōng xiàn	220
+鸡冠区	jī guān qū	55
+集集镇	jí jí zhèn	0
+吉林省	jí lín shěng	30190
+吉林市	jí lín shì	5897
+基隆市	jī lóng shì	4914
+吉隆县	jí lóng xiàn	177
+集美区	jí měi qū	1816
+即墨区	jí mò qū	0
+吉木乃	jí mù nǎi	415
+济南市	jǐ nán shì	19922
+集宁区	jí níng qū	523
+济宁市	jǐ níng shì	2798
+稷山县	jì shān xiàn	451
+积石山	jī shí shān	343
+吉首市	jí shǒu shì	481
+吉水县	jí shuǐ xiàn	549
+鸡西市	jī xī shì	684
+绩溪县	jì xī xiàn	621
+集贤县	jí xián xiàn	105
+济阳区	jì yáng qū	0
+吉阳区	jí yáng qū	0
+济源市	jì yuán shì	885
+鸡泽县	jī zé xiàn	279
+吉州区	jí zhōu qū	269
+蓟州区	jì zhōu qū	0
+冀州区	jì zhōu qū	0
+加查县	jiā chá xiàn	60
+嘉定区	jiā dìng qū	2685
+茄萣区	jiā dìng qū	0
+佳冬乡	jiā dōng xiāng	0
+嘉禾县	jiā hé xiàn	297
+夹江县	jiā jiāng xiàn	327
+佳里区	jiā lǐ qū	0
+嘉黎县	jiā lí xiàn	120
+嘉陵区	jiā líng qū	452
+佳木斯	jiā mù sī	4776
+嘉善县	jiā shàn xiàn	767
+贾汪区	jiǎ wāng qū	272
+甲仙区	jiǎ xiān qū	0
+嘉祥县	jiā xiáng xiàn	573
+嘉兴市	jiā xīng shì	3758
+嘉义市	jiā yì shì	5495
+嘉义县	jiā yì xiàn	7477
+嘉荫县	jiā yīn xiàn	137
+嘉峪关	jiā yù guān	3979
+嘉鱼县	jiā yú xiàn	290
+建安区	jiàn ān qū	0
+尖草坪	jiān cǎo píng	0
+建昌县	jiàn chāng xiàn	319
+剑川县	jiàn chuān xiàn	381
+建德市	jiàn dé shì	1116
+剑阁县	jiàn gé xiàn	500
+剑河县	jiàn hé xiàn	1700
+建湖县	jiàn hú xiàn	222
+建华区	jiàn huá qū	95
+监利市	jiàn lì shì	0
+建宁县	jiàn níng xiàn	317
+建瓯市	jiàn ōu shì	359
+建平县	jiàn píng xiàn	523
+尖山区	jiān shān qū	23
+建始县	jiàn shǐ xiàn	512
+尖石乡	jiān shí xiāng	0
+建水县	jiàn shuǐ xiàn	543
+涧西区	jiàn xī qū	346
+建阳区	jiàn yáng qū	0
+简阳市	jiǎn yáng shì	843
+建邺区	jiàn yè qū	1386
+尖扎县	jiān zhā xiàn	259
+江岸区	jiāng àn qū	1886
+江安县	jiāng ān xiàn	362
+江北区	jiāng běi qū	3908
+江城区	jiāng chéng qū	228
+江川区	jiāng chuān qū	72
+江达县	jiāng dá xiàn	309
+江都区	jiāng dū qū	713
+江海区	jiāng hǎi qū	445
+江汉区	jiāng hàn qū	1361
+江津区	jiāng jīn qū	1201
+将军区	jiāng jūn qū	0
+江口县	jiāng kǒu xiàn	267
+将乐县	jiāng lè xiàn	288
+江陵县	jiāng líng xiàn	554
+江门市	jiāng mén shì	4192
+江南区	jiāng nán qū	2136
+江宁区	jiāng níng qū	2661
+江山市	jiāng shān shì	603
+江苏省	jiāng sū shěng	71656
+江西省	jiāng xī shěng	34602
+江夏区	jiāng xià qū	1143
+姜堰区	jiāng yàn qū	457
+江阳区	jiāng yáng qū	588
+江阴市	jiāng yīn shì	1567
+江永县	jiāng yǒng xiàn	424
+江油市	jiāng yóu shì	713
+江源区	jiāng yuán qū	123
+江州区	jiāng zhōu qū	146
+江孜县	jiāng zī xiàn	247
+蕉城区	jiāo chéng qū	575
+交城县	jiāo chéng xiàn	371
+蛟河市	jiāo hé shì	293
+椒江区	jiāo jiāng qū	476
+交口县	jiāo kǒu xiàn	186
+蕉岭县	jiāo lǐng xiàn	404
+礁溪乡	jiāo xī xiāng	0
+胶州市	jiāo zhōu shì	1780
+焦作市	jiāo zuò shì	2707
+揭东区	jiē dōng qū	0
+解放区	jiě fàng qū	3761
+界首市	jiè shǒu shì	702
+揭西县	jiē xī xiàn	401
+介休市	jiè xiū shì	329
+揭阳市	jiē yáng shì	1706
+晋安区	jìn ān qū	1941
+金安区	jīn ān qū	649
+金昌市	jīn chāng shì	629
+金城江	jīn chéng jiāng	399
+晋城市	jìn chéng shì	2973
+金川区	jīn chuān qū	171
+金川县	jīn chuān xiàn	313
+金东区	jīn dōng qū	511
+金凤区	jīn fèng qū	439
+金峰乡	jīn fēng xiāng	190
+金湖县	jīn hú xiàn	528
+金华市	jīn huá shì	4112
+锦江区	jǐn jiāng qū	2493
+晋江市	jìn jiāng shì	2531
+金口河	jīn kǒu hé	207
+金林区	jīn lín qū	0
+金门县	jīn mén xiàn	2434
+津南区	jīn nán qū	1240
+晋宁区	jìn níng qū	0
+金牛区	jīn niú qū	2022
+金平区	jīn píng qū	417
+锦屏县	jǐn píng xiàn	523
+金沙县	jīn shā xiàn	224
+金山区	jīn shān qū	2127
+津市市	jīn shì shì	99
+金水区	jīn shuǐ qū	2171
+金塔县	jīn tǎ xiàn	308
+金台区	jīn tái qū	233
+金坛区	jīn tán qū	236
+金堂县	jīn táng xiàn	753
+金湾区	jīn wān qū	752
+金溪县	jīn xī xiàn	346
+进贤县	jìn xián xiàn	896
+金乡县	jīn xiāng xiàn	611
+金阳县	jīn yáng xiàn	142
+晋源区	jìn yuán qū	926
+缙云县	jìn yún xiàn	561
+金寨县	jīn zhài xiàn	1441
+晋中市	jìn zhōng shì	3053
+金州区	jīn zhōu qū	513
+锦州市	jǐn zhōu shì	1270
+晋州市	jìn zhōu shì	267
+静安区	jìng ān qū	4876
+靖安县	jìng ān xiàn	309
+靖边县	jìng biān xiàn	684
+泾川县	jīng chuān xiàn	326
+旌德县	jīng dé xiàn	610
+景德镇	jǐng dé zhèn	12237
+井冈山	jǐng gāng shān	7158
+静海区	jìng hǎi qū	0
+精河县	jīng hé xiàn	200
+景洪市	jǐng hóng shì	670
+镜湖区	jìng hú qū	297
+靖江市	jìng jiāng shì	560
+京口区	jīng kǒu qū	186
+静乐县	jìng lè xiàn	218
+荆门市	jīng mén shì	1774
+静宁县	jìng níng xiàn	329
+京山市	jīng shān shì	82
+景泰县	jǐng tài xiàn	307
+靖西市	jìng xī shì	0
+井陉县	jǐng xíng xiàn	746
+竞秀区	jìng xiù qū	0
+井研县	jǐng yán xiàn	248
+旌阳区	jīng yáng qū	485
+泾阳县	jīng yáng xiàn	690
+靖宇县	jìng yǔ xiàn	299
+泾源县	jīng yuán xiàn	451
+靖远县	jìng yuǎn xiàn	272
+荆州区	jīng zhōu qū	337
+荆州市	jīng zhōu shì	1883
+鸠江区	jiū jiāng qū	251
+九江市	jiǔ jiāng shì	3083
+九龙坡	jiǔ lóng pō	3441
+九龙县	jiǔ lóng xiàn	125
+酒泉市	jiǔ quán shì	1342
+九如乡	jiǔ rú xiāng	0
+九台区	jiǔ tái qū	0
+九原区	jiǔ yuán qū	0
+九寨沟	jiǔ zhài gōu	21871
+久治县	jiǔ zhì xiàn	165
+巨鹿县	jù lù xiàn	272
+莒南县	jǔ nán xiàn	563
+句容市	jù róng shì	766
+巨野县	jù yě xiàn	555
+鄄城县	juàn chéng xiàn	418
+君山区	jūn shān qū	195
+卡若区	kǎ ruò qū	0
+喀什市	kā shí shì	765
+开封市	kāi fēng shì	3684
+开福区	kāi fú qū	1979
+开化县	kāi huà xiàn	493
+开江县	kāi jiāng xiàn	313
+凯里市	kǎi lǐ shì	1080
+开鲁县	kāi lǔ xiàn	611
+开平区	kāi píng qū	234
+开平市	kāi píng shì	958
+开阳县	kāi yáng xiàn	527
+开原市	kāi yuán shì	282
+开远市	kāi yuǎn shì	210
+开州区	kāi zhōu qū	0
+崁顶乡	kàn dǐng xiāng	0
+康巴什	kāng bā shén	0
+康保县	kāng bǎo xiàn	192
+康定市	kāng dìng shì	0
+康乐县	kāng lè xiàn	314
+康马县	kāng mǎ xiàn	97
+康平县	kāng píng xiàn	475
+柯城区	kē chéng qū	329
+克东县	kè dōng xiàn	159
+科尔沁	kē ěr qìn	3799
+岢岚县	kě lán xiàn	178
+柯坪县	kē píng xiàn	71
+柯桥区	kē qiáo qū	0
+克山县	kè shān xiàn	125
+垦利区	kěn lì qū	0
+崆峒区	kōng tóng qū	279
+口湖乡	kǒu hú xiāng	0
+库车市	kù chē shì	0
+库尔勒	kù ěr lè	3791
+库伦旗	kù lún qí	353
+宽城区	kuān chéng qū	701
+奎屯市	kuí tún shì	309
+奎文区	kuí wén qū	364
+昆都仑	kūn dōu lún	0
+昆明市	kūn míng shì	22010
+昆山市	kūn shān shì	2347
+昆玉市	kūn yù shì	72
+昆玉市	kūn yù shì	0
+拉萨市	lā sà shì	4353
+拉孜县	lā zī xiàn	146
+来安县	lái ān xiàn	511
+来宾市	lái bīn shì	1023
+来凤县	lái fèng xiàn	254
+莱山区	lái shān qū	537
+涞水县	lái shuǐ xiàn	521
+莱芜区	lái wú qū	0
+莱西市	lái xī shì	1095
+莱阳市	lái yáng shì	402
+来义乡	lái yì xiāng	0
+涞源县	lái yuán xiàn	519
+莱州市	lái zhōu shì	539
+岚皋县	lán gāo xiàn	219
+兰考县	lán kǎo xiàn	971
+兰陵县	lán líng xiàn	0
+兰山区	lán shān qū	665
+岚山区	lán shān qū	0
+蓝山县	lán shān xiàn	299
+蓝田县	lán tián xiàn	1213
+兰溪市	lán xī shì	650
+兰西县	lán xī xiàn	186
+兰屿乡	lán yǔ xiāng	0
+兰州市	lán zhōu shì	12056
+廊坊市	láng fāng shì	3272
+浪卡子	làng qiǎ zi	202
+郎溪县	láng xī xiàn	270
+琅琊区	láng yá qū	158
+阆中市	láng zhōng shì	937
+老边区	lǎo biān qū	102
+老城区	lǎo chéng qū	10508
+老河口	lǎo hé kǒu	946
+崂山区	láo shān qū	2987
+乐安县	lè ān xiàn	390
+乐昌市	lè chāng shì	245
+乐都区	lè dōu qū	0
+乐陵市	lè líng shì	334
+乐平市	lè píng shì	330
+乐山市	lè shān shì	2637
+乐亭县	lè tíng xiàn	514
+乐业县	lè yè xiàn	147
+乐至县	lè zhì xiàn	502
+雷波县	léi bō xiàn	229
+雷山县	léi shān xiàn	718
+类乌齐	lèi wū qí	300
+耒阳市	lěi yáng shì	648
+雷州市	léi zhōu shì	526
+冷水江	lěng shuǐ jiāng	554
+冷水滩	lěng shuǐ tān	366
+荔波县	lì bō xiàn	524
+李沧区	lǐ cāng qū	2581
+历城区	lì chéng qū	2289
+鲤城区	lǐ chéng qū	705
+荔城区	lì chéng qū	649
+黎城县	lí chéng xiàn	316
+利川市	lì chuān shì	690
+黎川县	lí chuān xiàn	223
+里港乡	lǐ gǎng xiāng	0
+丽江市	lì jiāng shì	2343
+利津县	lì jīn xiàn	453
+醴陵市	lǐ líng shì	603
+黎平县	lí píng xiàn	594
+荔浦市	lì pǔ shì	38
+礼泉县	lǐ quán xiàn	557
+立山区	lì shān qū	64
+离石区	lí shí qū	675
+梨树区	lí shù qū	68
+梨树县	lí shù xiàn	361
+溧水区	lì shuǐ qū	0
+丽水市	lí shuǐ shì	2142
+理塘县	lǐ táng xiàn	387
+利通区	lì tōng qū	218
+荔湾区	lì wān qū	3450
+历下区	lì xià qū	1729
+利辛县	lì xīn xiàn	527
+溧阳市	lì yáng shì	636
+利州区	lì zhōu qū	0
+连城县	lián chéng xiàn	561
+莲池区	lián chí qū	0
+莲都区	lián dōu qū	546
+莲湖区	lián hú qū	1220
+莲花县	lián huā xiàn	261
+廉江市	lián jiāng shì	751
+连江县	lián jiāng xiàn	2903
+连平县	lián píng xiàn	309
+连山区	lián shān qū	162
+涟水县	lián shuǐ xiàn	864
+濂溪区	lián xī qū	0
+涟源市	lián yuán shì	435
+连云港	lián yún gǎng	11549
+连云区	lián yún qū	246
+连州市	lián zhōu shì	350
+凉城县	liáng chéng xiàn	279
+两当县	liǎng dāng xiàn	183
+梁河县	liáng hé xiàn	320
+梁平区	liáng píng qū	92
+良庆区	liáng qìng qū	0
+梁山县	liáng shān xiàn	512
+梁溪区	liáng xī qū	445
+梁园区	liáng yuán qū	312
+凉州区	liáng zhōu qū	936
+梁子湖	liáng zi hú	665
+聊城市	liáo chéng shì	2511
+辽宁省	liáo níng shěng	35593
+辽阳市	liáo yáng shì	1489
+辽阳县	liáo yáng xiàn	225
+辽源市	liáo yuán shì	941
+辽中区	liáo zhōng qū	0
+烈山区	liè shān qū	251
+临安区	lín ān qū	0
+林边乡	lín biān xiāng	0
+临沧市	lín cāng shì	1293
+临城县	lín chéng xiàn	313
+临川区	lín chuān qū	390
+林甸县	lín diàn xiàn	144
+临汾市	lín fén shì	3116
+临高县	lín gāo xiàn	510
+临桂区	lín guì qū	0
+临海市	lín hǎi shì	697
+临河区	lín hé qū	361
+临江市	lín jiāng shì	165
+林口区	lín kǒu qū	0
+林口县	lín kǒu xiàn	113
+临澧县	lín lǐ xiàn	309
+麟洛乡	lín luò xiāng	0
+林内乡	lín nèi xiāng	0
+临平区	lín píng qū	0
+临清市	lín qīng shì	292
+临朐县	lín qú xiàn	697
+临泉县	lín quán xiàn	941
+临沭县	lín shù xiàn	510
+邻水县	lín shuǐ xiàn	1202
+临潭县	lín tán xiàn	253
+临洮县	lín táo xiàn	554
+临潼区	lín tóng qū	1120
+临渭区	lín wèi qū	692
+临武县	lín wǔ xiàn	277
+林西县	lín xī xiàn	363
+临西县	lín xī xiàn	226
+临夏市	lín xià shì	416
+临夏县	lín xià xiàn	218
+临翔区	lín xiáng qū	121
+临湘市	lín xiāng shì	391
+临沂市	lín yí shì	5699
+临猗县	lín yī xiàn	655
+临邑县	lín yì xiàn	534
+临颍县	lín yǐng xiàn	452
+麟游县	lín yóu xiàn	0
+林园区	lín yuán qū	0
+临泽县	lín zé xiàn	228
+临漳县	lín zhāng xiàn	615
+林芝市	lín zhī shì	0
+林州市	lín zhōu shì	2969
+林周县	lín zhōu xiàn	185
+临淄区	lín zī qū	655
+灵宝市	líng bǎo shì	836
+灵璧县	líng bì xiàn	609
+陵城区	líng chéng qū	0
+陵川县	líng chuān xiàn	651
+灵川县	líng chuān xiàn	325
+岭东区	lǐng dōng qū	17
+凌海市	líng hǎi shì	110
+凌河区	líng hé qū	65
+零陵区	líng líng qū	0
+灵丘县	líng qiū xiàn	301
+灵山县	líng shān xiàn	557
+灵石县	líng shí xiàn	444
+灵寿县	líng shòu xiàn	695
+灵台县	líng tái xiàn	192
+灵武市	líng wǔ shì	384
+苓雅区	líng yǎ qū	0
+凌源市	líng yuán shì	252
+凌云县	líng yún xiàn	297
+留坝县	liú bà xiàn	335
+柳北区	liǔ běi qū	249
+柳城县	liǔ chéng xiàn	303
+六龟区	liù guī qū	0
+柳河县	liǔ hé xiàn	232
+六甲区	liù jiǎ qū	0
+柳江区	liǔ jiāng qū	0
+六脚乡	liù jiǎo xiāng	0
+柳林县	liǔ lín xiàn	339
+柳南区	liǔ nán qū	175
+六盘水	liù pán shuǐ	3881
+琉球乡	liú qiú xiāng	0
+浏阳市	liú yáng shì	1728
+柳营区	liǔ yíng qū	0
+六枝特	liù zhī tè	0
+柳州市	liǔ zhōu shì	4383
+龙安区	lóng ān qū	58
+隆安县	lóng ān xiàn	425
+隆昌市	lóng chāng shì	0
+龙城区	lóng chéng qū	839
+龙川县	lóng chuān xiàn	374
+陇川县	lǒng chuān xiàn	327
+隆德县	lóng dé xiàn	313
+龙凤区	lóng fèng qū	120
+龙岗区	lóng gǎng qū	5283
+龙港区	lóng gǎng qū	76
+龙港市	lóng gǎng shì	0
+龙海区	lóng hǎi qū	0
+龙湖区	lóng hú qū	466
+龙华区	lóng huá qū	1938
+隆化县	lóng huà xiàn	303
+隆回县	lóng huí xiàn	517
+龙江县	lóng jiāng xiàn	289
+龙井区	lóng jǐng qū	0
+龙井市	lóng jǐng shì	357
+龙口市	lóng kǒu shì	524
+龙里县	lóng lǐ xiàn	344
+龙陵县	lóng líng xiàn	288
+龙马潭	lóng mǎ tán	0
+龙门县	lóng mén xiàn	613
+龙南市	lóng nán shì	0
+陇南市	lǒng nán shì	0
+龙崎区	lóng qí qū	0
+龙泉市	lóng quán shì	456
+龙泉驿	lóng quán yì	1870
+龙沙区	lóng shā qū	95
+龙山区	lóng shān qū	442
+龙山县	lóng shān xiàn	439
+龙潭区	lóng tán qū	678
+龙亭区	lóng tíng qū	115
+龙湾区	lóng wān qū	784
+龙圩区	lóng wéi qū	0
+龙文区	lóng wén qū	482
+陇西县	lǒng xī xiàn	408
+龙岩市	lóng yán shì	2605
+隆阳区	lóng yáng qū	357
+隆尧县	lóng yáo xiàn	442
+龙游县	lóng yóu xiàn	520
+龙州县	lóng zhōu xiàn	238
+龙子湖	lóng zi hú	0
+隆子县	lóng zi xiàn	117
+娄底市	lóu dǐ shì	1904
+娄烦县	lóu fán xiàn	244
+娄星区	lóu xīng qū	237
+六安市	lù ān shì	3381
+路北区	lù běi qū	445
+鹿草乡	lù cǎo xiāng	0
+鹿城区	lù chéng qū	2638
+潞城区	lù chéng qū	0
+陆川县	lù chuān xiàn	255
+鲁甸县	lǔ diān xiàn	277
+泸定县	lú dìng xiàn	509
+陆丰市	lù fēng shì	626
+禄丰市	lù fēng shì	0
+鹿港镇	lù gǎng zhèn	602
+鹿谷乡	lù gǔ xiāng	424
+六合区	lù hé qu	1698
+陆河县	lù hé xiàn	262
+炉霍县	lú huò xiàn	217
+庐江县	lú jiāng xiàn	1356
+渌口区	lù kǒu qū	0
+陆良县	lù liáng xiàn	386
+卢龙县	lú lóng xiàn	513
+路南区	lù nán qū	205
+路桥区	lù qiáo qū	307
+碌曲县	lù qū xiàn	162
+鹿泉区	lù quán qū	0
+庐山市	lú shān shì	0
+芦山县	lú shān xiàn	983
+鲁山县	lǔ shān xiàn	806
+卢氏县	lú shì xiàn	1335
+泸水市	lú shuǐ shì	0
+芦淞区	lú sōng qū	312
+泸溪县	lú xī xiàn	362
+泸西县	lú xī xiàn	246
+芦溪县	lú xī xiàn	207
+庐阳区	lú yáng qū	2070
+鹿野乡	lù yě xiāng	0
+鹿邑县	lù yì xiàn	573
+鹿寨县	lù zhài xiàn	400
+潞州区	lù zhōu qū	0
+芦洲区	lú zhōu qū	0
+泸州市	lú zhōu shì	2993
+路竹区	lù zhú qū	0
+芦竹区	lú zhú qū	0
+栾城区	luán chéng qū	0
+栾川县	luán chuān xiàn	621
+滦南县	luán nán xiàn	261
+滦平县	luán píng xiàn	799
+滦州市	luán zhōu shì	0
+仑背乡	lún bèi xiāng	0
+轮台县	lún tái xiàn	203
+萝北县	luó běi xiàn	193
+洛川县	luò chuān xiàn	280
+罗甸县	luó diàn xiàn	204
+罗定市	luó dìng shì	462
+罗东镇	luó dōng zhèn	580
+罗湖区	luó hú qū	5206
+洛江区	luò jiāng qū	299
+罗江区	luó jiāng qū	17
+洛龙区	luò lóng qū	341
+洛隆县	luò lóng xiàn	32
+洛南县	luò nán xiàn	459
+洛宁县	luò níng xiàn	534
+罗平县	luó píng xiàn	518
+洛浦县	luò pǔ xiàn	210
+罗山县	luó shān xiàn	544
+罗田县	luó tián xiàn	468
+洛阳市	luò yáng shì	6152
+罗源县	luó yuán xiàn	1119
+洛扎县	luò zhā xiàn	181
+罗庄区	luó zhuāng qū	614
+绿春县	lǜ chūn xiàn	139
+绿岛乡	lǜ dǎo xiāng	0
+吕梁市	lǚ liáng shì	2216
+旅顺口	lǚ shùn kǒu	1859
+绿园区	lǜ yuán qū	693
+略阳县	lüè yáng xiàn	262
+马鞍山	mǎ ān shān	11173
+麻城市	má chéng shì	567
+马村区	mǎ cūn qū	348
+麻豆区	má dòu qū	0
+玛多县	mǎ duō xiàn	220
+马尔康	mǎ ěr kāng	1445
+马公市	mǎ gōng shì	862
+马关县	mǎ guān xiàn	367
+玛家乡	mǎ jiā xiāng	0
+麻江县	má jiāng xiàn	191
+麻栗坡	má lì pō	529
+马龙区	mǎ lóng qū	22
+玛纳斯	mǎ nà sī	1024
+玛沁县	mǎ qìn xiàn	194
+玛曲县	mǎ qū xiàn	119
+麻山区	má shān qū	19
+马山县	mǎ shān xiàn	447
+马尾区	mǎ yǐ qū	704
+麻章区	má zhāng qū	158
+麦盖提	mài gài tí	434
+麦积区	mài jī qū	0
+麦寮乡	mài liáo xiāng	0
+满城区	mǎn chéng qū	0
+满洲里	mǎn zhōu lǐ	3989
+满州乡	mǎn zhōu xiāng	0
+芒康县	máng kāng xiàn	393
+茫崖市	máng yá shì	0
+茅箭区	máo jiàn qū	137
+茂林区	mào lín qū	0
+茂名市	mào míng shì	2417
+茂南区	mào nán qū	322
+美姑县	měi gū xiàn	314
+梅河口	méi hé kǒu	844
+梅江区	méi jiāng qū	262
+美兰区	měi lán qū	1808
+梅里斯	méi lǐ sī	0
+美浓区	měi nóng qū	0
+眉山市	méi shān shì	2946
+梅山乡	méi shān xiāng	0
+湄潭县	méi tán xiàn	361
+梅县区	méi xiàn qū	0
+梅州市	méi zhōu shì	2117
+门头沟	mén tóu gōu	5426
+蒙城县	méng chéng xiàn	784
+勐海县	měng hǎi xiàn	683
+孟津区	mèng jīn qū	0
+勐腊县	měng là xiàn	482
+蒙山县	méng shān xiàn	142
+蒙阴县	méng yīn xiàn	427
+孟州市	mèng zhōu shì	313
+蒙自市	méng zì shì	0
+米东区	mǐ dōng qū	0
+弥渡县	mí dù xiàn	291
+弥勒市	mí lè shì	0
+米林市	mǐ lín shì	0
+汨罗市	mì luó shì	463
+密山市	mì shān shì	205
+弥陀区	mí tuó qū	0
+米易县	mǐ yì xiàn	347
+密云区	mì yún qū	0
+米脂县	mǐ zhī xiàn	403
+渑池县	miǎn chí xiàn	814
+冕宁县	miǎn níng xiàn	347
+绵阳市	mián yáng shì	3001
+绵竹市	mián zhú shì	348
+苗栗市	miáo lì shì	578
+苗栗县	miáo lì xiàn	5742
+民丰县	mín fēng xiàn	139
+闽侯县	mǐn hòu xiàn	1786
+民勤县	mín qín xiàn	256
+闽清县	mǐn qīng xiàn	991
+民权县	mín quán xiàn	438
+闵行区	mǐn xíng qū	4591
+民雄乡	mín xióng xiāng	0
+民乐县	mín yuè xiàn	361
+明光市	míng guāng shì	332
+名间乡	míng jiān xiāng	357
+明山区	míng shān qū	112
+名山区	míng shān qū	0
+明水县	míng shuǐ xiàn	294
+明溪县	míng xī xiàn	237
+漠河市	mò hé shì	102
+墨脱县	mò tuō xiàn	373
+墨玉县	mò yù xiàn	298
+牟定县	móu dìng xiàn	123
+沐川县	mù chuān xiàn	0
+牡丹江	mǔ dān jiāng	5395
+牡丹区	mǔ dān qū	364
+牡丹乡	mǔ dān xiāng	239
+木兰县	mù lán xiàn	214
+穆棱市	mù léng shì	171
+牟平区	mù píng qū	528
+牧野区	mù yě qū	65
+那玛夏	nà mǎ xià	0
+那坡县	nà pō xiàn	179
+那曲市	nà qū shì	0
+纳溪区	nà xī qū	431
+纳雍县	nà yōng xiàn	391
+乃东区	nǎi dōng qū	0
+奈曼旗	nài màn qí	677
+南岸区	nán àn qū	2852
+南安市	nán ān shì	1074
+南澳县	nán ào xiàn	315
+南澳乡	nán ào xiāng	0
+南部县	nán bù xiàn	604
+南岔县	nán chà xiàn	0
+南昌市	nán chāng shì	12715
+南昌县	nán chāng xiàn	2263
+南城县	nán chéng xiàn	381
+南充市	nán chōng shì	2844
+南川区	nán chuān qū	0
+南丹县	nán dān xiàn	257
+南芬区	nán fēn qū	66
+南丰县	nán fēng xiàn	383
+南岗区	nán gǎng qū	2260
+南港区	nán gǎng qū	647
+南宫市	nán gōng shì	163
+南关区	nán guān qū	995
+南海区	nán hǎi qū	2932
+南和区	nán hé qū	0
+南湖区	nán hú qū	0
+南化区	nán huà qū	0
+南华县	nán huá xiàn	227
+南江县	nán jiāng xiàn	1619
+南京市	nán jīng shì	29385
+南靖县	nán jìng xiàn	712
+南开区	nán kāi qū	3036
+南康区	nán kāng qū	0
+南乐县	nán lè xiàn	375
+南陵县	nán líng xiàn	539
+南明区	nán míng qū	1252
+南木林	nán mù lín	172
+南宁市	nán níng shì	14919
+南皮县	nán pí xiàn	231
+南票区	nán piào qū	45
+南平市	nán píng shì	2205
+南谯区	nán qiáo qū	364
+南沙区	nán shā qū	0
+南山区	nán shān qū	7386
+南通市	nán tōng shì	3481
+南投市	nán tóu shì	689
+南投县	nán tóu xiàn	6306
+南屯区	nán tún qū	0
+南溪区	nán xī qū	0
+楠西区	nán xī qū	0
+南雄市	nán xióng shì	612
+南浔区	nán xún qū	378
+南阳市	nán yáng shì	5560
+南岳区	nán yuè qū	238
+南漳县	nán zhāng xiàn	402
+南召县	nán zhào xiàn	642
+南郑区	nán zhèng qū	0
+南州乡	nán zhōu xiāng	0
+南庄乡	nán zhuāng xiāng	0
+楠梓区	nán zǐ qū	0
+囊谦县	náng qiān xiàn	358
+讷河市	nè hé shì	143
+内湖区	nèi hú qū	855
+内黄县	nèi huáng xiàn	555
+内江市	nèi jiāng shì	1500
+内门区	nèi mén qū	0
+内蒙古	nèi méng gǔ	85332
+内埔乡	nèi pǔ xiāng	0
+内丘县	nèi qiū xiàn	348
+内乡县	nèi xiāng xiàn	1098
+嫩江市	nèn jiāng shì	0
+尼勒克	ní lè kè	341
+尼玛县	ní mǎ xiàn	169
+尼木县	ní mù xiàn	358
+碾子山	niǎn zi shān	0
+鸟松区	niǎo sōng qū	0
+聂拉木	niè lā mù	515
+聂荣县	niè róng xiàn	45
+宁安市	níng ān shì	390
+宁波市	níng bō shì	13366
+宁城县	níng chéng xiàn	442
+宁德市	níng dé shì	2422
+宁都县	níng dōu xiàn	566
+宁国市	níng guó shì	493
+宁海县	níng hǎi xiàn	1246
+宁河区	níng hé qū	0
+宁化县	níng huà xiàn	941
+宁江区	níng jiāng qū	138
+宁晋县	níng jìn xiàn	378
+宁津县	níng jīn xiàn	299
+宁陵县	níng líng xiàn	440
+宁明县	níng míng xiàn	262
+宁南县	níng nán xiàn	80
+宁强县	níng qiáng xiàn	698
+宁陕县	níng shǎn xiàn	344
+宁武县	níng wǔ xiàn	338
+宁乡市	níng xiāng shì	0
+宁阳县	níng yáng xiàn	536
+宁远县	níng yuǎn xiàn	437
+农安县	nóng ān xiàn	745
+暖暖区	nuǎn nuǎn qū	0
+瓯海区	ōu hǎi qū	927
+磐安县	pán ān xiàn	432
+潘集区	pān jí qū	151
+盘锦市	pán jǐn shì	1138
+盘龙区	pán lóng qū	2142
+盘山县	pán shān xiàn	261
+磐石市	pán shí shì	209
+番禺区	pān yú qū	3956
+攀枝花	pān zhī huā	6106
+盘州市	pán zhōu shì	0
+蓬安县	péng ān xiàn	322
+澎湖县	pēng hú xiàn	3519
+蓬江区	péng jiāng qū	801
+蓬莱区	péng lái qū	0
+彭山区	péng shān qū	0
+蓬溪县	péng xī xiàn	475
+彭阳县	péng yáng xiàn	273
+彭泽县	péng zé xiàn	502
+彭州市	péng zhōu shì	808
+郫都区	pí dōu qū	0
+皮山县	pí shān xiàn	297
+埤头乡	pí tóu xiāng	0
+邳州市	pī zhōu shì	886
+偏关县	piān guān xiàn	169
+平安区	píng ān qū	0
+平坝区	píng bà qū	0
+平昌县	píng chāng xiàn	1018
+平城区	píng chéng qū	0
+平川区	píng chuān qū	161
+平顶山	píng dǐng shān	6165
+平定县	píng dìng xiàn	417
+屏东市	píng dōng shì	1418
+屏东县	píng dōng xiàn	8021
+平度市	píng dù shì	2076
+平房区	píng fáng qū	1163
+平谷区	píng gǔ qū	1743
+平桂区	píng guì qū	0
+平果市	píng guǒ shì	0
+平和县	píng hé xiàn	666
+平湖市	píng hú shì	432
+平江县	píng jiāng xiàn	899
+平乐县	píng lè xiàn	296
+平利县	píng lì xiàn	559
+平凉市	píng liáng shì	1213
+坪林区	píng lín qū	0
+平鲁区	píng lǔ qū	157
+平陆县	píng lù xiàn	567
+平罗县	píng luó xiàn	529
+屏南县	píng nán xiàn	341
+平南县	píng nán xiàn	291
+平桥区	píng qiáo qū	563
+平泉市	píng quán shì	0
+平山区	píng shān qū	75
+坪山区	píng shān qū	0
+平山县	píng shān xiàn	1358
+屏山县	píng shān xiàn	430
+平顺县	píng shùn xiàn	415
+平潭县	píng tán xiàn	399
+平塘县	píng táng xiàn	376
+平武县	píng wǔ xiàn	331
+平溪区	píng xī qū	0
+萍乡市	píng xiāng shì	1379
+凭祥市	píng xiáng shì	261
+平乡县	píng xiāng xiàn	239
+平阳县	píng yáng xiàn	1706
+平遥县	píng yáo xiàn	708
+平邑县	píng yì xiàn	547
+平阴县	píng yīn xiàn	638
+平舆县	píng yú xiàn	1083
+平原县	píng yuán xiàn	631
+平远县	píng yuǎn xiàn	301
+平镇区	píng zhèn qū	0
+坡头区	pō tóu qū	278
+泊头市	pō tóu shì	201
+鄱阳县	pó yáng xiàn	1030
+普安县	pǔ ān xiàn	509
+浦北县	pǔ běi xiàn	248
+蒲城县	pú chéng xiàn	718
+浦城县	pǔ chéng xiàn	507
+普定县	pǔ dìng xiàn	665
+普洱市	pǔ ěr shì	0
+普格县	pǔ gé xiàn	186
+浦江县	pǔ jiāng xiàn	593
+蒲江县	pú jiāng xiàn	555
+浦口区	pǔ kǒu qū	1505
+普兰店	pǔ lán diàn	1564
+普兰县	pǔ lán xiàn	205
+埔里镇	pǔ lǐ zhèn	675
+普宁市	pǔ níng shì	1010
+莆田市	pú tián shì	2864
+普陀区	pǔ tuó qū	3840
+埔心乡	pǔ xīn xiāng	0
+埔盐乡	pǔ yán xiāng	0
+濮阳市	pú yáng shì	1945
+濮阳县	pú yáng xiàn	1037
+朴子市	pǔ zi shì	0
+淇滨区	qí bīn qū	303
+蕲春县	qí chūn xiàn	536
+启东市	qǐ dōng shì	421
+祁东县	qí dōng xiàn	424
+七堵区	qī dǔ qū	0
+七股区	qī gǔ qū	0
+齐河县	qí hé xiàn	441
+綦江区	qí jiāng qū	0
+旗津区	qí jīn qū	0
+七里河	qī lǐ hé	3004
+祁连县	qí lián xiàn	492
+麒麟区	qí lín qū	285
+七美乡	qī měi xiāng	0
+祁门县	qí mén xiàn	460
+旗山区	qí shān qū	0
+岐山县	qí shān xiàn	347
+七台河	qī tái hé	1068
+奇台县	qí tái xiàn	306
+栖霞区	qī xiá qū	1209
+栖霞市	qī xiá shì	740
+七星关	qī xīng guān	0
+七星区	qī xīng qū	258
+祁阳市	qí yáng shì	0
+迁安市	qiān ān shì	702
+乾安县	qián ān xiàn	0
+黔东南	qián dōng nán	6139
+前锋区	qián fēng qū	0
+黔江区	qián jiāng qū	733
+潜江市	qián jiāng shì	959
+前进区	qián jìn qū	56
+前金区	qián jīn qū	0
+千山区	qiān shān qū	81
+潜山市	qián shān shì	0
+钱塘区	qián táng qū	0
+犍为县	qián wéi xiàn	370
+黔西南	qián xī nán	2865
+黔西市	qián xī shì	0
+迁西县	qiān xī xiàn	243
+千阳县	qiān yáng xiàn	138
+前镇区	qián zhèn qū	0
+谯城区	qiáo chéng qū	502
+桥东区	qiáo dōng qū	694
+巧家县	qiǎo jiā xiàn	381
+硚口区	qiáo kǒu qū	766
+桥头区	qiáo tóu qū	0
+桥西区	qiáo xī qū	1503
+且末县	qiě mò xiàn	209
+茄子河	qié zi hé	0
+秦安县	qín ān xiàn	422
+钦北区	qīn běi qū	156
+秦都区	qín dōu qū	270
+秦淮区	qín huái qū	1839
+秦皇岛	qín huáng dǎo	22360
+钦南区	qīn nán qū	88
+沁水县	qìn shuǐ xiàn	440
+沁阳市	qìn yáng shì	824
+沁源县	qìn yuán xiàn	266
+秦州区	qín zhōu qū	430
+钦州市	qīn zhōu shì	1176
+庆安县	qìng ān xiàn	165
+青白江	qīng bái jiāng	1265
+清城区	qīng chéng qū	485
+庆城县	qìng chéng xiàn	289
+青川县	qīng chuān xiàn	386
+青岛市	qīng dǎo shì	27619
+清丰县	qīng fēng xiàn	580
+青冈县	qīng gāng xiàn	283
+青海省	qīng hǎi shěng	18560
+清河门	qīng hé mén	86
+清河区	qīng hé qū	312
+清河县	qīng hé xiàn	531
+青河县	qīng hé xiàn	202
+清涧县	qīng jiàn xiàn	350
+清江浦	qīng jiāng pǔ	401
+清流县	qīng liú xiàn	313
+晴隆县	qíng lóng xiàn	326
+青浦区	qīng pǔ qū	1710
+青山湖	qīng shān hú	2195
+青山区	qīng shān qū	1777
+青神县	qīng shén xiàn	377
+清水河	qīng shuǐ hé	1869
+清水区	qīng shuǐ qū	0
+清水县	qīng shuǐ xiàn	472
+青田县	qīng tián xiàn	547
+青铜峡	qīng tóng xiá	932
+清新区	qīng xīn qū	0
+青秀区	qīng xiù qū	1202
+清徐县	qīng xú xiàn	474
+青羊区	qīng yáng qū	2260
+庆阳市	qìng yáng shì	1273
+青阳县	qīng yáng xiàn	344
+青原区	qīng yuán qū	215
+清苑区	qīng yuàn qū	0
+清远市	qīng yuǎn shì	2483
+庆元县	qìng yuán xiàn	248
+青云谱	qīng yún pǔ	0
+庆云县	qìng yún xiàn	242
+清镇市	qīng zhèn shì	940
+青州市	qīng zhōu shì	976
+琼海市	qióng hǎi shì	1223
+琼结县	qióng jié xiàn	50
+邛崃市	qióng lái shì	754
+芎林乡	qiōng lín xiāng	0
+琼山区	qióng shān qū	739
+丘北县	qiū běi xiàn	307
+曲阜市	qū fù shì	672
+衢江区	qú jiāng qū	214
+曲江区	qǔ jiāng qū	0
+曲靖市	qū jìng shì	1722
+曲麻莱	qū má lái	258
+曲水县	qǔ shuǐ xiàn	242
+曲松县	qū sōng xiàn	33
+曲沃县	qū wò xiàn	357
+曲阳县	qū yáng xiàn	540
+衢州市	qú zhōu shì	1822
+曲周县	qū zhōu xiàn	285
+泉港区	quán gǎng qū	508
+全椒县	quán jiāo xiàn	489
+全南县	quán nán xiàn	223
+泉山区	quán shān qū	321
+泉州市	quán zhōu shì	6224
+全州县	quán zhōu xiàn	412
+确山县	què shān xiàn	682
+让胡路	ràng hú lù	0
+壤塘县	rǎng táng xiàn	127
+饶河县	ráo hé xiàn	185
+饶平县	ráo píng xiàn	932
+饶阳县	ráo yáng xiàn	203
+仁爱区	rén ài qū	0
+仁爱乡	rén ài xiāng	0
+仁布县	rén bù xiàn	55
+任城区	rèn chéng qū	440
+仁德区	rén dé qū	0
+仁和区	rén hé qū	325
+仁化县	rén huà xiàn	418
+仁怀市	rén huái shì	917
+任丘市	rén qiū shì	290
+仁寿县	rén shòu xiàn	766
+仁武区	rén wǔ qū	0
+任泽区	rèn zé qū	0
+日喀则	rì kā zé	4197
+日土县	rì tǔ xiàn	230
+日照市	rì zhào shì	2315
+融安县	róng ān xiàn	271
+荣昌区	róng chāng qū	0
+榕城区	róng chéng qū	184
+荣成市	róng chéng shì	595
+容城县	róng chéng xiàn	262
+榕江县	róng jiāng xiàn	348
+汝城县	rǔ chéng xiàn	688
+如东县	rú dōng xiàn	530
+如皋市	rú gāo shì	897
+汝南县	rǔ nán xiàn	640
+乳山市	rǔ shān shì	446
+汝阳县	rǔ yáng xiàn	534
+汝州市	rǔ zhōu shì	1240
+瑞安市	ruì ān shì	1265
+瑞昌市	ruì chāng shì	343
+芮城县	ruì chéng xiàn	513
+瑞芳区	ruì fāng qū	0
+瑞金市	ruì jīn shì	514
+瑞丽市	ruì lì shì	1145
+瑞穗乡	ruì suì xiāng	258
+润州区	rùn zhōu qū	228
+若尔盖	ruò ěr gài	1663
+若羌县	ruò qiāng xiàn	493
+萨尔图	sà ěr tú	0
+萨嘎县	sà gā xiàn	67
+萨迦县	sà jiā xiàn	91
+赛罕区	sài hǎn qū	1068
+三重区	sān chóng qū	0
+三地门	sān dì mén	0
+三河市	sān hé shì	790
+三门峡	sān mén xiá	7229
+三门县	sān mén xiàn	345
+三民区	sān mín qū	0
+三明市	sān míng shì	2077
+三沙市	sān shā shì	0
+三水区	sān shuǐ qū	945
+三穗县	sān suì xiàn	178
+三台县	sān tái xiàn	519
+三湾乡	sān wān xiāng	0
+三峡区	sān xiá qū	0
+三星乡	sān xīng xiāng	0
+三亚市	sān yà shì	5327
+三义乡	sān yì xiāng	0
+三元区	sān yuán qū	313
+三原县	sān yuán xiàn	661
+三芝区	sān zhī qū	0
+桑日县	sāng rì xiàn	52
+桑植县	sāng zhí xiàn	761
+桑珠孜	sāng zhū zī	0
+色达县	sè dá xiàn	242
+色尼区	sè ní qū	0
+莎车县	shā chē xiàn	375
+沙河口	shā hé kǒu	2103
+沙河市	shā hé shì	487
+沙鹿区	shā lù qū	0
+沙坪坝	shā píng bà	5273
+沙坡头	shā pō tóu	1017
+沙市区	shā shì qū	441
+沙湾区	shā wān qū	139
+沙湾市	shā wān shì	0
+沙县区	shā xiàn qū	0
+沙雅县	shā yǎ xiàn	134
+沙洋县	shā yáng xiàn	325
+山城区	shān chéng qū	119
+山丹县	shān dān xiàn	230
+山东省	shān dōng shěng	72173
+山海关	shān hǎi guān	6365
+善化区	shàn huà qū	0
+杉林区	shān lín qū	0
+山南市	shān nán shì	0
+鄯善县	shàn shàn xiàn	464
+山上区	shān shàng qū	0
+山亭区	shān tíng qū	267
+汕头市	shàn tóu shì	5541
+汕尾市	shàn wěi shì	1604
+陕西省	shǎn xī shěng	40994
+山西省	shān xī shěng	40236
+山阳区	shān yáng qū	70
+山阳县	shān yáng xiàn	793
+山阴县	shān yīn xiàn	717
+陕州区	shǎn zhōu qū	0
+上蔡县	shàng cài xiàn	554
+上城区	shàng chéng qū	0
+商城县	shāng chéng xiàn	425
+上党区	shàng dǎng qū	0
+商都县	shāng dōu xiàn	173
+上高县	shàng gāo xiàn	222
+上海市	shàng hǎi shì	96819
+上杭县	shàng háng xiàn	899
+商河县	shāng hé xiàn	540
+上街区	shàng jiē qū	451
+上栗县	shàng lì xiàn	289
+上林县	shàng lín xiàn	555
+商洛市	shāng luò shì	1381
+商南县	shāng nán xiàn	864
+商丘市	shāng qiū shì	2335
+上饶市	shàng ráo shì	2695
+商水县	shāng shuǐ xiàn	421
+上思县	shàng sī xiàn	174
+尚义县	shàng yì xiàn	275
+上犹县	shàng yóu xiàn	215
+上虞区	shàng yú qū	0
+尚志市	shàng zhì shì	375
+商州区	shāng zhōu qū	552
+邵东市	shào dōng shì	0
+韶关市	sháo guān shì	2448
+韶山市	sháo shān shì	273
+邵武市	shào wǔ shì	412
+绍兴市	shào xīng shì	4359
+邵阳市	shào yáng shì	1931
+邵阳县	shào yáng xiàn	481
+射洪市	shè hóng shì	0
+社旗县	shè qí xiàn	627
+社头乡	shè tóu xiāng	0
+射阳县	shè yáng xiàn	383
+神池县	shén chí xiàn	243
+什邡市	shén fāng shì	500
+神冈区	shén gāng qū	0
+伸港乡	shēn gǎng xiāng	0
+沈河区	shěn hé qū	3127
+深坑区	shēn kēng qū	0
+神木市	shén mù shì	0
+神农架	shén nóng jià	6483
+沈丘县	shěn qiū xiàn	680
+沈阳市	shěn yáng shì	20016
+深泽县	shēn zé xiàn	214
+申扎县	shēn zhā xiàn	67
+深圳市	shēn zhèn shì	72795
+深州市	shēn zhōu shì	428
+嵊泗县	shèng sì xiàn	306
+嵊州市	shèng zhōu shì	738
+市北区	shì běi qū	4266
+市北屯	shì běi tún	0
+施秉县	shī bǐng xiàn	147
+石城县	shí chéng xiàn	425
+施甸县	shī diān xiàn	250
+石碇区	shí dìng qū	0
+石峰区	shí fēng qū	175
+石冈区	shí gāng qū	0
+石鼓区	shí gǔ qū	194
+石拐区	shí guǎi qū	0
+浉河区	shī hé qū	0
+石河子	shí hé zi	3094
+石河子	shí hé zi	3094
+石家庄	shí jiā zhuāng	65747
+石景山	shí jǐng shān	8289
+士林区	shì lín qū	1219
+石龙区	shí lóng qū	41
+石楼县	shí lóu xiàn	346
+石门区	shí mén qū	0
+石门县	shí mén xiàn	587
+石棉县	shí mián xiàn	276
+市南区	shì nán qū	4053
+石屏县	shí píng xiàn	186
+石阡县	shí qiān xiàn	425
+石渠县	shí qú xiàn	227
+石泉县	shí quán xiàn	530
+石狮市	shí shī shì	975
+石首市	shí shǒu shì	296
+市双河	shì shuāng hé	0
+石台县	shí tái xiàn	484
+狮潭乡	shī tán xiāng	0
+始兴县	shǐ xīng xiàn	495
+十堰市	shí yàn shì	1808
+市中区	shì zhōng qū	3716
+狮子乡	shī zi xiāng	0
+师宗县	shī zōng xiàn	276
+石嘴山	shí zuǐ shān	1662
+寿丰乡	shòu fēng xiāng	0
+寿光市	shòu guāng shì	957
+寿宁县	shòu níng xiàn	429
+寿阳县	shòu yáng xiàn	586
+舒城县	shū chéng xiàn	981
+疏附县	shū fù xiàn	309
+舒兰市	shū lán shì	313
+疏勒县	shū lè xiàn	187
+树林区	shù lín qū	0
+蜀山区	shǔ shān qū	1811
+沭阳县	shù yáng xiàn	1179
+双柏县	shuāng bǎi xiàn	318
+双城区	shuāng chéng qū	0
+双峰县	shuāng fēng xiàn	817
+双河市	shuāng hé shì	100
+双湖县	shuāng hú xiàn	0
+双辽市	shuāng liáo shì	239
+双流区	shuāng liú qū	0
+双滦区	shuāng luán qū	121
+双牌县	shuāng pái xiàn	203
+双桥区	shuāng qiáo qū	274
+双清区	shuāng qīng qū	92
+双塔区	shuāng tǎ qū	117
+双台子	shuāng tái zi	189
+双溪区	shuāng xī qū	0
+双鸭山	shuāng yā shān	1359
+双阳区	shuāng yáng qū	374
+水城区	shuǐ chéng qū	0
+水富市	shuǐ fù shì	0
+水里乡	shuǐ lǐ xiāng	0
+水林乡	shuǐ lín xiāng	0
+水磨沟	shuǐ mó gōu	731
+水上乡	shuǐ shàng xiāng	0
+顺昌县	shùn chāng xiàn	332
+顺城区	shùn chéng qū	139
+顺德区	shùn dé qū	3499
+顺平县	shùn píng xiàn	277
+顺庆区	shùn qìng qū	437
+顺义区	shùn yì qū	3027
+朔城区	shuò chéng qū	400
+朔州市	shuò zhōu shì	1422
+四川省	sì chuān shěng	65291
+四方台	sì fāng tái	158
+泗洪县	sì hóng xiàn	590
+四湖乡	sì hú xiāng	0
+四会市	sì huì shì	555
+思茅区	sī máo qū	0
+思明区	sī míng qū	2971
+思南县	sī nán xiàn	288
+四平市	sì píng shì	1375
+泗水县	sì shuǐ xiàn	361
+泗阳县	sì yáng xiàn	442
+松北区	sōng běi qū	670
+松江区	sōng jiāng qū	2653
+嵩明县	sōng míng xiàn	436
+松潘县	sōng pān xiàn	492
+松山区	sōng shān qū	1367
+松溪县	sōng xī xiàn	316
+松阳县	sōng yáng xiàn	376
+松原市	sōng yuán shì	871
+松滋市	sōng zī shì	281
+苏澳镇	sū ào zhèn	547
+宿城区	sù chéng qū	364
+苏家屯	sū jiā tún	1266
+肃宁县	sù níng xiàn	220
+宿迁市	sù qiān shì	2746
+宿松县	sù sōng xiàn	535
+苏仙区	sū xiān qū	231
+宿豫区	sù yù qū	0
+肃州区	sù zhōu qū	320
+苏州市	sū zhōu shì	13137
+宿州市	sù zhōu shì	2009
+绥滨县	suí bīn xiàn	121
+遂昌县	suì chāng xiàn	485
+遂川县	suì chuān xiàn	406
+绥德县	suí dé xiàn	418
+绥芬河	suí fēn hé	1669
+绥化市	suí huà shì	891
+绥江县	suí jiāng xiàn	76
+绥棱县	suí léng xiàn	94
+遂宁市	suì níng shì	1728
+睢宁县	suī níng xiàn	643
+绥宁县	suí níng xiàn	295
+遂平县	suì píng xiàn	347
+濉溪县	suī xī xiàn	611
+遂溪县	suì xī xiàn	314
+睢阳区	suī yáng qū	465
+绥阳县	suí yáng xiàn	361
+绥中县	suí zhōng xiàn	406
+随州市	suí zhōu shì	1111
+孙吴县	sūn wú xiàn	126
+塔城市	tǎ chéng shì	328
+漯河市	tà hé shì	2188
+塔河县	tǎ hé xiàn	146
+泰安市	tài ān shì	3010
+台安县	tái ān xiàn	191
+泰安乡	tài ān xiāng	0
+太白县	tài bái xiàn	291
+太保市	tài bǎo shì	0
+台北市	tái běi shì	50385
+太仓市	tài cāng shì	897
+台东市	tái dōng shì	863
+台东县	tái dōng xiàn	5303
+台儿庄	tái ér zhuāng	3821
+太谷区	tài gǔ qū	0
+太和区	tài hé qū	87
+太和县	tài hé xiàn	906
+泰和县	tài hé xiàn	676
+太湖县	tài hú xiàn	511
+台江区	tái jiāng qū	1360
+台江县	tái jiāng xiàn	383
+太康县	tài kāng xiàn	567
+泰来县	tài lái xiàn	218
+太麻里	tài má lǐ	0
+台南市	tái nán shì	17853
+泰宁县	tài níng xiàn	360
+太平区	tài píng qū	719
+台前县	tái qián xiàn	275
+泰山区	tài shān qū	717
+台山市	tái shān shì	1074
+泰顺县	tài shùn xiàn	588
+台湾省	tái wān shěng	16318
+泰武乡	tài wǔ xiāng	0
+台西乡	tái xī xiāng	0
+泰兴市	tài xīng shì	634
+太原市	tài yuán shì	14293
+台中市	tái zhōng shì	21181
+台州市	tāi zhōu shì	3505
+泰州市	tài zhōu shì	2624
+太子河	tài zi hé	250
+郯城县	tán chéng xiàn	840
+覃塘区	tán táng qū	94
+潭子区	tán zi qū	0
+唐河县	táng hé xiàn	1063
+唐山市	táng shān shì	6156
+汤旺县	tāng wàng xiàn	0
+汤阴县	tāng yīn xiàn	519
+汤原县	tāng yuán xiàn	241
+洮北区	táo běi qū	126
+桃城区	táo chéng qū	378
+桃江县	táo jiāng xiàn	386
+洮南市	táo nán shì	140
+桃山区	táo shān qū	24
+桃源区	táo yuán qū	0
+桃园区	táo yuán qū	0
+桃园市	táo yuán shì	9687
+桃源县	táo yuán xiàn	571
+特克斯	tè kè sī	1383
+腾冲市	téng chōng shì	0
+滕州市	téng zhōu shì	780
+天长市	tiān cháng shì	638
+天等县	tiān děng xiàn	142
+田东县	tián dōng xiàn	151
+天峨县	tiān é xiàn	113
+天河区	tiān hé qū	6884
+田家庵	tián jiā ān	0
+天津市	tiān jīn shì	39091
+天峻县	tiān jùn xiàn	192
+田寮区	tián liáo qū	0
+田林县	tián lín xiàn	221
+天门市	tiān mén shì	709
+天宁区	tiān níng qū	412
+天桥区	tiān qiáo qū	1040
+天全县	tiān quán xiàn	475
+天山区	tiān shān qū	755
+天水市	tiān shuǐ shì	1779
+天台县	tiān tāi xiàn	666
+田尾乡	tián wěi xiāng	0
+天心区	tiān xīn qū	1777
+天涯区	tiān yá qū	0
+田阳区	tián yáng qū	0
+天元区	tiān yuán qū	312
+天镇县	tiān zhèn xiàn	293
+田中镇	tián zhōng zhèn	0
+天柱县	tiān zhù xiàn	275
+铁东区	tiě dōng qū	284
+铁锋区	tiě fēng qū	106
+铁力市	tiě lì shì	178
+铁岭市	tiě lǐng shì	1099
+铁岭县	tiě lǐng xiàn	277
+铁门关	tiě mén guān	327
+铁山港	tiě shān gǎng	277
+铁山区	tiě shān qū	60
+铁西区	tiě xī qū	2967
+亭湖区	tíng hú qū	171
+同安区	tóng ān qū	1702
+桐柏县	tóng bǎi xiàn	704
+桐城市	tóng chéng shì	589
+通城县	tōng chéng xiàn	268
+通川区	tōng chuān qū	351
+铜川市	tóng chuān shì	1704
+同德县	tóng dé xiàn	177
+铜鼓县	tóng gǔ xiàn	220
+铜官区	tóng guān qū	0
+潼关县	tóng guān xiàn	220
+通海县	tōng hǎi xiàn	284
+通河县	tōng hé xiàn	253
+通化市	tōng huà shì	1518
+通化县	tōng huà xiàn	349
+同江市	tóng jiāng shì	157
+通江县	tōng jiāng xiàn	1156
+铜梁区	tóng liáng qū	0
+通辽市	tōng liáo shì	2480
+铜陵市	tóng líng shì	1684
+桐庐县	tóng lú xiàn	1260
+铜锣乡	tóng luó xiāng	0
+潼南区	tóng nán qū	0
+铜仁市	tóng rén shì	1817
+同仁市	tóng rén shì	0
+铜山区	tóng shān qū	0
+通山县	tōng shān xiàn	466
+通渭县	tōng wèi xiàn	373
+桐乡市	tóng xiāng shì	1070
+通霄镇	tōng xiāo zhèn	0
+同心县	tóng xīn xiàn	425
+通许县	tōng xǔ xiàn	677
+通榆县	tōng yú xiàn	246
+通州区	tōng zhōu qū	5613
+桐梓县	tóng zǐ xiàn	556
+头城镇	tóu chéng zhèn	0
+头份市	tóu fèn shì	0
+头屯河	tóu tún hé	0
+头屋乡	tóu wū xiāng	0
+土城区	tǔ chéng qū	0
+土库镇	tǔ kù zhèn	0
+吐鲁番	tǔ lǔ fān	8243
+图们市	tú men shì	202
+突泉县	tū quán xiàn	241
+团风县	tuán fēng xiàn	314
+屯昌县	tún chāng xiàn	349
+屯留区	tún liú qū	0
+屯溪区	tún xī qū	386
+托克托	tuō kè tuō	643
+托克逊	tuō kè xùn	663
+托里县	tuō lǐ xiàn	134
+瓦房店	wǎ fáng diàn	2154
+外埔区	wài pǔ qū	0
+万安县	wàn ān xiàn	324
+万柏林	wàn bǎi lín	0
+宛城区	wǎn chéng qū	500
+万丹乡	wàn dān xiāng	0
+万华区	wàn huá qū	1008
+万里区	wàn lǐ qū	0
+万峦乡	wàn luán xiāng	0
+万年县	wàn nián xiàn	651
+万宁市	wàn níng shì	1952
+万全区	wàn quán qū	0
+万荣县	wàn róng xiàn	481
+万荣乡	wàn róng xiāng	0
+万山区	wàn shān qū	0
+万秀区	wàn xiù qū	98
+万源市	wàn yuán shì	356
+万载县	wàn zǎi xiàn	797
+湾沚区	wān zhǐ qū	0
+万州区	wàn zhōu qū	2125
+望安乡	wàng ān xiāng	0
+旺苍县	wàng cāng xiàn	461
+望城区	wàng chéng qū	0
+望都县	wàng dōu xiàn	354
+望花区	wàng huā qū	128
+望江县	wàng jiāng xiàn	305
+望奎县	wàng kuí xiàn	535
+望谟县	wàng mó xiàn	273
+汪清县	wāng qīng xiàn	321
+王益区	wáng yì qū	383
+渭滨区	wèi bīn qū	252
+卫滨区	wèi bīn qū	73
+渭城区	wèi chéng qū	336
+潍城区	wéi chéng qū	186
+卫东区	wèi dōng qū	99
+魏都区	wèi dōu qū	240
+潍坊市	wéi fāng shì	3942
+威海市	wēi hǎi shì	2730
+卫辉市	wèi huī shì	616
+渭南市	wèi nán shì	3568
+微山县	wēi shān xiàn	477
+尉氏县	wèi shì xiàn	567
+威信县	wēi xìn xiàn	230
+未央区	wèi yāng qū	1016
+威远县	wēi yuǎn xiàn	513
+渭源县	wèi yuán xiàn	315
+文安县	wén ān xiàn	390
+文昌市	wén chāng shì	988
+文成县	wén chéng xiàn	635
+汶川县	wèn chuān xiàn	742
+文登区	wén dēng qū	0
+文峰区	wén fēng qū	139
+温江区	wēn jiāng qū	944
+温岭市	wēn lǐng shì	928
+温泉县	wēn quán xiàn	382
+文山区	wén shān qū	0
+文山市	wén shān shì	0
+汶上县	wèn shàng xiàn	475
+文圣区	wén shèng qū	28
+文水县	wén shuǐ xiàn	523
+温宿县	wēn sù xiàn	230
+闻喜县	wén xǐ xiàn	742
+温州市	wēn zhōu shì	10400
+瓮安县	wèng ān xiàn	298
+翁源县	wēng yuán xiàn	892
+卧龙区	wò lóng qū	682
+涡阳县	wō yáng xiàn	584
+武安市	wǔ ān shì	772
+吴堡县	wú bǔ xiàn	217
+武昌区	wǔ chāng qū	2376
+五常市	wǔ cháng shì	691
+婺城区	wù chéng qū	656
+武城县	wǔ chéng xiàn	542
+吴川市	wú chuān shì	441
+武川县	wǔ chuān xiàn	356
+乌翠区	wū cuì qū	0
+乌达区	wū dá qū	102
+乌当区	wū dāng qū	752
+无棣县	wú dì xiàn	307
+武定县	wǔ dìng xiàn	261
+武都区	wǔ dōu qū	0
+乌尔禾	wū ěr hé	449
+雾峰区	wù fēng qū	0
+五峰乡	wǔ fēng xiāng	0
+武冈市	wǔ gāng shì	270
+舞钢市	wǔ gāng shì	225
+武功县	wǔ gōng xiàn	0
+五股区	wǔ gǔ qū	0
+乌海市	wū hǎi shì	1152
+武汉市	wǔ hàn shì	28985
+五河县	wǔ hé xiàn	564
+武侯区	wǔ hòu qū	2335
+芜湖市	wú hú shì	3166
+五华区	wǔ huá qū	2210
+五华县	wǔ huá xiàn	659
+无极县	wú jí xiàn	225
+伍家岗	wǔ jiā gǎng	0
+五家渠	wǔ jiā qú	452
+吴江区	wú jiāng qū	1725
+武江区	wǔ jiāng qū	122
+五结乡	wǔ jié xiāng	0
+武进区	wǔ jìn qū	1029
+乌来区	wū lái qū	0
+乌兰县	wū lán xiàn	472
+五莲县	wǔ lián xiàn	429
+武陵区	wǔ líng qū	212
+武陵源	wǔ líng yuán	2422
+武隆区	wǔ lóng qū	0
+武鸣区	wǔ míng qū	0
+武宁县	wǔ níng xiàn	407
+武平县	wǔ píng xiàn	440
+梧栖区	wú qī qū	0
+吴起县	wú qǐ xiàn	783
+乌恰县	wū qià xiàn	261
+武强县	wǔ qiáng xiàn	356
+吴桥县	wú qiáo xiàn	198
+武清区	wǔ qīng qū	1604
+乌日区	wū rì qū	0
+巫山县	wū shān xiàn	1270
+武山县	wǔ shān xiàn	368
+乌审旗	wū shěn qí	428
+乌什县	wū shén xiàn	355
+武胜县	wǔ shèng xiàn	598
+乌苏市	wū sū shì	449
+五台县	wǔ tái xiàn	648
+雾台乡	wù tái xiāng	0
+五通桥	wǔ tōng qiáo	309
+武威市	wǔ wēi shì	2059
+无为市	wú wéi shì	0
+无锡市	wú xī shì	8721
+巫溪县	wū xī xiàn	776
+武乡县	wǔ xiāng xiàn	429
+吴兴区	wú xīng qū	500
+武宣县	wǔ xuān xiàn	237
+武穴市	wǔ xué shì	456
+舞阳县	wǔ yáng xiàn	331
+武夷山	wǔ yí shān	9586
+武义县	wǔ yì xiàn	581
+武邑县	wǔ yì xiàn	197
+婺源县	wù yuán xiàn	1604
+五原县	wǔ yuán xiàn	296
+五寨县	wǔ zhài xiàn	244
+五指山	wǔ zhǐ shān	3781
+武陟县	wǔ zhì xiàn	605
+吴中区	wú zhōng qū	2413
+吴忠市	wú zhōng shì	944
+梧州市	wú zhōu shì	1199
+西安区	xī ān qū	152
+西安市	xī ān shì	21790
+西昌市	xī chāng shì	891
+西城区	xī chéng qū	13366
+西充县	xī chōng xiàn	539
+西畴县	xī chóu xiàn	264
+淅川县	xī chuān xiàn	1339
+喜德县	xǐ dé xiàn	206
+西峰区	xī fēng qū	309
+息烽县	xī fēng xiàn	402
+西丰县	xī fēng xiàn	275
+西岗区	xī gǎng qū	1520
+西港区	xī gǎng qū	0
+西工区	xī gōng qū	287
+西固区	xī gù qū	964
+细河区	xì hé qū	32
+西和县	xī hé xiàn	330
+西湖区	xī hú qū	5388
+溪湖区	xī hú qū	105
+西湖乡	xī hú xiāng	0
+溪湖镇	xī hú zhèn	0
+西华县	xī huá xiàn	626
+西吉县	xī jí xiàn	753
+溪口乡	xī kǒu xiāng	0
+西林县	xī lín xiàn	151
+西陵区	xī líng qū	317
+西螺镇	xī luó zhèn	0
+西宁市	xī níng shì	6389
+西平县	xī píng xiàn	728
+西青区	xī qīng qū	1941
+西塞山	xī sāi shān	390
+西沙区	xī shā qū	0
+西山区	xī shān qū	2025
+锡山区	xī shān qū	549
+西市区	xī shì qū	202
+习水县	xí shuǐ xiàn	416
+浠水县	xī shuǐ xiàn	283
+西屯区	xī tún qū	0
+西夏区	xī xià qū	598
+西峡县	xī xiá xiàn	1030
+西乡塘	xī xiāng táng	0
+西乡县	xī xiāng xiàn	480
+西秀区	xī xiù qū	586
+昔阳县	xī yáng xiàn	560
+西屿乡	xī yǔ xiāng	0
+汐止区	xī zhǐ qū	0
+溪州乡	xī zhōu xiāng	0
+夏河县	xià hé xiàn	366
+下花园	xià huā yuán	351
+峡江县	xiá jiāng xiàn	206
+夏津县	xià jīn xiàn	347
+下陆区	xià lù qū	107
+厦门市	xià mén shì	16212
+霞浦县	xiá pǔ xiàn	1457
+霞山区	xiá shān qū	152
+夏邑县	xià yì xiàn	510
+下营区	xià yíng qū	0
+咸安区	xián ān qū	235
+咸丰县	xián fēng xiàn	245
+仙居县	xiān jū xiàn	910
+咸宁市	xián níng shì	2061
+仙桃市	xiān táo shì	934
+线西乡	xiàn xī xiāng	0
+咸阳市	xián yáng shì	2755
+仙游县	xiān yóu xiàn	1065
+翔安区	xiáng ān qū	909
+相城区	xiāng chéng qū	1323
+芗城区	xiāng chéng qū	649
+襄城区	xiāng chéng qū	224
+项城市	xiàng chéng shì	0
+襄城县	xiāng chéng xiàn	545
+乡城县	xiāng chéng xiàn	203
+湘东区	xiāng dōng qū	165
+襄都区	xiāng dōu qū	0
+香坊区	xiāng fāng qū	1488
+襄汾县	xiāng fén xiàn	575
+祥符区	xiáng fú qū	0
+香河县	xiāng hé xiàn	453
+镶黄旗	xiāng huáng qí	2604
+乡宁县	xiāng níng xiàn	217
+湘桥区	xiāng qiáo qū	248
+相山区	xiāng shān qū	177
+象山区	xiàng shān qū	152
+香山区	xiāng shān qū	0
+象山县	xiàng shān xiàn	1003
+响水县	xiǎng shuǐ xiàn	256
+湘潭市	xiāng tán shì	2323
+湘潭县	xiāng tán xiàn	1199
+湘乡市	xiāng xiāng shì	505
+向阳区	xiàng yáng qū	128
+襄阳市	xiāng yáng shì	0
+湘阴县	xiāng yīn xiàn	511
+襄垣县	xiāng yuán xiàn	381
+祥云县	xiáng yún xiàn	666
+香洲区	xiāng zhōu qū	1987
+襄州区	xiāng zhōu qū	0
+象州县	xiàng zhōu xiàn	319
+孝昌县	xiào chāng xiàn	292
+小店区	xiǎo diàn qū	1268
+孝感市	xiào gǎn shì	1327
+小港区	xiǎo gǎng qū	0
+小金县	xiǎo jīn xiàn	450
+孝南区	xiào nán qū	215
+萧山区	xiāo shān qū	2679
+猇亭区	xiāo tíng qū	0
+孝义市	xiào yì shì	507
+谢家集	xiè jiā jí	0
+谢通门	xiè tōng mén	59
+新安县	xīn ān xiàn	1358
+新北区	xīn běi qū	859
+新北市	xīn běi shì	0
+新蔡县	xīn cài xiàn	310
+新昌县	xīn chāng xiàn	725
+新城区	xīn chéng qū	6520
+忻城县	xīn chéng xiàn	290
+新城乡	xīn chéng xiāng	0
+新店区	xīn diàn qū	0
+新都区	xīn dōu qū	948
+信都区	xìn dōu qū	0
+信丰县	xìn fēng xiàn	374
+新丰县	xīn fēng xiàn	314
+新丰乡	xīn fēng xiāng	0
+忻府区	xīn fǔ qū	315
+新抚区	xīn fǔ qū	97
+新干县	xīn gàn xiàn	254
+新港乡	xīn gǎng xiāng	0
+新河县	xīn hé xiàn	133
+新和县	xīn hé xiàn	108
+新华区	xīn huá qū	881
+新化区	xīn huà qū	0
+新化县	xīn huà xiàn	747
+新会区	xīn huì qū	817
+辛集市	xīn jí shì	565
+新建区	xīn jiàn qū	0
+新绛县	xīn jiàng xiàn	474
+新津区	xīn jīn qū	0
+新乐市	xīn lè shì	254
+新龙县	xīn lóng xiàn	274
+新罗区	xīn luó qū	934
+新密市	xīn mì shì	791
+新民市	xīn mín shì	543
+新宁县	xīn níng xiàn	523
+新埤乡	xīn pí xiāng	0
+新埔镇	xīn pǔ zhèn	0
+新邱区	xīn qiū qū	25
+新荣区	xīn róng qū	137
+新邵县	xīn shào xiàn	396
+新社区	xīn shè qū	0
+新市区	xīn shì qū	1397
+新泰市	xīn tài shì	726
+新田县	xīn tián xiàn	265
+新吴区	xīn wú qū	0
+新屋区	xīn wū qū	0
+新乡市	xīn xiāng shì	2917
+新乡县	xīn xiāng xiàn	308
+新兴区	xīn xīng qū	507
+新星市	xīn xīng shì	0
+新兴县	xīn xīng xiàn	501
+信阳市	xìn yáng shì	3161
+新野县	xīn yě xiàn	721
+信义区	xìn yì qū	0
+新沂市	xīn yí shì	550
+信宜市	xìn yí shì	396
+信义乡	xìn yì xiāng	0
+新营区	xīn yíng qū	0
+新余市	xīn yú shì	1285
+新源县	xīn yuán xiàn	417
+新园乡	xīn yuán xiāng	0
+新郑市	xīn zhèng shì	1084
+新洲区	xīn zhōu qū	1188
+信州区	xìn zhōu qū	312
+忻州市	xīn zhōu shì	2010
+新竹市	xīn zhú shì	5513
+新竹县	xīn zhú xiàn	6666
+新庄区	xīn zhuāng qū	0
+兴安盟	xīng ān méng	1858
+兴安区	xīng ān qū	31
+兴安县	xīng ān xiàn	473
+兴宾区	xīng bīn qū	229
+兴城市	xīng chéng shì	744
+兴国县	xīng guó xiàn	743
+兴海县	xīng hǎi xiàn	183
+兴和县	xīng hé xiàn	186
+杏花岭	xìng huā lǐng	0
+兴化市	xīng huà shì	633
+兴隆台	xīng lóng tái	0
+兴隆县	xīng lóng xiàn	700
+兴宁区	xīng níng qū	644
+兴宁市	xīng níng shì	260
+兴平市	xīng píng shì	264
+兴庆区	xīng qìng qū	876
+兴仁市	xīng rén shì	0
+兴山区	xīng shān qū	20
+兴山县	xīng shān xiàn	337
+邢台市	xíng tái shì	5075
+行唐县	xíng táng xiàn	293
+兴文县	xīng wén xiàn	371
+荥阳市	xíng yáng shì	977
+兴业县	xīng yè xiàn	186
+兴义市	xīng yì shì	951
+秀峰区	xiù fēng qū	132
+秀林乡	xiù lín xiāng	0
+休宁县	xiū níng xiàn	825
+修水县	xiū shuǐ xiàn	579
+秀水乡	xiù shuǐ xiāng	0
+修文县	xiū wén xiàn	898
+修武县	xiū wǔ xiàn	439
+秀英区	xiù yīng qū	1039
+秀屿区	xiù yǔ qū	426
+秀洲区	xiù zhōu qū	544
+许昌市	xǔ chāng shì	2137
+徐汇区	xú huì qū	6497
+溆浦县	xù pǔ xiàn	409
+徐水区	xú shuǐ qū	319
+徐闻县	xú wén xiàn	481
+盱眙县	xū yí xiàn	971
+叙永县	xù yǒng xiàn	708
+叙州区	xù zhōu qū	0
+徐州市	xú zhōu shì	5251
+宣城市	xuān chéng shì	1529
+宣恩县	xuān ēn xiàn	308
+宣汉县	xuān hàn xiàn	649
+宣化区	xuān huà qū	384
+宣威市	xuān wēi shì	519
+玄武区	xuán wǔ qū	1584
+宣州区	xuān zhōu qū	268
+薛城区	xuē chéng qū	245
+学甲区	xué jiǎ qū	0
+逊克县	xùn kè xiàn	149
+寻乌县	xún wū xiàn	317
+浔阳区	xún yáng qū	203
+旬阳市	xún yáng shì	0
+旬邑县	xún yì xiàn	333
+雅安市	yǎ ān shì	2250
+亚东县	yà dōng xiàn	140
+雅江县	yǎ jiāng xiàn	165
+牙克石	yá kè shí	710
+崖州区	yá zhōu qū	0
+延安市	yán ān shì	1938
+盐边县	yán biān xiàn	378
+延长县	yán cháng xiàn	190
+燕巢区	yàn cháo qū	0
+盐埕区	yán chéng qū	413
+郾城区	yǎn chéng qū	0
+盐城市	yán chéng shì	3331
+盐池县	yán chí xiàn	541
+延川县	yán chuān xiàn	459
+盐都区	yán dōu qū	478
+雁峰区	yàn fēng qū	151
+盐湖区	yán hú qū	711
+延吉市	yán jí shì	949
+雁江区	yàn jiāng qū	357
+延津县	yán jīn xiàn	454
+盐津县	yán jīn xiàn	264
+阎良区	yán liáng qū	462
+鄢陵县	yān líng xiàn	436
+炎陵县	yán líng xiàn	358
+延平区	yán píng qū	606
+延平乡	yán píng xiāng	0
+盐埔乡	yán pǔ xiāng	0
+延庆区	yán qìng qū	0
+雁山区	yàn shān qū	91
+铅山县	yán shān xiàn	427
+盐山县	yán shān xiàn	266
+砚山县	yàn shān xiàn	236
+偃师区	yǎn shī qū	0
+延寿县	yán shòu xiàn	231
+盐水区	yán shuǐ qū	0
+雁塔区	yàn tǎ qū	1432
+烟台市	yān tái shì	4574
+沿滩区	yán tān qū	158
+盐田区	yán tián qū	1602
+盐亭县	yán tíng xiàn	339
+盐源县	yán yuán xiàn	430
+兖州区	yǎn zhōu qū	0
+阳城县	yáng chéng xiàn	872
+阳春市	yáng chūn shì	558
+阳东区	yáng dōng qū	0
+阳高县	yáng gāo xiàn	305
+阳谷县	yáng gǔ xiàn	603
+阳江市	yáng jiāng shì	1559
+杨陵区	yáng líng qū	292
+杨梅区	yáng méi qū	0
+阳明区	yáng míng qū	107
+杨浦区	yáng pǔ qū	4356
+阳曲县	yáng qū xiàn	558
+阳泉市	yáng quán shì	1493
+阳山县	yáng shān xiàn	407
+阳朔县	yáng shuò xiàn	482
+阳西县	yáng xī xiàn	251
+阳新县	yáng xīn xiàn	625
+阳信县	yáng xìn xiàn	317
+阳原县	yáng yuán xiàn	251
+扬中市	yáng zhōng shì	194
+扬州市	yáng zhōu shì	4389
+姚安县	yáo ān xiàn	319
+尧都区	yáo dōu qū	472
+瑶海区	yáo hǎi qū	1863
+耀州区	yào zhōu qū	708
+叶城县	yè chéng xiàn	401
+叶集区	yè jí qū	0
+义安区	yì ān qū	0
+依安县	yī ān xiàn	195
+宜宾市	yí bīn shì	2630
+宜昌市	yí chāng shì	4178
+峄城区	yì chéng qū	338
+驿城区	yì chéng qū	324
+宜城市	yí chéng shì	409
+翼城县	yì chéng xiàn	562
+伊川县	yī chuān xiàn	513
+宜川县	yí chuān xiàn	378
+宜春市	yí chūn shì	2135
+伊春市	yī chūn shì	1000
+宜都市	yí dū shì	309
+宜丰县	yí fēng xiàn	339
+宜黄县	yí huáng xiàn	354
+弋江区	yì jiāng qū	0
+宜君县	yí jūn xiàn	263
+宜兰市	yí lán shì	811
+宜兰县	yí lán xiàn	6281
+依兰县	yī lán xiàn	653
+宜良县	yí liáng xiàn	573
+彝良县	yí liáng xiàn	348
+夷陵区	yí líng qū	837
+仪陇县	yí lǒng xiàn	537
+义马市	yì mǎ shì	345
+伊美区	yī měi qū	0
+易门县	yì mén xiàn	264
+沂南县	yí nán xiàn	638
+伊宁市	yī níng shì	1004
+伊宁县	yī níng xiàn	436
+沂水县	yí shuǐ xiàn	847
+义乌市	yì wū shì	2313
+伊吾县	yī wú xiàn	235
+宜兴市	yí xīng shì	1180
+宜秀区	yí xiù qū	0
+益阳市	yì yáng shì	1664
+弋阳县	yì yáng xiàn	445
+宜阳县	yí yáng xiàn	422
+沂源县	yí yuán xiàn	458
+宜章县	yí zhāng xiàn	528
+仪征市	yí zhēng shì	389
+宜州区	yí zhōu qū	0
+伊州区	yī zhōu qū	0
+义竹乡	yì zhú xiāng	0
+银川市	yín chuān shì	4462
+殷都区	yīn dōu qū	85
+银海区	yín hǎi qū	232
+印台区	yìn tái qū	293
+鄞州区	yín zhōu qū	2323
+银州区	yín zhōu qū	113
+应城市	yīng chéng shì	246
+英德市	yīng dé shì	587
+颍东区	yǐng dōng qū	0
+莺歌区	yīng gē qū	0
+英吉沙	yīng jí shā	578
+迎江区	yíng jiāng qū	213
+盈江县	yíng jiāng xiàn	575
+荥经县	yíng jīng xiàn	497
+营口市	yíng kǒu shì	1428
+颍泉区	yǐng quán qū	342
+营山县	yíng shān xiàn	570
+英山县	yīng shān xiàn	421
+颍上县	yǐng shàng xiàn	589
+鹰潭市	yīng tán shì	867
+迎泽区	yíng zé qū	1172
+颍州区	yǐng zhōu qū	0
+永安区	yǒng ān qū	0
+永安市	yǒng ān shì	588
+永昌县	yǒng chāng xiàn	339
+永城市	yǒng chéng shì	593
+永川区	yǒng chuān qū	0
+永春县	yǒng chūn xiàn	583
+永德县	yǒng dé xiàn	130
+永登县	yǒng dēng xiàn	772
+永定区	yǒng dìng qū	1007
+永丰县	yǒng fēng xiàn	443
+永福县	yǒng fú xiàn	305
+永和区	yǒng hé qū	0
+永和县	yǒng hé xiàn	147
+永济市	yǒng jì shì	348
+永吉县	yǒng jí xiàn	344
+永嘉县	yǒng jiā xiàn	1609
+永靖县	yǒng jìng xiàn	269
+永靖乡	yǒng jìng xiāng	0
+永康区	yǒng kāng qū	0
+永康市	yǒng kāng shì	800
+永年区	yǒng nián qū	0
+邕宁区	yōng níng qū	0
+永宁县	yǒng níng xiàn	1119
+永平县	yǒng píng xiàn	254
+埇桥区	yǒng qiáo qū	0
+永清县	yǒng qīng xiàn	274
+永仁县	yǒng rén xiàn	158
+永善县	yǒng shàn xiàn	389
+永胜县	yǒng shèng xiàn	432
+永寿县	yǒng shòu xiàn	196
+永顺县	yǒng shùn xiàn	540
+永泰县	yǒng tài xiàn	1177
+永新县	yǒng xīn xiàn	527
+永兴县	yǒng xīng xiàn	510
+永修县	yǒng xiū xiàn	821
+永州市	yǒng zhōu shì	1587
+友好区	yǒu hǎo qū	57
+右江区	yòu jiāng qū	259
+尤溪县	yóu xī xiàn	407
+游仙区	yóu xiān qū	319
+友谊县	yǒu yì xiàn	88
+右玉县	yòu yù xiàn	350
+裕安区	yù ān qū	764
+渝北区	yú běi qū	3055
+雨城区	yǔ chéng qū	485
+禹城市	yǔ chéng shì	404
+虞城县	yú chéng xiàn	550
+鱼池乡	yú chí xiāng	0
+榆次区	yú cì qū	475
+于都县	yú dōu xiàn	589
+鱼峰区	yú fēng qū	188
+余干县	yú gàn xiàn	699
+余杭区	yú háng qū	2888
+于洪区	yú hóng qū	1306
+雨湖区	yǔ hú qū	314
+雨花区	yǔ huā qū	2196
+裕华区	yù huá qū	739
+雨花台	yǔ huā tái	2835
+玉环市	yù huán shì	0
+禹会区	yǔ huì qū	0
+余江区	yú jiāng qū	0
+玉井区	yù jǐng qū	0
+玉里镇	yù lǐ zhèn	0
+榆林市	yú lín shì	2719
+玉林市	yù lín shì	1663
+玉门市	yù mén shì	322
+裕民县	yù mín xiàn	99
+郁南县	yù nán xiàn	351
+余庆县	yú qìng xiàn	164
+玉泉区	yù quán qū	782
+雨山区	yǔ shān qū	81
+玉山县	yù shān xiàn	496
+榆社县	yú shè xiàn	187
+榆树市	yú shù shì	398
+玉树市	yù shù shì	0
+渝水区	yú shuǐ qū	294
+鱼台县	yú tái xiàn	232
+玉田县	yù tián xiàn	490
+于田县	yú tián xiàn	243
+禹王台	yǔ wáng tái	133
+玉溪市	yù xī shì	1746
+榆阳区	yú yáng qū	1049
+余姚市	yú yáo shì	1529
+渝中区	yú zhōng qū	4591
+榆中县	yú zhōng xiàn	1148
+玉州区	yù zhōu qū	184
+禹州市	yǔ zhōu shì	999
+远安县	yuǎn ān xiàn	237
+元宝区	yuán bǎo qū	60
+元宝山	yuán bǎo shān	592
+元长乡	yuán cháng xiāng	0
+源城区	yuán chéng qū	319
+源汇区	yuán huì qū	167
+沅江市	yuán jiāng shì	307
+苑里镇	yuàn lǐ zhèn	0
+员林市	yuán lín shì	469
+沅陵县	yuán líng xiàn	493
+元谋县	yuán móu xiàn	409
+原平市	yuán píng shì	492
+垣曲县	yuán qū xiàn	449
+员山乡	yuán shān xiāng	0
+元氏县	yuán shì xiàn	370
+元阳县	yuán yáng xiàn	510
+原阳县	yuán yáng xiàn	488
+袁州区	yuán zhōu qū	463
+原州区	yuán zhōu qū	347
+越城区	yuè chéng qū	862
+岳池县	yuè chí xiàn	809
+月湖区	yuè hú qū	95
+岳麓区	yuè lù qū	2085
+岳普湖	yuè pǔ hú	135
+乐清市	yuè qīng shì	1578
+岳塘区	yuè táng qū	285
+岳西县	yuè xī xiàn	707
+越西县	yuè xī xiàn	205
+越秀区	yuè xiù qū	5247
+岳阳楼	yuè yáng lóu	3121
+岳阳市	yuè yáng shì	3061
+岳阳县	yuè yáng xiàn	645
+云安区	yún ān qū	0
+云城区	yún chéng qū	146
+运城市	yùn chéng shì	3060
+郓城县	yùn chéng xiàn	495
+云浮市	yún fú shì	1128
+云冈区	yún gāng qū	0
+运河区	yùn hé qū	334
+云和县	yún hé xiàn	291
+筠连县	yún lián xiàn	398
+云林县	yún lín xiàn	7150
+云龙区	yún lóng qū	275
+云龙县	yún lóng xiàn	320
+云梦县	yún mèng xiàn	194
+云南省	yún nán shěng	44439
+云溪区	yún xī qū	172
+郧西县	yún xī xiàn	292
+云霄县	yún xiāo xiàn	363
+云岩区	yún yán qū	1029
+郧阳区	yún yáng qū	0
+云阳县	yún yáng xiàn	807
+云州区	yún zhōu qū	0
+杂多县	zá duō xiàn	1336
+赞皇县	zàn huáng xiàn	505
+枣强县	zǎo qiáng xiàn	297
+造桥乡	zào qiáo xiāng	0
+枣阳市	zǎo yáng shì	581
+枣庄市	zǎo zhuāng shì	2103
+泽州县	zé zhōu xiàn	694
+增城区	zēng chéng qū	0
+札达县	zhá dá xiàn	142
+扎兰屯	zhā lán tún	836
+扎囊县	zhā náng xiàn	226
+柞水县	zhà shuǐ xiàn	338
+湛河区	zhàn hé qū	114
+沾化区	zhān huà qū	0
+湛江市	zhàn jiāng shì	2760
+站前区	zhàn qián qū	127
+沾益区	zhān yì qū	0
+张北县	zhāng běi xiàn	536
+张店区	zhāng diàn qū	594
+长葛市	zhǎng gé shì	404
+章贡区	zhāng gòng qū	381
+彰化市	zhāng huà shì	1581
+彰化县	zhāng huà xiàn	8597
+张家川	zhāng jiā chuān	500
+张家港	zhāng jiā gǎng	6199
+张家界	zhāng jiā jiè	29845
+张家口	zhāng jiā kǒu	18578
+漳平市	zhāng píng shì	446
+漳浦县	zhāng pǔ xiàn	1269
+章丘区	zhāng qiū qū	0
+樟树市	zhāng shù shì	445
+张湾区	zhāng wān qū	155
+彰武县	zhāng wǔ xiàn	242
+张掖市	zhāng yē shì	1062
+漳州市	zhāng zhōu shì	4847
+长子县	zhǎng zǐ xiàn	283
+诏安县	zhào ān xiàn	704
+肇东市	zhào dōng shì	312
+昭化区	zhāo huà qū	0
+昭觉县	zhāo jué xiàn	326
+召陵区	zhào líng qū	0
+昭平县	zhāo píng xiàn	261
+肇庆市	zhào qìng shì	2400
+昭苏县	zhāo sū xiàn	261
+昭通市	zhāo tōng shì	1842
+昭阳区	zhāo yáng qū	302
+朝阳市	zhāo yáng shì	1244
+朝阳县	zhāo yáng xiàn	393
+招远市	zhāo yuǎn shì	368
+肇源县	zhào yuán xiàn	235
+肇州县	zhào zhōu xiàn	162
+柘城县	zhè chéng xiàn	351
+浙江省	zhè jiāng shěng	67808
+柘荣县	zhè róng xiàn	564
+振安区	zhèn ān qū	64
+镇安县	zhèn ān xiàn	338
+镇巴县	zhèn bā xiàn	205
+贞丰县	zhēn fēng xiàn	269
+镇海区	zhèn hǎi qū	1125
+浈江区	zhēn jiāng qū	215
+镇江市	zhèn jiāng shì	2848
+镇康县	zhèn kāng xiàn	317
+镇赉县	zhèn lài xiàn	253
+镇平县	zhèn píng xiàn	689
+镇坪县	zhèn píng xiàn	341
+振兴区	zhèn xīng qū	116
+镇雄县	zhèn xióng xiàn	457
+镇远县	zhèn yuǎn xiàn	320
+镇原县	zhèn yuán xiàn	252
+正安县	zhèng ān xiàn	235
+正定县	zhèng dìng xiàn	1311
+政和县	zhèng hé xiàn	430
+正蓝旗	zhèng lán qí	2573
+正宁县	zhèng níng xiàn	246
+蒸湘区	zhēng xiāng qū	120
+正阳县	zhèng yáng xiàn	387
+郑州市	zhèng zhōu shì	25666
+志丹县	zhì dān xiàn	346
+治多县	zhì duō xiàn	350
+芝罘区	zhī fú qū	1006
+枝江市	zhī jiāng shì	308
+织金县	zhī jīn xiàn	514
+仲巴县	zhòng bā xiàn	130
+中方县	zhōng fāng xiàn	177
+中和区	zhōng hé qū	0
+中江县	zhōng jiāng xiàn	464
+中坜区	zhōng lì qū	0
+中寮乡	zhōng liáo xiāng	0
+钟楼区	zhōng lóu qū	277
+中牟县	zhōng mù xiàn	921
+中宁县	zhōng níng xiàn	461
+中埔乡	zhōng pǔ xiāng	0
+钟山区	zhōng shān qū	340
+中山区	zhōng shān qū	0
+中山市	zhōng shān shì	7664
+钟山县	zhōng shān xiàn	277
+中卫市	zhōng wèi shì	788
+中西区	zhōng xī qū	2496
+钟祥市	zhōng xiáng shì	536
+中阳县	zhōng yáng xiàn	230
+中原区	zhōng yuán qū	1380
+中站区	zhōng zhàn qū	74
+中正区	zhōng zhèng qū	0
+周村区	zhōu cūn qū	365
+周口市	zhōu kǒu shì	2261
+周宁县	zhōu níng xiàn	539
+舟曲县	zhōu qū xiàn	185
+舟山市	zhōu shān shì	1670
+周至县	zhōu zhì xiàn	807
+竹北市	zhú běi shì	0
+诸城市	zhū chéng shì	607
+竹东镇	zhú dōng zhèn	528
+珠海市	zhū hǎi shì	9516
+珠晖区	zhū huī qū	181
+诸暨市	zhū jì shì	1275
+驻马店	zhù mǎ diàn	8320
+竹南镇	zhú nán zhèn	0
+竹崎乡	zhú qí xiāng	0
+珠山区	zhū shān qū	105
+竹山县	zhú shān xiàn	504
+竹山镇	zhú shān zhèn	0
+竹塘乡	zhú táng xiāng	0
+竹田乡	zhú tián xiāng	0
+竹溪县	zhú xī xiàn	263
+株洲市	zhū zhōu shì	2768
+庄河市	zhuāng hé shì	938
+庄浪县	zhuāng làng xiàn	249
+壮围乡	zhuàng wéi xiāng	0
+卓兰镇	zhuó lán zhèn	0
+涿鹿县	zhuō lù xiàn	574
+卓尼县	zhuó ní xiàn	128
+卓溪乡	zhuó xī xiāng	0
+涿州市	zhuō zhōu shì	651
+卓资县	zhuó zī xiàn	169
+淄博市	zī bó shì	3963
+子长市	zi cháng shì	0
+淄川区	zī chuān qū	692
+自贡市	zì gòng shì	2039
+梓官区	zǐ guān qū	0
+秭归县	zǐ guī xiàn	600
+紫金县	zǐ jīn xiàn	298
+自流井	zì liú jǐng	565
+梓潼县	zǐ tóng xiàn	323
+资溪县	zī xī xiàn	170
+资兴市	zī xīng shì	346
+资阳区	zī yáng qū	119
+资阳市	zī yáng shì	1503
+紫阳县	zǐ yáng xiàn	298
+资源县	zī yuán xiàn	0
+资中县	zī zhōng xiàn	449
+子洲县	zi zhōu xiàn	254
+枞阳县	zōng yáng xiàn	512
+邹城市	zōu chéng shì	676
+邹平市	zōu píng shì	0
+遵化市	zūn huà shì	411
+遵义市	zūn yì shì	3958
+左贡县	zuǒ gòng xiàn	120
+左权县	zuǒ quán xiàn	434
+左营区	zuǒ yíng qū	726
+左云县	zuǒ yún xiàn	242
+左镇区	zuǒ zhèn qū	0
+阿巴嘎旗	ā bā gā qí	251
+阿尔山市	ā ěr shān shì	367
+阿合奇县	ā hé qí xiàn	98
+阿克苏市	ā kè sū shì	408
+阿克陶县	ā kè táo xiàn	257
+阿拉尔市	ā lā ěr shì	373
+阿拉山口	ā lā shān kǒu	614
+阿拉善盟	ā lā shàn méng	1420
+阿勒泰市	ā lè tài shì	488
+阿里地区	ā lǐ dì qū	1005
+阿里山乡	ā lǐ shān xiāng	0
+阿图什市	ā tú shén shì	229
+阿瓦提县	ā wǎ tí xiàn	238
+昂昂溪区	áng áng xī qū	65
+八公山区	bā gōng shān qū	43
+巴林右旗	bā lín yòu qí	341
+巴林左旗	bā lín zuǒ qí	390
+巴彦淖尔	bā yàn nào ěr	2200
+巴音郭楞	bā yīn guō léng	252
+鲅鱼圈区	bà yú quān qū	178
+白碱滩区	bái jiǎn tān qū	36
+北戴河区	běi dài hé qū	475
+滨海新区	bīn hǎi xīn qū	7713
+博尔塔拉	bó ěr tǎ lā	250
+布尔津县	bù ěr jīn xiàn	448
+曹妃甸区	cáo fēi diān qū	251
+察布查尔	chá bù chá ěr	263
+城子河区	chéng zi hé qū	18
+重庆城区	chóng qìng chéng qū	0
+重庆郊县	chóng qìng jiāo xiàn	3
+达坂城区	dá bǎn chéng qū	217
+大渡口区	dà dù kǒu qū	813
+达拉特旗	dá lā tè qí	536
+大箐山县	dà qìng shān xiàn	18
+大石桥市	dà shí qiáo shì	176
+大武口区	dà wǔ kǒu qū	200
+大兴安岭	dà xīng ān lǐng	3867
+丹江口市	dān jiāng kǒu shì	541
+德令哈市	dé lìng hā shì	510
+调兵山市	diào bīng shān shì	93
+东昌府区	dōng chāng fǔ qū	387
+东西湖区	dōng xi hú qū	1069
+杜尔伯特	dù ěr bó tè	623
+都江堰市	dū jiāng yàn shì	1423
+独山子区	dú shān zi qū	109
+鄂尔多斯	è ěr duō sī	7341
+额尔古纳	é ěr gǔ nà	944
+额济纳旗	é jì nà qí	1461
+峨眉山市	é méi shān shì	923
+鄂托克旗	è tuō kè qí	354
+二道江区	èr dào jiāng qū	65
+二连浩特	èr lián hào tè	727
+防城港市	fáng chéng gǎng shì	1442
+峰峰矿区	fēng fēng kuàng qū	362
+甘井子区	gān jǐng zi qū	2187
+高碑店市	gāo bēi diàn shì	459
+格尔木市	gé ěr mù shì	982
+工布江达	gōng bù jiāng dá	206
+弓长岭区	gōng cháng lǐng qū	205
+共青城市	gòng qīng chéng shì	221
+公主岭市	gōng zhǔ lǐng shì	693
+观山湖区	guān shān hú qū	1245
+哈巴河县	hǎ bā hé xiàn	296
+哈尔滨市	hā ěr bīn shì	12069
+海勃湾区	hǎi bó wān qū	192
+海拉尔区	hǎi lā ěr qū	260
+杭锦后旗	háng jǐn hòu qí	411
+和林格尔	hé lín gé ěr	261
+和田地区	hé tián dì qū	1063
+黑龙江省	hēi lóng jiāng shěng	23697
+红谷滩区	hóng gǔ tān qū	123
+红花岗区	hóng huā gǎng qū	464
+红寺堡区	hóng sì bǎo qū	141
+呼和浩特	hū hé hào tè	14741
+葫芦岛市	hú lú dǎo shì	1057
+呼伦贝尔	hū lún bèi ěr	6012
+呼图壁县	hū tú bì xiàn	308
+胡杨河市	hú yáng hé shì	0
+胡杨河市	hú yáng hé shì	0
+黄石港区	huáng shí gǎng qū	119
+霍尔果斯	huò ěr guǒ sī	1376
+霍林郭勒	huò lín guō lè	263
+吉木乃县	jí mù nǎi xiàn	219
+吉木萨尔	jí mù sà ěr	197
+佳木斯市	jiā mù sī shì	1239
+嘉峪关市	jiā yù guān shì	672
+尖草坪区	jiān cǎo píng qū	744
+金城江区	jīn chéng jiāng qū	122
+金口河区	jīn kǒu hé qū	97
+景德镇市	jǐng dé zhèn shì	1095
+井冈山市	jǐng gāng shān shì	303
+井陉矿区	jǐng xíng kuàng qū	145
+九龙坡区	jiǔ lóng pō qū	2183
+九寨沟县	jiǔ zhài gōu xiàn	1296
+喀喇沁旗	kā lǎ qìn qí	318
+喀什地区	kā shí dì qū	1370
+康巴什区	kāng bā shén qū	41
+科尔沁区	kē ěr qìn qū	316
+可克达拉	kě kè dá lā	386
+可克达拉	kě kè dá lā	386
+克拉玛依	kè lā mǎ yī	3027
+克孜勒苏	kè zī lè sū	134
+库尔勒市	kù ěr lè shì	779
+昆都仑区	kūn dōu lún qū	264
+浪卡子县	làng qiǎ zi xiàn	143
+老河口市	lǎo hé kǒu shì	388
+类乌齐县	lèi wū qí xiàn	59
+冷水江市	lěng shuǐ jiāng shì	366
+冷水滩区	lěng shuǐ tān qū	204
+连云港市	lián yún gǎng shì	2262
+梁子湖区	liáng zi hú qū	87
+六盘水市	liù pán shuǐ shì	1531
+六枝特区	liù zhī tè qū	540
+龙马潭区	lóng mǎ tán qū	416
+龙泉驿区	lóng quán yì qū	1038
+龙子湖区	lóng zi hú qū	176
+旅顺口区	lǚ shùn kǒu qū	985
+马鞍山市	mǎ ān shān shì	2005
+马尔康市	mǎ ěr kāng shì	88
+麻栗坡县	má lì pō xiàn	253
+玛纳斯县	mǎ nà sī xiàn	220
+麦盖提县	mài gài tí xiàn	291
+满洲里市	mǎn zhōu lǐ shì	869
+梅河口市	méi hé kǒu shì	423
+门头沟区	mén tóu gōu qū	1879
+莫力达瓦	mò lì dá wǎ	121
+墨竹工卡	mò zhú gōng kǎ	498
+牡丹江市	mǔ dān jiāng shì	1388
+那玛夏区	nà mǎ xià qū	223
+南木林县	nán mù lín xiàn	111
+尼勒克县	ní lè kè xiàn	212
+碾子山区	niǎn zi shān qū	67
+聂拉木县	niè lā mù xiàn	264
+攀枝花市	pān zhī huā shì	1915
+平顶山市	píng dǐng shān shì	1567
+浦东新区	pǔ dōng xīn qū	6004
+普兰店区	pǔ lán diàn qū	317
+七里河区	qī lǐ hé qū	1289
+齐齐哈尔	qí qí hā ěr	5326
+七台河市	qī tái hé shì	410
+七星关区	qī xīng guān qū	373
+茄子河区	qié zi hé qū	16
+秦皇岛市	qín huáng dǎo shì	4588
+青白江区	qīng bái jiāng qū	490
+清河门区	qīng hé mén qū	51
+清江浦区	qīng jiāng pǔ qū	76
+青山湖区	qīng shān hú qū	1029
+清水河县	qīng shuǐ hé xiàn	205
+青铜峡市	qīng tóng xiá shì	389
+青云谱区	qīng yún pǔ qū	990
+曲麻莱县	qū má lái xiàn	156
+让胡路区	ràng hú lù qū	114
+日喀则市	rì kā zé shì	861
+若尔盖县	ruò ěr gài xiàn	355
+萨尔图区	sà ěr tú qū	230
+三地门乡	sān dì mén xiāng	249
+三门峡市	sān mén xiá shì	2136
+桑珠孜区	sāng zhū zī qū	46
+沙河口区	shā hé kǒu qū	1700
+沙坪坝区	shā píng bà qū	2414
+沙坡头区	shā pō tóu qū	191
+山海关区	shān hǎi guān qū	448
+沈北新区	shěn běi xīn qū	969
+石河子市	shí hé zǐ shì	696
+石河子市	shí hé zǐ shì	696
+石家庄市	shí jiā zhuāng shì	11411
+石景山区	shí jǐng shān qū	3082
+石嘴山市	shí zuǐ shān shì	823
+双台子区	shuāng tái zi qū	90
+双鸭山市	shuāng yā shān shì	500
+水磨沟区	shuǐ mó gōu qū	491
+四方台区	sì fāng tái qū	9
+四子王旗	sì zi wáng qí	634
+苏家屯区	sū jiā tún qū	596
+绥芬河市	suí fēn hé shì	292
+塔城地区	tǎ chéng dì qū	828
+台儿庄区	tái ér zhuāng qū	218
+太麻里乡	tài má lǐ xiāng	256
+太仆寺旗	tài pú sì qí	276
+太子河区	tài zi hé qū	43
+特克斯县	tè kè sī xiàn	171
+田家庵区	tián jiā ān qū	209
+铁门关市	tiě mén guān shì	109
+铁山港区	tiě shān gǎng qū	204
+头屯河区	tóu tún hé qū	352
+吐鲁番市	tǔ lǔ fān shì	905
+托克托县	tuō kè tuō xiàn	267
+托克逊县	tuō kè xùn xiàn	281
+瓦房店市	wǎ fáng diàn shì	1272
+万柏林区	wàn bǎi lín qū	906
+翁牛特旗	wēng niú tè qí	434
+五大连池	wǔ dà lián chí	847
+乌尔禾区	wū ěr hé qū	54
+伍家岗区	wǔ jiā gǎng qū	135
+五家渠市	wǔ jiā qú shì	195
+乌兰察布	wū lán chá bù	3369
+乌兰浩特	wū lán hào tè	459
+武陵源区	wǔ líng yuán qū	488
+乌鲁木齐	wū lǔ mù qí	29791
+五通桥区	wǔ tōng qiáo qū	137
+武夷山市	wǔ yí shān shì	884
+五指山市	wǔ zhǐ shān shì	541
+锡林郭勒	xī lín guō lè	1167
+锡林浩特	xī lín hào tè	683
+西塞山区	xī sāi shān qū	74
+西双版纳	xī shuāng bǎn nà	9146
+西乡塘区	xī xiāng táng qū	768
+下花园区	xià huā yuán qū	144
+香格里拉	xiāng gé lǐ lā	24649
+谢家集区	xiè jiā jí qū	103
+谢通门县	xiè tōng mén xiàn	49
+杏花岭区	xìng huā lǐng qū	770
+兴隆台区	xīng lóng tái qū	125
+牙克石市	yá kè shí shì	323
+英吉沙县	yīng jí shā xiàn	232
+雨花台区	yǔ huā tái qū	877
+禹王台区	yǔ wáng tái qū	47
+元宝山区	yuán bǎo shān qū	225
+岳普湖县	yuè pǔ hú xiàn	87
+岳阳楼区	yuè yáng lóu qū	254
+扎赉特旗	zhā lài tè qí	348
+扎兰屯市	zhā lán tún shì	395
+扎鲁特旗	zhā lǔ tè qí	366
+张家港市	zhāng jiā gǎng shì	1542
+张家界市	zhāng jiā jiè shì	2662
+张家口市	zhāng jiā kǒu shì	3513
+正镶白旗	zhèng xiāng bái qí	311
+驻马店市	zhù mǎ diàn shì	2896
+准格尔旗	zhǔn gé ěr qí	452
+自流井区	zì liú jǐng qū	174
+阿克苏地区	ā kè sū dì qū	841
+阿拉山口市	ā lā shān kǒu shì	0
+阿拉善右旗	ā lā shàn yòu qí	224
+阿拉善左旗	ā lā shàn zuǒ qí	540
+阿勒泰地区	ā lè tài dì qū	1143
+巴彦淖尔市	bā yàn nào ěr shì	0
+陈巴尔虎旗	chén bā ěr hǔ qí	197
+鄂尔多斯市	è ěr duō sī shì	2344
+额尔古纳市	é ěr gǔ nà shì	391
+鄂托克前旗	è tuō kè qián qí	363
+二连浩特市	èr lián hào tè shì	320
+富拉尔基区	fù lā ěr jī qū	96
+工布江达县	gōng bù jiāng dá xiàn	215
+管城回族区	guǎn chéng huí zú qū	0
+和布克赛尔	hé bù kè sài ěr	0
+和林格尔县	hé lín gé ěr xiàn	187
+合浦合浦县	hé pǔ hé pǔ xiàn	0
+呼和浩特市	hū hé hào tè shì	8939
+呼伦贝尔市	hū lún bèi ěr shì	2221
+呼玛呼玛县	hū mǎ hū mǎ xiàn	0
+霍尔果斯市	huò ěr guǒ sī shì	0
+霍林郭勒市	huò lín guō lè shì	0
+吉木萨尔县	jí mù sà ěr xiàn	395
+加格达奇区	jiā gé dá qí qū	0
+喀喇沁左翼	kā lǎ qìn zuǒ yì	49
+可克达拉市	kě kè dá lā shì	0
+克拉玛依区	kè lā mǎ yī qū	0
+克拉玛依市	kè lā mǎ yī shì	897
+克什克腾旗	kè shí kè téng qí	716
+墨竹工卡县	mò zhú gōng kǎ xiàn	0
+齐齐哈尔市	qí qí hā ěr shì	1730
+前郭尔罗斯	qián guō ěr luó sī	0
+沙依巴克区	shā yī bā kè qū	0
+神农架林区	shén nóng jià lín qū	717
+顺河回族区	shùn hé huí zú qū	0
+苏尼特右旗	sū ní tè yòu qí	484
+苏尼特左旗	sū ní tè zuǒ qí	206
+塔什库尔干	tǎ shén kù ěr gàn	683
+土默特右旗	tǔ mò tè yòu qí	226
+土默特左旗	tǔ mò tè zuǒ qí	242
+五大连池市	wǔ dà lián chí shì	197
+乌拉特后旗	wù la tè hòu qí	206
+乌拉特前旗	wù la tè qián qí	289
+乌拉特中旗	wù la tè zhōng qí	261
+乌兰察布市	wū lán chá bù shì	0
+乌兰浩特市	wū lán hào tè shì	413
+乌鲁木齐市	wū lǔ mù qí shì	7404
+乌鲁木齐县	wū lǔ mù qí xiàn	502
+锡林郭勒盟	xī lín guō lè méng	2382
+锡林浩特市	xī lín hào tè shì	534
+西藏自治区	xī zàng zì zhì qū	9036
+香格里拉市	xiāng gé lǐ lā shì	0
+新星市新星	xīn xīng shì xīn xīng	0
+伊金霍洛旗	yī jīn huò luò qí	552
+尉犁尉犁县	yù lí yù lí xiàn	0
+泽库泽库县	zé kù zé kù xiàn	0
+泽普泽普县	zé pǔ zé pǔ xiàn	0
+扎赉诺尔区	zhā lài nuò ěr qū	0
+阿鲁科尔沁旗	ā lǔ kē ěr qìn qí	295
+白云鄂博矿区	bái yún è bó kuàng qū	0
+北屯市铁门关	běi tún shì tiě mén guān	0
+大兴安岭地区	dà xīng ān lǐng dì qū	728
+东乌珠穆沁旗	dōng wū zhū mù qìn qí	168
+东乡族自治县	dōng xiāng zú zì zhì xiàn	112
+鄂伦春自治旗	è lún chūn zì zhì qí	225
+内蒙古自治区	nèi méng gǔ zì zhì qū	16270
+铁门关市双河	tiě mén guān shì shuāng hé	0
+五家渠市北屯	wǔ jiā qú shì běi tún	0
+西乌珠穆沁旗	xī wū zhū mù qìn qí	227
+新巴尔虎右旗	xīn bā ěr hǔ yòu qí	173
+新巴尔虎左旗	xīn bā ěr hǔ zuǒ qí	192
+鹰手营子矿区	yīng shǒu yíng zi kuàng qū	0
+澳门特别行政区	ào mén tè bié xíng zhèng qū	4476
+巴马瑶族自治县	bā mǎ yáo zú zì zhì xiàn	0
+白沙黎族自治县	bái shā lí zú zì zhì xiàn	111
+北川羌族自治县	běi chuān qiāng zú zì zhì xiàn	0
+本溪满族自治县	běn xī mǎn zú zì zhì xiàn	196
+沧源佤族自治县	cāng yuán wǎ zú zì zhì xiàn	153
+察哈尔右翼后旗	chá hā ěr yòu yì hòu qí	0
+察哈尔右翼前旗	chá hā ěr yòu yì qián qí	0
+察哈尔右翼中旗	chá hā ěr yòu yì zhōng qí	0
+昌吉回族自治州	chāng jí huí zú zì zhì zhōu	387
+昌江黎族自治县	chāng jiāng lí zú zì zhì xiàn	123
+城步苗族自治县	chéng bù miáo zú zì zhì xiàn	234
+楚雄彝族自治州	chǔ xióng yí zú zì zhì zhōu	229
+大厂回族自治县	dà chǎng huí zú zì zhì xiàn	163
+大化瑶族自治县	dà huà yáo zú zì zhì xiàn	0
+大理白族自治州	dà lǐ bái zú zì zhì zhōu	853
+迪庆藏族自治州	dí qìng zàng zú zì zhì zhōu	315
+都安瑶族自治县	dōu ān yáo zú zì zhì xiàn	189
+峨边彝族自治县	é biān yí zú zì zhì xiàn	0
+峨山彝族自治县	é shān yí zú zì zhì xiàn	0
+鄂温克族自治旗	è wēn kè zú zì zhì qí	144
+丰宁满族自治县	fēng níng mǎn zú zì zhì xiàn	164
+富川瑶族自治县	fù chuān yáo zú zì zhì xiàn	0
+甘南藏族自治州	gān nán zàng zú zì zhì zhōu	246
+甘孜藏族自治州	gān zī zàng zú zì zhì zhōu	1392
+恭城瑶族自治县	gōng chéng yáo zú zì zhì xiàn	233
+广西壮族自治区	guǎng xī zhuàng zú zì zhì qū	12611
+果洛藏族自治州	guǒ luò zàng zú zì zhì zhōu	394
+海北藏族自治州	hǎi běi zàng zú zì zhì zhōu	400
+海南藏族自治州	hǎi nán zàng zú zì zhì zhōu	450
+河口瑶族自治县	hé kǒu yáo zú zì zhì xiàn	80
+互助土族自治县	hù zhù tǔ zú zì zhì xiàn	295
+化隆回族自治县	huà lóng huí zú zì zhì xiàn	300
+桓仁满族自治县	huán rén mǎn zú zì zhì xiàn	154
+黄南藏族自治州	huáng nán zàng zú zì zhì zhōu	298
+江华瑶族自治县	jiāng huá yáo zú zì zhì xiàn	240
+金秀瑶族自治县	jīn xiù yáo zú zì zhì xiàn	178
+景东彝族自治县	jǐng dōng yí zú zì zhì xiàn	113
+景宁畲族自治县	jǐng níng shē zú zì zhì xiàn	186
+科尔沁右翼前旗	kē ěr qìn yòu yì qián qí	170
+科尔沁右翼中旗	kē ěr qìn yòu yì zhōng qí	185
+科尔沁左翼后旗	kē ěr qìn zuǒ yì hòu qí	183
+科尔沁左翼中旗	kē ěr qìn zuǒ yì zhōng qí	336
+可克达拉市昆玉	kě kè dá lā shì kūn yù	0
+宽城满族自治县	kuān chéng mǎn zú zì zhì xiàn	0
+宽甸满族自治县	kuān diān mǎn zú zì zhì xiàn	171
+乐东黎族自治县	lè dōng lí zú zì zhì xiàn	107
+连南瑶族自治县	lián nán yáo zú zì zhì xiàn	90
+凉山彝族自治州	liáng shān yí zú zì zhì zhōu	846
+临夏回族自治州	lín xià huí zú zì zhì zhōu	362
+陵水黎族自治县	líng shuǐ lí zú zì zhì xiàn	285
+隆林各族自治县	lóng lín gè zú zì zhì xiàn	151
+龙胜各族自治县	lóng shèng gè zú zì zhì xiàn	326
+马边彝族自治县	mǎ biān yí zú zì zhì xiàn	0
+麻阳苗族自治县	má yáng miáo zú zì zhì xiàn	0
+门源回族自治县	mén yuán huí zú zì zhì xiàn	161
+孟村回族自治县	mèng cūn huí zú zì zhì xiàn	0
+木里藏族自治县	mù lǐ zàng zú zì zhì xiàn	72
+南涧彝族自治县	nán jiàn yí zú zì zhì xiàn	62
+宁蒗彝族自治县	níng làng yí zú zì zhì xiàn	128
+宁夏回族自治区	níng xià huí zú zì zhì qū	5574
+屏边苗族自治县	píng biān miáo zú zì zhì xiàn	65
+青龙满族自治县	qīng lóng mǎn zú zì zhì xiàn	201
+清原满族自治县	qīng yuán mǎn zú zì zhì xiàn	76
+融水苗族自治县	róng shuǐ miáo zú zì zhì xiàn	216
+乳源瑶族自治县	rǔ yuán yáo zú zì zhì xiàn	194
+三都水族自治县	sān dōu shuǐ zú zì zhì xiàn	209
+三江侗族自治县	sān jiāng dòng zú zì zhì xiàn	273
+石林彝族自治县	shí lín yí zú zì zhì xiàn	0
+松桃苗族自治县	sōng táo miáo zú zì zhì xiàn	128
+天祝藏族自治县	tiān zhù zàng zú zì zhì xiàn	175
+通道侗族自治县	tōng dào dòng zú zì zhì xiàn	0
+西盟佤族自治县	xī méng wǎ zú zì zhì xiàn	50
+香港特别行政区	xiāng gǎng tè bié xíng zhèng qū	7488
+新宾满族自治县	xīn bīn mǎn zú zì zhì xiàn	129
+新晃侗族自治县	xīn huǎng dòng zú zì zhì xiàn	0
+岫岩满族自治县	xiù yán mǎn zú zì zhì xiàn	79
+焉耆回族自治县	yān qí huí zú zì zhì xiàn	47
+漾濞彝族自治县	yàng bì yí zú zì zhì xiàn	0
+伊通满族自治县	yī tōng mǎn zú zì zhì xiàn	125
+玉屏侗族自治县	yù píng dòng zú zì zhì xiàn	63
+玉树藏族自治州	yù shù zàng zú zì zhì zhōu	782
+芷江侗族自治县	zhǐ jiāng dòng zú zì zhì xiàn	159
+阿拉尔市图木舒克	ā lā ěr shì tú mù shū kè	0
+长白朝鲜族自治县	cháng bái cháo xiǎn zú zì zhì xiàn	117
+长阳土家族自治县	cháng yáng tǔ jiā zú zì zhì xiàn	202
+大柴旦行政委员会	dà chái dàn xíng zhèng wěi yuán huì	0
+阜新蒙古族自治县	fù xīn měng gǔ zú zì zhì xiàn	158
+河南蒙古族自治县	hé nán měng gǔ zú zì zhì xiàn	100
+环江毛南族自治县	huán jiāng máo nán zú zì zhì xiàn	140
+澜沧拉祜族自治县	lán cāng lā hù zú zì zhì xiàn	108
+罗城仫佬族自治县	luó chéng mù lǎo zú zì zhì xiàn	111
+梅里斯达斡尔族区	méi lǐ sī dá wò ěr zú qū	0
+墨江哈尼族自治县	mò jiāng hā ní zú zì zhì xiàn	72
+木垒哈萨克自治县	mù lěi hā sà kè zì zhì xiàn	50
+怒江傈僳族自治州	nù jiāng lì sù zú zì zhì zhōu	254
+石柱土家族自治县	shí zhù tǔ jiā zú zì zhì xiàn	141
+肃北蒙古族自治县	sù běi měng gǔ zú zì zhì xiàn	53
+肃南裕固族自治县	sù nán yù gù zú zì zhì xiàn	149
+图木舒克市五家渠	tú mù shū kè shì wǔ jiā qú	0
+维西傈僳族自治县	wéi xī lì sù zú zì zhì xiàn	67
+五峰土家族自治县	wǔ fēng tǔ jiā zú zì zhì xiàn	162
+新疆维吾尔自治区	xīn jiāng wéi wú ěr zì zhì qū	10497
+循化撒拉族自治县	xún huà sā lā zú zì zhì xiàn	126
+延边朝鲜族自治州	yán biān cháo xiǎn zú zì zhì zhōu	502
+沿河土家族自治县	yán hé tǔ jiā zú zì zhì xiàn	0
+玉龙纳西族自治县	yù lóng nà xī zú zì zhì xiàn	0
+张家川回族自治县	zhāng jiā chuān huí zú zì zhì xiàn	149
+阿坝藏族羌族自治州	ā bà zàng zú qiāng zú zì zhì zhōu	751
+巴里坤哈萨克自治县	bā lǐ kūn hā sà kè zì zhì xiàn	103
+巴音郭楞蒙古自治州	bā yīn guō léng méng gǔ zì zhì zhōu	379
+保亭黎族苗族自治县	bǎo tíng lí zú miáo zú zì zhì xiàn	187
+博尔塔拉蒙古自治州	bó ěr tǎ lā méng gǔ zì zhì zhōu	262
+察布查尔锡伯自治县	chá bù chá ěr xī bó zì zhì xiàn	121
+达尔罕茂明安联合旗	dá ěr hǎn mào míng ān lián hé qí	114
+大通回族土族自治县	dà tōng huí zú tǔ zú zì zhì xiàn	214
+耿马傣族佤族自治县	gěng mǎ dǎi zú wǎ zú zì zhì xiàn	82
+景谷傣族彝族自治县	jǐng gǔ dǎi zú yí zú zì zhì xiàn	63
+靖州苗族侗族自治县	jìng zhōu miáo zú dòng zú zì zhì xiàn	0
+连山壮族瑶族自治县	lián shān zhuàng zú yáo zú zì zhì xiàn	99
+禄劝彝族苗族自治县	lù quàn yí zú miáo zú zì zhì xiàn	117
+民和回族土族自治县	mín hé huí zú tǔ zú zì zhì xiàn	0
+琼中黎族苗族自治县	qióng zhōng lí zú miáo zú zì zhì xiàn	130
+图木舒克市图木舒克	tú mù shū kè shì tú mù shū kè	0
+巍山彝族回族自治县	wēi shān yí zú huí zú zì zhì xiàn	111
+文山壮族苗族自治州	wén shān zhuàng zú miáo zú zì zhì zhōu	337
+西双版纳傣族自治州	xī shuāng bǎn nà dǎi zú zì zhì zhōu	274
+新平彝族傣族自治县	xīn píng yí zú dǎi zú zì zhì xiàn	161
+寻甸回族彝族自治县	xún diān huí zú yí zú zì zhì xiàn	91
+阿克塞哈萨克族自治县	ā kè sāi hā sà kè zú zì zhì xiàn	52
+道真仡佬族苗族自治县	dào zhēn gē lǎo zú miáo zú zì zhì xiàn	0
+德宏傣族景颇族自治州	dé hóng dǎi zú jǐng pō zú zì zhì zhōu	273
+杜尔伯特蒙古族自治县	dù ěr bó tè měng gǔ zú zì zhì xiàn	115
+恩施土家族苗族自治州	ēn shī tǔ jiā zú miáo zú zì zhì zhōu	372
+贡山独龙族怒族自治县	gòng shān dú lóng zú nù zú zì zhì xiàn	104
+关岭布依族苗族自治县	guān lǐng bù yī zú miáo zú zì zhì xiàn	91
+海西蒙古族藏族自治州	hǎi xī měng gǔ zú zàng zú zì zhì zhōu	796
+和布克赛尔蒙古自治县	hé bù kè sài ěr méng gǔ zì zhì xiàn	84
+红河哈尼族彝族自治州	hóng hé hā ní zú yí zú zì zhì zhōu	551
+江城哈尼族彝族自治县	jiāng chéng hā ní zú yí zú zì zhì xiàn	45
+兰坪白族普米族自治县	lán píng bái zú pǔ mǐ zú zì zhì xiàn	59
+宁洱哈尼族彝族自治县	níng ěr hā ní zú yí zú zì zhì xiàn	0
+彭水苗族土家族自治县	péng shuǐ miáo zú tǔ jiā zú zì zhì xiàn	122
+黔东南苗族侗族自治州	qián dōng nán miáo zú dòng zú zì zhì zhōu	1284
+黔南布依族苗族自治州	qián nán bù yī zú miáo zú zì zhì zhōu	360
+围场满族蒙古族自治县	wéi chǎng mǎn zú měng gǔ zú zì zhì xiàn	188
+务川仡佬族苗族自治县	wù chuān gē lǎo zú miáo zú zì zhì xiàn	0
+湘西土家族苗族自治州	xiāng xī tǔ jiā zú miáo zú zì zhì zhōu	671
+秀山土家族苗族自治县	xiù shān tǔ jiā zú miáo zú zì zhì xiàn	111
+伊犁伊犁哈萨克自治州	yī lí yī lí hā sà kè zì zhì zhōu	0
+印江土家族苗族自治县	yìn jiāng tǔ jiā zú miáo zú zì zhì xiàn	80
+酉阳土家族苗族自治县	yǒu yáng tǔ jiā zú miáo zú zì zhì xiàn	166
+镇宁布依族苗族自治县	zhèn níng bù yī zú miáo zú zì zhì xiàn	93
+紫云苗族布依族自治县	zǐ yún miáo zú bù yī zú zì zhì xiàn	73
+金平苗族瑶族傣族自治县	jīn píng miáo zú yáo zú dǎi zú zì zhì xiàn	76
+喀喇沁左翼蒙古族自治县	kā lǎ qìn zuǒ yì měng gǔ zú zì zhì xiàn	74
+克孜勒苏柯尔克孜自治州	kè zī lè sū kē ěr kè zī zì zhì zhōu	313
+莫力达瓦达斡尔族自治旗	mò lì dá wǎ dá wò ěr zú zì zhì qí	112
+前郭尔罗斯蒙古族自治县	qián guō ěr luó sī měng gǔ zú zì zhì xiàn	165
+黔西南布依族苗族自治州	qián xī nán bù yī zú miáo zú zì zhì zhōu	320
+塔什库尔干塔吉克自治县	tǎ shén kù ěr gàn tǎ jí kè zì zhì xiàn	314
+威宁彝族回族苗族自治县	wēi níng yí zú huí zú miáo zú zì zhì xiàn	135
+孟连傣族拉祜族佤族自治县	mèng lián dǎi zú lā hù zú wǎ zú zì zhì xiàn	50
+元江哈尼族彝族傣族自治县	yuán jiāng hā ní zú yí zú dǎi zú zì zhì xiàn	89
+镇沅彝族哈尼族拉祜族自治县	zhèn yuán yí zú hā ní zú lā hù zú zì zhì xiàn	0
+积石山保安族东乡族撒拉族自治县	jī shí shān bǎo ān zú dōng xiāng zú sā lā zú zì zhì xiàn	55
+双江拉祜族佤族布朗族傣族自治县	shuāng jiāng lā hù zú wǎ zú bù lǎng zú dǎi zú zì zhì xiàn	0

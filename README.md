@@ -19,16 +19,22 @@
 - 词库文件对应说明：
 
  示例项目：
- 
+
   [万象拼音增强版-多维直接辅助码与任意拼音方案的组合](https://github.com/amzxyz/rime_wanxiang_pro)  |  [万象拼音基础版-全拼双拼间接辅助码版本](https://github.com/amzxyz/rime_wanxiang)   
 
 | 词库类型 | 文件名称     | 描述                   |
 |----------|--------------|------------------------|
-| 大字表  | `large.dict`  | 包含CJK字库基础区所有具有读音的字，不计多音43324字|
-| 基础词库   | `base.dict`  | 包含2-3字词组|
-| 扩展词库 | `ext.dict` | 包含常用的词组    |
+| 字表  | `chars.dict`  | 包含CJK字库基础区所有具有读音的字，不计多音43324字|
+| 基础词库   | `base.dict`  | 包含2-3字词组|也是构成输入的基本单位
+| 关联词库 | `correlation.dict` | 包含4字词组    |不含由基础词库中同音最高频组合成的词汇
+| 联想词库 | `associational.dict` | 包含5字以上词组    |当输入四个字之后形成联想候选
+| 联想词库 | `compatible.dict` | 包含多音字词组    |用于兼容词组的多种读音场景
+| 联想词库 | `corrections.dict` | 错音错字词组    |用于兼容经常使用但是实际上在字、音是错的场景
 | 全字表 | `full.dict` | 包含CJK所有有字，汉字大全|
 
+
+使用方法：
+当使用白霜、雾凇之类项目，可以使用公共版本，名称形如：amz-v2n3m1-zh-hans 的版本
 只需要将这一段内容放在方案文件，下载模型到rime的用户目录，language: amz-v2n3m1-zh-hans  改成你下载的文件名（不包含后缀）,重新部署即可使用！
 
 ```
@@ -44,3 +50,23 @@ octagram:
     translator/max_homophones: 7
     translator/max_homographs: 7
 ```
+
+当使用万象词库，配合模型使用，配置如下：
+```
+__include: octagram   #启用语言模型
+#语言模型
+octagram:
+  __patch:
+    grammar:
+      language: wanxiang-lts-zh-hans
+      collocation_max_length: 8         #命中的最长词组
+      collocation_min_length: 2         #命中的最短词组，搭配词频健全的词库时候应当最小值设为3避开2字高频词
+      collocation_penalty: -10          #默认-12 对常见搭配词组施加的惩罚值。较高的负值会降低这些搭配被选中的概率，防止过于频繁地出现某些固定搭配。
+      non_collocation_penalty: -12      #默认-12 对非搭配词组施加的惩罚值。较高的负值会降低非搭配词组被选中的概率，避免不合逻辑或不常见的词组组合。
+      weak_collocation_penalty: -24     #默认-24 对弱搭配词组施加的惩罚值。保持默认值通常是为了有效过滤掉不太常见但仍然合理的词组组合。
+      rear_penalty: -30                 #默认-18 对词组中后续词语的位置施加的惩罚值。较高的负值会降低某些词语在句子后部出现的概率，防止句子结构不自然。
+    translator/contextual_suggestions: true
+    translator/max_homophones: 5
+    translator/max_homographs: 5
+```
+万象词库的四个字词组中不包含，我们常常看到且非常熟悉的高频组合，这些词汇将由2+2的基础词库来组合起来，如：人工智能 工作模式 等等，万象模型中也不包含两个字的词组，模型只负责3+的组织，因此基础的高频词汇将会由词库自己来组织，以此来达到强强联合、词库减重，因为模型已经容纳了1000万行
