@@ -495,7 +495,7 @@ sort: by_weight
 𪃨	āo	1
 𪓴	áo	1
 𪓾	áo	1
-吧	ba	790
+吧	bā	999
 把	bǎ	780
 巴	bā	757
 八	bā	732
@@ -503,7 +503,6 @@ sort: by_weight
 拔	bá	664
 霸	bà	654
 罢	bà	619
-吧	bā	599
 坝	bà	580
 扒	bā	580
 芭	bā	567
@@ -1877,8 +1876,8 @@ sort: by_weight
 𪱠	biǎn	1
 𫚣	biān	1
 𫟪	biān	1
-𰻞	biáng	1
-𰻝	biáng	1
+𰻞	biáng	100
+𰻝	biáng	100
 表	biǎo	819
 标	biāo	796
 飙	biāo	565
@@ -25514,11 +25513,11 @@ sort: by_weight
 𫠏	mù	1
 𬭁	mǔ	1
 𬰃	mù	1
+嗯	ǹ	898
 嗯	ń	13
 嗯	ň	1
 㕶	ň	1
 𧗈	n	1
-嗯	ǹ	898
 𠮾	ǹ	1
 那	nà	834
 哪	nǎ	781
@@ -29987,8 +29986,8 @@ sort: by_weight
 𪒯	qín	1
 𪙟	qǐn	1
 𪧭	qīn	1
-情	qíng	791
 请	qǐng	864
+情	qíng	791
 清	qīng	790
 轻	qīng	752
 青	qīng	749
@@ -36534,10 +36533,9 @@ sort: by_weight
 𪀭	tóng	1
 𪌢	tǒng	1
 𪟍	tǒng	1
+头	tóu	999
 投	tóu	799
-头	tóu	791
 透	tòu	710
-头	tou	686
 偷	tōu	678
 頭	tóu	480
 骰	tóu	456
@@ -42028,11 +42026,11 @@ sort: by_weight
 𪪹	xūn	1
 𪰅	xūn	1
 𫞅	xún	1
+呀	yā	988
 亚	yà	773
 压	yā	749
 牙	yá	711
 雅	yǎ	699
-呀	ya	676
 鸭	yā	666
 涯	yá	629
 押	yā	622
@@ -42043,7 +42041,6 @@ sort: by_weight
 鸦	yā	565
 讶	yà	558
 娅	yà	546
-呀	yā	544
 吖	yā	493
 琊	yá	484
 衙	yá	484
@@ -46677,8 +46674,8 @@ sort: by_weight
 𪏔	yǔn	1
 𪏚	yǔn	1
 𪘩	yǔn	1
-杂	zá	632
 咋	zǎ	719
+杂	zá	632
 砸	zá	603
 匝	zā	482
 扎	zā	474
