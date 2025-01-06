@@ -7,93 +7,78 @@ name: compatible
 version: "2024-11-11"
 sort: by_weight
 ...
-血晕	xiě yùn	222
-血晕	xuè yùn	68
-炸鱼	zhà yú	28
-炸鱼	zhá yú	544
-命中	mìng zhōng	708
-命中	mìng zhòng	661	
-干不干	gàn bú gàn	380
-干不干	gān bù gān	80
-美的	měi dì	467
-随行	suí háng	552
-随行	suí xíng	781
-相称	xiāng chèn	404
-相称	xiāng chēng	504
-重活	zhòng huó	391
-重活	chóng huó	120
 罢了	bà le	888
 罢了	bà liǎo	647
-累累	lěi lěi	511
-累累	léi léi	577
-调配	diào pèi	688
-调配	tiáo pèi	622
-数次	shù cì	768
-数次	shuò cì	523
-我为	wǒ wéi	467
-我为	wǒ wèi	663
-更为	gèng wéi	915
-更为	gèng wèi	965
+白庙	bái miào	1
+便宜	biàn yí	201
+不长	bǔ cháng	570
+不为	bú wèi	609
+不为	bù wéi	600
+不长	bù zhǎng	329
 长的	cháng de	802
-长的	zhǎng de	919
-落下	là xià	764
-落下	luò xià	818
+长牙	cháng yá	84
+重活	chóng huó	120
+重天	chóng tiān	497
 穿着	chuān zhe	1000
 穿着	chuān zhuó	644
-一通	yí tòng	710
-一通	yì tōng	608
-总长	zǒng cháng	705
-总长	zǒng zhǎng	436
-不长	bǔ cháng	570
-不长	bù zhǎng	329
+调配	diào pèi	688
+更为	gèng wèi	965
+更为	gèng wéi	915
+行长	háng zhǎng	466
+见长	jiàn cháng	472
+见长	jiàn zhǎng	621
+落下	là xià	764
+累累	léi léi	577
+累累	lěi lěi	511
+落下	luò xià	818
+略长	lüè cháng	447
 掠夺	lüè duó	686
 掠夺	lüě duó	300
 略长	lüè zhǎng	184
-略长	lüè cháng	447
-略长一些	lüè cháng yì xiē	42
-略长几岁	lüè zhǎng jǐ suì	1
-见长	jiàn zhǎng	621
-见长	jiàn cháng	472
-所长	suǒ cháng	611
-所长	suǒ zhǎng	786
-便宜	biàn yí	201
-便宜	pián yi	560
-便不便宜	biàn bú biàn yí	376
-便宜行事	biàn yí xíng shì	281
-便宜之内	biàn yí zhī nèi	110
-越长	yuè cháng	271
-越长	yuè zhǎng	347
-越长大	yuè zhǎng dà	321
-越长越快	yuè zhǎng yuè kuài	204
-越长越好	yuè cháng yuè hǎo	230
-越长越	yuè cháng yuè	315
-越长越	yuè zhǎng yuè	265
-行长	háng zhǎng	466
-年长	nián zhǎng	246
-年长	nián cháng	207
-长牙	zhǎng yá	283
-长牙	cháng yá	84
-长相	zhǎng xiàng	429
-白庙	bái miào	1
-不为	bú wèi	609
-不为	bù wéi	600
+美的	měi dì	467
+命中	mìng zhōng	708
+命中	mìng zhòng	661
 年长	nián cháng	447
 年长	nián zhǎng	522
+便宜	pián yi	560
 十四	shí sì	1
+数次	shù cì	768
+数次	shuò cì	523
 四十	sì shí	1
+随行	suí háng	552
+随行	suí xíng	781
+所长	suǒ cháng	611
+所长	suǒ zhǎng	786
+调配	tiáo pèi	622
+我为	wǒ wèi	663
+我为	wǒ wéi	467
 五行	wǔ háng	558
 五行	wǔ xíng	607
+相称	xiāng chèn	404
+相称	xiāng chēng	504
+血晕	xiě yùn	222
+血晕	xuè yùn	68
 一行	yì háng	620
+一通	yí tòng	710
+一通	yì tōng	608
 一行	yì xíng	530
-重天	chóng tiān	497
-为一名	wéi yì míng	684
-为一名	wèi yì míng	584
+越长	yuè cháng	271
+越长	yuè zhǎng	347
+炸鱼	zhá yú	544
+炸鱼	zhà yú	28
+长的	zhǎng de	919
+长相	zhǎng xiàng	429
+长牙	zhǎng yá	283
+重活	zhòng huó	391
 捉兔	zhuō tù	1
+总长	zǒng cháng	705
+总长	zǒng zhǎng	436
 白石塔	bái shí tǎ	1
 板凳宽	bǎn dèng kuān	1
 扁担长	biǎn dàn cháng	1
 剥桔子	bō jú zi	1
 常练习	cháng liàn xí	1
+盛鱼翅	chéng yú chì	1
 醋湿布	cù shī bù	1
 打罢秋	dǎ bà qiū	1
 打翻醋	dǎ fān cù	1
@@ -104,6 +89,8 @@ sort: by_weight
 放下布	fàng xià bù	1
 飞了鹰	fēi le yīng	1
 粉凤凰	fěn fèng huáng	1
+干不干	gàn bú gàn	380
+干不干	gān bù gān	80
 哥哥说	gē ge shuō	1
 搁下醋	gē xià cù	1
 红凤凰	hóng fèng huáng	1
@@ -418,7 +405,6 @@ sort: by_weight
 三个隹	sān gè zhuī	1
 三个子	sān gè zi	1
 三个足	sān gè zú	1
-盛鱼翅	chéng yú chì	1
 十和四	shí hé sì	1
 十是十	shí shì shí	1
 史肖石	shǐ xiào shí	1
@@ -473,16 +459,24 @@ sort: by_weight
 提锡壶	tí xī hú	1
 听物理	tīng wù lǐ	1
 腿说嘴	tuǐ shuō zuǐ	1
+为一名	wéi yì míng	684
+为一名	wèi yì míng	584
 星映灯	xīng yìng dēng	1
 杨家羊	yáng jiā yáng	1
 硬石头	yìng shí tou	1
 游西湖	yóu xī hú	1
+越长越	yuè cháng yuè	315
+越长大	yuè zhǎng dà	321
+越长越	yuè zhǎng yuè	265
 这是蚕	zhè shì cán	1
 紫瓷盘	zǐ cí pán	1
 紫葡萄	zǐ pú táo	1
 嘴不黑	zuǐ bù hēi	1
 嘴说腿	zuǐ shuō tuǐ	1
 白白的鹅	bái bái de é	1
+便不便宜	biàn bú biàn yí	376
+便宜行事	biàn yí xíng shì	281
+便宜之内	biàn yí zhī nèi	110
 不剥桔子	bù bō jú zi	1
 不吃桔子	bù chī jú zi	1
 不是字纸	bú shì zì zhǐ	1
@@ -493,12 +487,16 @@ sort: by_weight
 红粉凤凰	hóng fěn fèng huáng	1
 蒋家的墙	jiǎng jiā de qiáng	1
 宽宽的河	kuān kuān de hé	1
+略长一些	lüè cháng yì xiē	42
+略长几岁	lüè zhǎng jǐ suì	1
 啪啪砰砰	pā pā pēng pēng	1
 砰砰啪啪	pēng pēng pā pā	1
 同种冬瓜	tóng zhǒng dōng guā	1
 勿理物理	wù lǐ wù lǐ	1
 惜乎锡壶	xī hū xī hú	1
 小直摇头	xiǎo zhí yáo tóu	1
+越长越好	yuè cháng yuè hǎo	230
+越长越快	yuè zhǎng yuè kuài	204
 安心唱爱歌	ān xīn chàng ài gē	1
 昂首吸飞蛾	áng shǒu xī fēi é	1
 遨游真快活	áo yóu zhēn kuài huó	1
@@ -529,6 +527,7 @@ sort: by_weight
 地下有石头	dì xià yǒu shí tou	1
 弟子三十三	dì zǐ sān shí sān	1
 雕吓走了猫	diāo xià zǒu le māo	1
+都说要小个	dōu shuō yào xiǎo gè	1
 多多让哥哥	duō duō ràng gē ge	1
 哥哥让多多	gē ge ràng duō duō	1
 鼓上画老虎	gǔ shàng huà lǎo hǔ	1
@@ -576,7 +575,6 @@ sort: by_weight
 石头砸猪头	shí tou zá zhū tóu	1
 树上七只莺	shù shàng qī zhǐ yīng	1
 树下蹲条狗	shù xià dūn tiáo gǒu	1
-都说要小个	dōu shuō yào xiǎo gè	1
 四十和十四	sì shí hé shí sì	1
 四十是四十	sì shí shì sì shí	1
 台上七盏灯	tái shàng qī zhǎn dēng	1
@@ -591,13 +589,13 @@ sort: by_weight
 小鸟唱枝头	xiǎo niǎo chàng zhī tóu	1
 小猪扭头瞅	xiǎo zhū niǔ tóu chǒu	1
 小猪怨锄头	xiǎo zhū yuàn chú tou	1
-只需洗掉泥	zhǐ xū xǐ diào ní	1
 一盘生鱼翅	yì pán shēng yú chì	1
 一盘熟鱼翅	yì pán shú yú chì	1
 一天天下雨	yì tiān tiān xià yǔ	1
 有吃又有喝	yǒu chī yòu yǒu hē	1
 沾了一身泥	zhān le yì shēn ní	1
 只得去过河	zhǐ de qù guò hé	1
+只需洗掉泥	zhǐ xū xǐ diào ní	1
 嘴里有舌头	zuǐ lǐ yǒu shé tou	1
 坐下分果果	zuò xià fēn guǒ guǒ	1
 绊倒了秃丫头	bàn dǎo le tū yā tou	1
@@ -831,9 +829,9 @@ sort: by_weight
 羊蒋家砌了一垛墙	yáng jiǎng jiā qì le yī duǒ qiáng	1
 捉壁虎李虎捉壁虎	zhuō bì hǔ lǐ hǔ zhuō bì hǔ	1
 白家门前一棵白果树	bái jiā mén qián yì kē bái guǒ shù	1
-剥了秕谷壳儿补鼻子	bō le bǐ gǔ ké er bǔ bí zi	1
 扁担绑在那个板凳上	biǎn dàn bǎng zài nà gè bǎn dèng shàng	1
 别喇叭的哑巴吹喇叭	bié lǎ bā de yǎ bā chuī lǎ bā	1
+剥了秕谷壳儿补鼻子	bō le bǐ gǔ ké er bǔ bí zi	1
 不剥秕谷壳儿补鼻子	bù bō bǐ gǔ ké er bǔ bí zi	1
 不吃葡萄倒吐葡萄皮	bù chī pú táo dào tǔ pú táo pí	1
 不管是天上的热日头	bù guǎn shì tiān shàng de rè rì tou	1
