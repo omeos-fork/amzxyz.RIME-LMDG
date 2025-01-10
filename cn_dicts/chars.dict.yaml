@@ -6304,6 +6304,7 @@ sort: by_weight
 啿	dàn	97
 鴠	dàn	92
 癉	dān	92
+丼	dǎn	90
 聸	dān	87
 腅	dàn	82
 匰	dān	82
@@ -7561,6 +7562,7 @@ sort: by_weight
 動	dòng	496
 侗	dòng	468
 鸫	dōng	394
+丼	dòng	390
 氡	dōng	388
 峒	dòng	371
 苳	dōng	369
@@ -17243,7 +17245,6 @@ sort: by_weight
 靜	jìng	402
 腈	jīng	398
 淨	jìng	390
-丼	jǐng	390
 驚	jīng	387
 迳	jìng	383
 儆	jǐng	383
@@ -17278,6 +17279,7 @@ sort: by_weight
 脛	jìng	156
 涇	jīng	156
 麖	jīng	153
+丼	jǐng	152
 弪	jìng	151
 妌	jìng	150
 鶄	jīng	144
@@ -21606,10 +21608,10 @@ sort: by_weight
 𩞯	liáng	1
 𪳄	liàng	1
 𫞿	liāng	1
-料	liào	782
+聊	liáo	896
 了	liǎo	775
 疗	liáo	753
-聊	liáo	696
+料	liào	682
 辽	liáo	627
 廖	liào	558
 撩	liāo	553
@@ -45411,8 +45413,8 @@ sort: by_weight
 𫚸	yǒu	1
 𫝁	yǒu	1
 𫠘	yòu	1
-于	yú	867
-与	yǔ	828
+与	yǔ	868
+于	yú	827
 语	yǔ	808
 预	yù	778
 育	yù	774
