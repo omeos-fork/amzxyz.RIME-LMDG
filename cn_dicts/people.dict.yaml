@@ -757,7 +757,6 @@ sort: by_weight
 李稷	lǐ jì	272
 李鉴	lǐ jiàn	312
 李绛	lǐ jiàng	356
-李峤	lǐ jiào	344
 李诫	lǐ jiè	323
 李节	lǐ jié	273
 李婕	lǐ jié	268
@@ -813,6 +812,7 @@ sort: by_weight
 李谦	lǐ qiān	385
 李前	lǐ qián	353
 李樯	lǐ qiáng	333
+李峤	lǐ qiáo	344
 李晴	lǐ qíng	280
 李球	lǐ qiú	251
 李然	lǐ rán	388
@@ -2403,7 +2403,6 @@ sort: by_weight
 张淳	zhāng chún	311
 张聪	zhāng cōng	388
 张璁	zhāng cōng	385
-张焘	zhāng dào	284
 张登	zhāng dēng	396
 张帝	zhāng dì	313
 张殿	zhāng diàn	360
@@ -2542,6 +2541,7 @@ sort: by_weight
 张唐	zhāng táng	369
 张堂	zhāng táng	255
 张韬	zhāng tāo	359
+张焘	zhāng tāo	284
 张特	zhāng tè	308
 张悌	zhāng tì	324
 张添	zhāng tiān	370
@@ -12057,6 +12057,7 @@ sort: by_weight
 李绮虹	lǐ qǐ hóng	257
 李绮华	lǐ qǐ huá	231
 李启杰	lǐ qǐ jié	181
+李栖筠	lǐ qī jūn	191
 李奇霖	lǐ qí lín	326
 李麒麟	lǐ qí lín	277
 李奇茂	lǐ qí mào	291
@@ -12066,7 +12067,6 @@ sort: by_weight
 李启玮	lǐ qǐ wěi	308
 李七喜	lǐ qī xǐ	271
 李启源	lǐ qǐ yuán	163
-李栖筠	lǐ qī yún	191
 李栖云	lǐ qī yún	1
 李乾德	lǐ qián dé	336
 李前光	lǐ qián guāng	208
@@ -12877,6 +12877,7 @@ sort: by_weight
 李伟伟	lǐ wěi wěi	188
 李娓娓	lǐ wěi wěi	150
 李伟文	lǐ wěi wén	289
+李沇熹	lǐ wěi xī	330
 李维新	lǐ wéi xīn	276
 李伟信	lǐ wěi xìn	229
 李伟新	lǐ wěi xīn	213
@@ -13559,7 +13560,6 @@ sort: by_weight
 李嫣然	lǐ yān rán	268
 李晏榕	lǐ yàn róng	234
 李言荣	lǐ yán róng	188
-李沇熹	lǐ yǎn xī	330
 李延禧	lǐ yán xǐ	296
 李延霞	lǐ yán xiá	315
 李艳霞	lǐ yàn xiá	150
@@ -18965,13 +18965,13 @@ sort: by_weight
 钱是花	qián shì huā	296
 钱士晋	qián shì jìn	120
 钱士升	qián shì shēng	201
-钱似莺	qián shì yīng	210
 钱瘦铁	qián shòu tiě	222
 钱树芬	qián shù fēn	167
 钱树根	qián shù gēn	201
 钱输光	qián shū guāng	221
 钱嗣杰	qián sì jié	167
 钱思进	qián sī jìn	191
+钱似莺	qián sì yīng	210
 钱松喦	qián sōng niè	229
 钱松嵒	qián sōng yán	210
 钱肃乐	qián sù lè	229
@@ -33526,7 +33526,6 @@ sort: by_weight
 张士信	zhāng shì xìn	167
 张氏兄	zhāng shì xiōng	323
 张师兄	zhāng shī xiōng	178
-张似旭	zhāng shì xù	276
 张世铉	zhāng shì xuàn	112
 张士逊	zhāng shì xùn	229
 张世英	zhāng shì yīng	309
@@ -33660,6 +33659,7 @@ sort: by_weight
 张思维	zhāng sī wéi	237
 张思孝	zhāng sī xiào	167
 张嗣修	zhāng sì xiū	150
+张似旭	zhāng sì xù	276
 张思阳	zhāng sī yáng	1
 张四爷	zhāng sì yé	155
 张思雨	zhāng sī yǔ	159
@@ -36148,7 +36148,7 @@ sort: by_weight
 赵无延	zhào wú yán	201
 赵锡成	zhào xī chéng	279
 赵希成	zhào xī chéng	163
-赵希鹄	zhào xī gǔ	185
+赵希鹄	zhào xī hú	185
 赵希璜	zhào xī huáng	139
 赵希洛	zhào xī luò	277
 赵喜明	zhào xǐ míng	204
