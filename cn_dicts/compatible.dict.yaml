@@ -4,9 +4,17 @@
 #兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
 ---
 name: compatible
-version: "2025-01-30 18:15"
+version: "2025-01-30 20:18"
 sort: by_weight
 ...
+单行	dān xíng	504
+单行	dān háng	602
+串行	chuàn xíng	443
+串行	chuàn háng	543
+同行	tóng háng	714
+同行	tóng xíng	601
+多行	duō xíng	355
+多行	duō háng	491
 不了了	bù liǎo liǎo	542
 不了了	bù liǎo le	413
 肚子	dù zi	695
@@ -17,8 +25,6 @@ sort: by_weight
 浅浅	qiǎn qiǎn	671
 不了	bù liǎo	892
 不了	bù le	849
-同行	tóng háng	714
-同行	tóng xíng	601
 着人	zhuó rén	390
 闲着	xián zhāo	367
 闲着	xián zhe	567
