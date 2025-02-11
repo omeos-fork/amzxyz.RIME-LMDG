@@ -15,7 +15,7 @@ sort: by_weight
 腌	ā	268
 吖	ā	250
 啊	à	146
-啊	ǎ	1
+啊	ǎ	19
 呵	a	1
 錒	ā	1
 𠼞	ā	1
@@ -632,7 +632,6 @@ sort: by_weight
 𩹏	bà	1
 𩽷	bà	1
 𫓥	bā	1
-吧	ba	1
 白	bái	785
 百	bǎi	758
 佰	bǎi	712
@@ -12530,7 +12529,7 @@ sort: by_weight
 𪐦	hāng	1
 𪕇	hāng	1
 𪗜	háng	1
-好	hǎo	880
+好	hǎo	983
 号	hào	791
 好	hào	696
 豪	háo	685
@@ -12671,7 +12670,7 @@ sort: by_weight
 𩫚	háo	1
 𩮘	hāo	1
 𩲊	hào	1
-和	hé	905
+和	hé	985
 合	hé	839
 何	hé	804
 河	hé	742
@@ -13014,9 +13013,6 @@ sort: by_weight
 𫰟	héng	1
 堼	hèng	1
 行	héng	1
-哼	hng	1
-哼	hng	1
-乥	hol	1
 红	hóng	769
 洪	hóng	655
 宏	hóng	654
@@ -14713,6 +14709,7 @@ sort: by_weight
 咟	huò	150
 靃	huò	130
 騞	huō	124
+和	huo	111
 俰	huò	105
 奯	huò	105
 謋	huò	105
@@ -14850,7 +14847,6 @@ sort: by_weight
 𫉬	huò	1
 𫔓	huò	1
 𫙇	huò	1
-和	huo	1
 嚄	huō	1
 锪	huō	1
 即	jí	895
@@ -26088,9 +26084,6 @@ sort: by_weight
 嗯	ńg	332
 嗯	ňg	1
 㕶	ňg	1
-嗯	ńg	1
-嗯	ňg	1
-嗯	ǹg	1
 你	nǐ	861
 尼	ní	740
 拟	nǐ	696
@@ -50931,7 +50924,6 @@ sort: by_weight
 糳	zuò	50
 繓	zuǒ	50
 飵	zuò	38
-作	zuō	1
 岝	zuò	1
 撮	zuǒ	1
 𦈛	zuǒ	1
@@ -51010,6 +51002,7 @@ sort: by_weight
 𫝷	zuò	1
 呒	ḿ	1
 呣	ḿ	1
+乥	无	1
 夞	无	1
 𥩟	无	1
 𪸩	无	1
