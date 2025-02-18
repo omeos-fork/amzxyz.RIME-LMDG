@@ -4,7 +4,7 @@
 #------行政区划------
 ---
 name: place
-version: "2025-02-07 00:32"
+version: "2025-02-18 13:40"
 sort: by_weight
 ...
 阿坝	ā bà	601
@@ -18270,7 +18270,7 @@ sort: by_weight
 高田头村	gāo tián tóu cūn	1
 高铁官庄	gāo tiě guān zhuāng	1
 高铁岭镇	gāo tiě lǐng zhèn	203
-高头庄村	gāo tou zhuāng cūn	1
+高头庄村	gāo tóu zhuāng cūn	1
 高土坝村	gāo tǔ bà cūn	1
 高土洼村	gāo tǔ wā cūn	1
 高瓦房村	gāo wǎ fáng cūn	77
@@ -35900,7 +35900,7 @@ sort: by_weight
 王辛庄镇	wáng xīn zhuāng zhèn	260
 王杏兰乡	wáng xìng lán xiāng	1
 旺兴仁村	wàng xīng rén cūn	1
-旺兴头村	wàng xìng tou cūn	1
+旺兴头村	wàng xìng tóu cūn	1
 王兴庄村	wáng xīng zhuāng cūn	1
 王溆浦村	wáng xù pǔ cūn	35
 王学坊村	wáng xué fāng cūn	1
