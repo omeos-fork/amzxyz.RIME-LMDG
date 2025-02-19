@@ -4,7 +4,7 @@
 #------行政区划------
 ---
 name: place
-version: "2025-02-18 23:03"
+version: "2025-02-19 22:05"
 sort: by_weight
 ...
 阿坝	ā bà	601
@@ -58,8 +58,8 @@ sort: by_weight
 巴南	bā nán	541
 灞桥	bà qiáo	468
 巴青	bā qīng	315
-八宿	bā sù	491
 巴塘	bā táng	477
+八宿	bā xiǔ	491
 巴彦	bā yàn	564
 巴宜	bā yí	305
 巴中	bā zhōng	623
@@ -3181,9 +3181,9 @@ sort: by_weight
 灞桥区	bà qiáo qū	414
 巴青县	bā qīng xiàn	248
 巴仁乡	bā rén xiāng	215
-八宿县	bā sù xiàn	313
 巴塘县	bā táng xiàn	330
 巴腾堡	bā téng bǎo	252
+八宿县	bā xiǔ xiàn	313
 巴彦县	bā yàn xiàn	376
 巴宜区	bā yí qū	1
 八一镇	bā yī zhèn	393
@@ -18716,7 +18716,7 @@ sort: by_weight
 古牧地镇	gǔ mù dì zhèn	235
 古母洞村	gǔ mǔ dòng cūn	1
 牯牛洲村	gǔ niú zhōu cūn	1
-古朴端庄	gǔ piáo duān zhuāng	274
+古朴端庄	gǔ pǔ duān zhuāng	274
 谷前堡镇	gǔ qián bǎo zhèn	77
 姑嫂寺村	gū sǎo sì cūn	1
 孤山口村	gū shān kǒu cūn	35
