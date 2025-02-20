@@ -79,9 +79,10 @@ octagram:
 万象词库的四个字词组中不包含我们常常看到且非常熟悉的高频组合，这些词汇将由2+2的基础词库来组合起来，如：人工智能 工作模式 等等，以此为词库减重，因为模型已经容纳了1000万行，在不丢失多音字词组读音特征的情况下最大限度简化词库，词库与模型之间互相配合相互互补，因此为长期支持，再大规模的语料也总有偶然性，我们需要在长期使用中验证和消除错误的发生概率。
 ### 鸣谢：
 分词工具：具有多种编程语言变种的词典分词工具"[结巴分词](https://github.com/fxsjy/jieba)"
+
 拼音标注：支持多种拼音标注类型的汉字转拼音工具"[python-pinyin](https://github.com/mozillazg/python-pinyin)"
 
-### 赞赏:
+### 赞赏：
 如果觉得项目好用，可以请AMZ喝咖啡
    
    <img src="https://github.com/amzxyz/rime_wanxiang_pro/blob/main/.github/%E8%B5%9E%E8%B5%8F.png" width="400">   
