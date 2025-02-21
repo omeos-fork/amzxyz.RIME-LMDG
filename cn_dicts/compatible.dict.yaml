@@ -4,7 +4,7 @@
 #兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
 ---
 name: compatible
-version: "2025-02-19 22:05"
+version: "2025-02-21 14:08"
 sort: by_weight
 ...
 就得到	jiù děi dào	498
@@ -23,8 +23,10 @@ sort: by_weight
 多行	duō háng	491
 不了了	bù liǎo liǎo	542
 不了了	bù liǎo le	413
-肚子	dù zi	695
+肚子	dù zi	650
 肚子	dǔ zi	312
+落了	là le	542
+落了	luò le	603
 迫降	pò xiáng	120
 迫降	pò jiàng	523
 浅浅	jiān jiān	471
@@ -89,15 +91,24 @@ sort: by_weight
 不长	bù zhǎng	329
 长的	cháng de	802
 长牙	cháng yá	84
+长头发	cháng tóu fā	503
+长头发	zhǎng tóu fā	503
+长尾巴	cháng wěi bā	399
+长尾巴	zhǎng wěi bā	399
+长细纹	cháng xì wén	250
+长细纹	zhǎng xì wén	250
+长羽毛	cháng yǔ máo	252
+长羽毛	zhǎng yǔ máo	252
+区队长	qū duì zhǎng
 重活	chóng huó	120
 重天	chóng tiān	497
-穿着	chuān zhe	1000
+穿着	chuān zhe	742
 穿着	chuān zhuó	644
 调配	diào pèi	688
 更为	gèng wèi	965
 更为	gēng wéi	915
 行长	háng zhǎng	466
-见长	jiàn cháng	472
+见长	jiàn cháng	510
 见长	jiàn zhǎng	621
 落下	là xià	764
 累累	léi léi	577
@@ -129,7 +140,7 @@ sort: by_weight
 血晕	xiě yùn	222
 血晕	xuè yùn	68
 一行	yì háng	620
-一通	yí tòng	710
+一通	yí tòng	700
 一通	yì tōng	608
 一行	yì xíng	530
 越长	yuè cháng	271
