@@ -3,7 +3,7 @@
 #https://github.com/amzxyz/RIME-LMDG
 ---
 name: chars
-version: "2025-02-22 16:55"
+version: "2025-02-22 23:11"
 sort: by_weight
 ...
 啊	a	915
@@ -11611,8 +11611,8 @@ sort: by_weight
 𫟜	guàn	1
 𫟜	guān	1
 𫩙	guàn	1
+光	guāng	789
 广	guǎng	784
-光	guāng	782
 逛	guàng	659
 胱	guāng	512
 犷	guǎng	459
@@ -19463,10 +19463,10 @@ sort: by_weight
 𥟓	kuǎn	1
 𥦀	kuān	1
 𫎉	kuǎn	1
-况	kuàng	774
+框	kuàng	698
+况	kuàng	679
 狂	kuáng	676
 矿	kuàng	658
-框	kuàng	627
 旷	kuàng	537
 匡	kuāng	508
 眶	kuàng	504
