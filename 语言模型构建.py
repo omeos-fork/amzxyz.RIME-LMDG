@@ -293,11 +293,16 @@ def merge_ngram_files(file_list, output_file, batch_size=20000):
 # ========== 生成 .gram 文件 ==========
 def generate_gram_file(merged_file, language):
     # 生成带语言和自定义名称的 .gram 文件
-    cmd = f"cat {merged_file} | ./build_grammar {language} > {language}.gram"
+    cmd = f"./build_grammar {language} < {merged_file}"
     exit_code = os.system(cmd)
     if exit_code != 0:
         raise RuntimeError(f"生成 .gram 文件失败，退出代码: {exit_code}")
-    print(f".gram 文件已生成：{language}.gram")
+    
+    # 重命名文件，标记为完成
+    final_name = f"wanxiang-lts-{language}.gram"
+    os.rename(f"{language}.gram", final_name)
+    print(f".gram 文件已生成并重命名为：{final_name}")
+
 
 # ========== 主函数 ==========
 def main(use_existing_segmentation=False, ngram_order=3):
