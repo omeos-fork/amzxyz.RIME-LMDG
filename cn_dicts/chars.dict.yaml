@@ -3,7 +3,7 @@
 #https://github.com/amzxyz/RIME-LMDG
 ---
 name: chars
-version: "2025-02-27 22:32"
+version: "2025-03-01 17:36"
 sort: by_weight
 ...
 啊	a	915
@@ -5189,11 +5189,11 @@ sort: by_weight
 𩗰	chuí	1
 𩭦	chuí	1
 𪯌	chuí	1
-春	chūn	730
-纯	chún	698
+纯	chún	730
+蠢	chǔn	725
+春	chūn	698
 醇	chún	617
 唇	chún	611
-蠢	chǔn	579
 淳	chún	553
 椿	chūn	493
 鹑	chún	486
@@ -21367,9 +21367,9 @@ sort: by_weight
 蠡	lí	1
 俩	liǎ	637
 倆	liǎ	334
-联	lián	795
 连	lián	766
 练	liàn	761
+联	lián	755
 脸	liǎn	719
 链	liàn	716
 恋	liàn	699
